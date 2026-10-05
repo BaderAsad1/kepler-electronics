@@ -23,7 +23,10 @@
     "assets:source": "tsx scripts/migration/optimize-assets.ts",
     "assets:restore": "tsx scripts/restore-assets.ts",
     "capture:site": "tsx scripts/capture-site.ts",
-    "capture:source": "tsx scripts/capture-source-details.ts"
+    "capture:source": "tsx scripts/capture-source-details.ts",
+    "migrate:documents": "tsx scripts/migration/reconcile-documents.ts",
+    "verify:preview": "tsx scripts/verify-preview.ts",
+    "measure:preview": "tsx scripts/measure-preview.ts"
   },
   "dependencies": {
     "@supabase/supabase-js": "2.117.2",

@@ -37,7 +37,7 @@ try {
     const woo=d.querySelector('.product.type-product');
     const dataRoot=woo||entry;
     const images=[...(dataRoot?.querySelectorAll('img')||[])].map(i=>({source:i.getAttribute('data-large_image')||i.getAttribute('data-src')||i.getAttribute('src')||'',alt:i.getAttribute('alt')||'',kind:'image'})).filter(i=>i.source.startsWith('https://kepler-elec.com/wp-content/uploads/'));
-    const docs=[...(dataRoot?.querySelectorAll('a[href]')||[])].map(a=>({source:(a as HTMLAnchorElement).href,alt:a.textContent?.trim()||'Technical document',kind:'download'})).filter(a=>/\.(pdf|docx?|xlsx?|zip)(\?|$)/i.test(a.source));
+    const docs=[...(dataRoot?.querySelectorAll('a[href]')||[])].map(a=>({source:(a as HTMLAnchorElement).href,alt:a.textContent?.trim()||'Technical document',kind:'download'})).filter(a=>/\.(pdf|docx?|xlsx?|zip)(\?|$)/i.test(a.source)||new URL(a.source).hostname==='www.loytec.com'&&new URL(a.source).pathname.includes('/doc_download/'));
     if(location.pathname==='/')images.push(...[...d.querySelectorAll('.custom-logo')].map(i=>({source:(i as HTMLImageElement).src,alt:'Kepler Electronics logo',kind:'logo'})));
     const specs:Record<string,string>={};dataRoot?.querySelectorAll('table tr').forEach(tr=>{const cells=[...tr.querySelectorAll('th,td')].map(x=>x.textContent?.trim()||'');if(cells.length===2&&cells[0]&&cells[1])specs[cells[0]]=cells[1];});
     const classes=(article?.className||'').split(/\s/);const categoryLinks=[...d.querySelectorAll('.kadence-breadcrumb-container a,.posted_in a')].map(a=>a.getAttribute('href')||'').filter(u=>u.includes('category/'));
@@ -48,9 +48,9 @@ try {
    snap={url,...extracted,status,fetchedAt:new Date().toISOString(),hash:hash(extracted.html),screenshot:null,visualStatus:'not-inspected',reviewFlags:['business-review-pending','asset-rights-review-pending']};
    if(status===200){
     for(const asset of snap.assets){
-     const ext=path.extname(new URL(asset.source).pathname).toLowerCase();const destination='public/media/'+hash(asset.source).slice(0,16)+ext;asset.path=destination.replace(/^public/,'');
+     const ext=new URL(asset.source).pathname.includes('/doc_download/')?'.pdf':path.extname(new URL(asset.source).pathname).toLowerCase();const destination='public/media/'+hash(asset.source).slice(0,16)+ext;asset.path=destination.replace(/^public/,'');
      if(!await exists(destination)){
-      try{const res=await context.request.get(asset.source,{timeout:25000});asset.status=res.status();if(res.ok()){const buffer=await res.body();if(buffer.length<25*1024*1024)await writeFile(destination,buffer);else snap.reviewFlags.push('asset-over-size-limit:'+asset.source);}else asset.path=undefined;}catch{asset.path=undefined;snap.reviewFlags.push('asset-unreachable:'+asset.source);}
+      try{const res=await context.request.get(asset.source,{timeout:25000});asset.status=res.status();if(res.ok()){const buffer=await res.body();if(buffer.length>=64*1024*1024){asset.path=undefined;snap.reviewFlags.push('asset-over-size-limit:'+asset.source);}else if(ext==='.pdf'&&buffer.subarray(0,5).toString()!=='%PDF-'){asset.path=undefined;snap.reviewFlags.push('asset-not-pdf:'+asset.source);}else await writeFile(destination,buffer);}else asset.path=undefined;}catch{asset.path=undefined;snap.reviewFlags.push('asset-unreachable:'+asset.source);}
      }else asset.status=200;
     }
     await page.waitForTimeout(350);

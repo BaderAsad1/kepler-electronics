@@ -10,6 +10,7 @@ Use Node 24 and PostgreSQL 16 or a compatible Supabase Postgres database.
 
 ```sh
 npm ci
+npm run assets:restore
 cp .env.example .env.local
 # Configure DATABASE_URL through the environment or a root .env file.
 npm run db:setup
@@ -31,6 +32,7 @@ npm test
 npm run test:e2e
 npm run build
 npm run migrate:discover
+npm run migrate:documents
 npm run assets:source
 npm run migrate:import
 npm run export:content
@@ -40,7 +42,7 @@ npm run assets:optimize
 npm run build:pages
 ```
 
-`npm test` and the browser suite create private, temporary database schemas and use example.invalid contacts. Set `TEST_DATABASE_URL` for a separate test database. They do not send test email or create Stripe charges. Chrome is required for browser checks. `migrate:discover` resumes the source crawl; `MIGRATION_LIMIT` and `MIGRATION_DELAY_MS` control its bounded scope/rate. Captured screenshots are review material, not automatic approval.
+`npm test` and the browser suite create private, temporary database schemas and use example.invalid contacts. Set `TEST_DATABASE_URL` for a separate test database. They do not send test email or create Stripe charges. Chrome is required for browser checks. `migrate:discover` resumes the source crawl; `MIGRATION_LIMIT` and `MIGRATION_DELAY_MS` control its bounded scope/rate. `migrate:documents` reconciles extensionless manufacturer links already captured in source HTML; it caches valid PDFs and records unavailable documents without bypassing access restrictions. Upload new checksum-listed PDFs to the controlled release before publishing. Captured screenshots are review material, not automatic approval.
 
 Generated image masters are cached. `assets:generate` only requests missing assets and requires an authorised API key if using the API fallback. Seven existing assets were generated with the native image tool. Their conceptual status, prompts and review notes are in `assets/asset-manifest.json`.
 

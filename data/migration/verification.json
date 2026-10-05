@@ -1,5 +1,5 @@
 {
-  "verifiedAt": "2026-10-05T15:29:35.601Z",
+  "verifiedAt": "2026-10-05T16:29:37.169Z",
   "discovered": 944,
   "reachable": 940,
   "counts": {
@@ -7,7 +7,7 @@
     "projects": 29,
     "content": 13
   },
-  "mediaPaths": 2179,
+  "mediaPaths": 2326,
   "redirects": 1778,
   "errors": []
 }

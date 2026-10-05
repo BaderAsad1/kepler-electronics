@@ -826,13 +826,90 @@
         "kind": "image",
         "path": "/media/59bb60c1a744cbd4.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2177-lroc-400-lroc-401-lroc-402-datasheet",
+        "alt": "LROC-40x Datasheet",
+        "kind": "download",
+        "path": "/media/d60851a0f9f20812.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2184-LROC-40x-Installation-Instructions",
+        "alt": "LROC-40x Installation Instructions",
+        "kind": "download",
+        "path": "/media/ba587be1e9c9fd83.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2428-L-ROC-User-Manual-3.0.10-(for-L-STUDIO-3.x)",
+        "alt": "L-ROC User Manual",
+        "kind": "download",
+        "path": "/media/ae8ccc70b2a24cc5.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2215",
+        "alt": "General I/O Specifications",
+        "kind": "download",
+        "path": "/media/86f04c799a0b2b55.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2164-AMEV-Self-declaration-L-INX-/-L-GATE-/-L-ROC-/-L-DALI",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2249-BTL-Certificate-LINX-xxx,-LGATE-xxx,-LROC-xxx,-LDALI-xxx,-LIP-xxx",
+        "alt": "BTL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark-Certificates",
+        "alt": "UL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2516-DALI-2-Certificate-f%C3%BCr-LROC-400",
+        "alt": "DALI-2",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2284-MP-Bus-Certificate",
+        "alt": "MP-BUS",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2252-SMI-Certificate:-LSMI-800,-LSMI-804,-LROC-40x",
+        "alt": "SMI",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2483",
+        "alt": "EnOcean",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "828bc84c1743fdfa833a413956ea4fd20ea2823f2d421454761a07ca89d71967",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2164-AMEV-Self-declaration-L-INX-/-L-GATE-/-L-ROC-/-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2249-BTL-Certificate-LINX-xxx,-LGATE-xxx,-LROC-xxx,-LDALI-xxx,-LIP-xxx",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2516-DALI-2-Certificate-f%C3%BCr-LROC-400",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2284-MP-Bus-Certificate",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2252-SMI-Certificate:-LSMI-800,-LSMI-804,-LROC-40x",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2483"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/8662250f85cf2c7a.jpg"
@@ -1132,13 +1209,62 @@
         "kind": "image",
         "path": "/media/59bb60c1a744cbd4.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2428-L-ROC-User-Manual-3.0.10-(for-L-STUDIO-3.x)",
+        "alt": "L-ROC User Manual",
+        "kind": "download",
+        "path": "/media/ae8ccc70b2a24cc5.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2164-AMEV-Self-declaration-L-INX-/-L-GATE-/-L-ROC-/-L-DALI",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2249-BTL-Certificate-LINX-xxx,-LGATE-xxx,-LROC-xxx,-LDALI-xxx,-LIP-xxx",
+        "alt": "BTL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2178-lroc-102-datasheet",
+        "alt": "LROC-102 Datasheet",
+        "kind": "download",
+        "path": "/media/71331ba8d646ca3b.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2190-LROC-102-Installation-Instructions",
+        "alt": "LROC-102 Installation Instructions",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2049-EC-Declaration-LROC-10x",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2403-UL-Listed-Mark-Certificates",
+        "alt": "UL",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "0bfde40ba2b0bce612c82564e2b28dc22d1b662d9cbd0b8e20ef326db18429f0",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2164-AMEV-Self-declaration-L-INX-/-L-GATE-/-L-ROC-/-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2249-BTL-Certificate-LINX-xxx,-LGATE-xxx,-LROC-xxx,-LDALI-xxx,-LIP-xxx",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2190-LROC-102-Installation-Instructions",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2049-EC-Declaration-LROC-10x",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2403-UL-Listed-Mark-Certificates"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/c48acacd5e49a405.jpg"
@@ -1291,13 +1417,62 @@
         "kind": "image",
         "path": "/media/16a484de5d5b1340.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2319-L-FOCUS:-Visualization-Solutions-with-L-VIS,-L-STAT,-L-WEB-(English)",
+        "alt": "Visualization Solutions Brochure",
+        "kind": "download",
+        "path": "/media/0b8da3f570bcdf37.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2095",
+        "alt": "LVIS-3MEx Datasheet",
+        "kind": "download",
+        "path": "/media/0c4896048b65c4ba.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/380-L-VIS-/-L-PAD-User-Manual-7.6",
+        "alt": "L-VIS / L-PAD User Manual",
+        "kind": "download",
+        "path": "/media/d5eb144b4b2f5230.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2083-LVIS-3MEx-Installation-Instructions",
+        "alt": "LVIS-3MEx Installation Instructions",
+        "kind": "download",
+        "path": "/media/7ca6dc0323c1cb36.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1574-EC-Declaration-L-VIS",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2460-BTL-Certificate-L-VIS-/-L-PAD",
+        "alt": "BTL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2253-UL-Listed-Mark-Certificate-(L-VIS,-L-STAT)",
+        "alt": "UL",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "4e76c526fc8dd7e83fbeef0f0d63bcb8b45734835fbf0de54625126a0902b7c1",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1574-EC-Declaration-L-VIS",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2460-BTL-Certificate-L-VIS-/-L-PAD",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2253-UL-Listed-Mark-Certificate-(L-VIS,-L-STAT)"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/40debc091250b5db.jpg"
@@ -1523,13 +1698,48 @@
         "kind": "image",
         "path": "/media/234dc941bfaeb0dd.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2460-BTL-Certificate-L-VIS-/-L-PAD",
+        "alt": "BTL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2362-lpad-7-programmable-touch-panels-datasheet",
+        "alt": "LPAD-7 Datasheet",
+        "kind": "download",
+        "path": "/media/688c9ef50c524ad8.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/380-L-VIS-/-L-PAD-User-Manual-7.4.8",
+        "alt": "L-VIS / L-PAD User Manual",
+        "kind": "download",
+        "path": "/media/a6d19fceccab14bd.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2363-LPAD-7-Installation-Instructions",
+        "alt": "LPAD-7 Installation Instructions",
+        "kind": "download",
+        "path": "/media/ecc7f8b4173f0a5b.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2448-EC-Declaration-L-PAD",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "05119b1aa3d3ff9ac82d4181e4cb1e9a9724ac2276de3ddef3e848d00869da6c",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2460-BTL-Certificate-L-VIS-/-L-PAD",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2448-EC-Declaration-L-PAD"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; critical-details-reviewed; full-mobile-below-fold-review-pending",
     "screenshot": "docs/screenshots/source/75f68ae54062090c.jpg"
@@ -2736,13 +2946,41 @@
         "kind": "image",
         "path": "/media/693c80ca493b6365.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2261-loydvs-110w02-3sfp-dvs-110w02-3sfp-datasheet",
+        "alt": "DVS-110W02-3SFP Datasheet",
+        "kind": "download",
+        "path": "/media/f9431a550df11510.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2281-DVS-110W02-3SFP-Installation-Instructions",
+        "alt": "DVS-110W02-3SFP Installation Instructions",
+        "kind": "download",
+        "path": "/media/ecb52ffec48930de.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2258-EC-Declaration-DVS",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2277-UL-Listed-Mark-Certificate-(DVS)",
+        "alt": "UL",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "0a686ff89cf79b972fbfd900a0f68d6256f35e0f3654d77080e96df52ca7bfe9",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2258-EC-Declaration-DVS",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2277-UL-Listed-Mark-Certificate-(DVS)"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/b1f85c7c23c8c482.jpg"
@@ -2776,13 +3014,41 @@
         "kind": "image",
         "path": "/media/2284d129444189a7.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2258-EC-Declaration-DVS",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2277-UL-Listed-Mark-Certificate-(DVS)",
+        "alt": "UL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2262-loydvs-008i00-dvs-008i00-datasheet",
+        "alt": "DVS-008I00 Datasheet",
+        "kind": "download",
+        "path": "/media/4a2a3b6c48e7ccf8.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2282-DVS-008I00-Installation-Instructions",
+        "alt": "DVS-008I00 Installation Instructions",
+        "kind": "download",
+        "path": "/media/4a8bc5fdf0b3bc0f.pdf",
+        "status": 200
       }
     ],
     "contentHash": "c0eb1c36cc035ff385e3d3450c2f9526714542d62638a896581188efe192d60b",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2258-EC-Declaration-DVS",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2277-UL-Listed-Mark-Certificate-(DVS)"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/f7fa6cb8b6c69f20.jpg"
@@ -4335,13 +4601,62 @@
         "kind": "image",
         "path": "/media/6c536c91507f16e6.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2457",
+        "alt": "LIOB-595 Datasheet",
+        "kind": "download",
+        "path": "/media/98dacaecdae591c6.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2435",
+        "alt": "LIOB-595 Installation Instructions",
+        "kind": "download",
+        "path": "/media/909af8e63f180410.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1994-L-IOB-I/O-Controller-User-Manual-7.6",
+        "alt": "L-IOB I/O Controller User Manual",
+        "kind": "download",
+        "path": "/media/dd8f9e059c5c1dfc.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2215-General-Input-and-Output-Specification-of-LOYTEC-devices",
+        "alt": "General I/O Specifications",
+        "kind": "download",
+        "path": "/media/5a7ab759a465fbc9.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2001-l-iob-device-selector?Itemid=197",
+        "alt": "L-IOB Device Selector",
+        "kind": "download",
+        "path": "/media/283f38c6de7c26ab.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx",
+        "alt": "BTL",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "e20a1ba13cc9165badf59ce5748881894f60231f6d0318e3ac1b7c599fa7ca0c",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/c6233a787ef38d18.jpg"
@@ -4396,13 +4711,69 @@
         "kind": "image",
         "path": "/media/f0908441b68401a8.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2215",
+        "alt": "General I/O Specifications",
+        "kind": "download",
+        "path": "/media/86f04c799a0b2b55.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1994-L-IOB-I/O-Controller-User-Manual-7.6",
+        "alt": "L-IOB I/O Controller User Manual",
+        "kind": "download",
+        "path": "/media/dd8f9e059c5c1dfc.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2001-l-iob-device-selector?Itemid=197",
+        "alt": "L-IOB Device Selector",
+        "kind": "download",
+        "path": "/media/283f38c6de7c26ab.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx",
+        "alt": "BTL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2374-liob-590-datasheet?Itemid=2374",
+        "alt": "LIOB-590 Datasheet",
+        "kind": "download",
+        "path": "/media/132be8dee27b3c6b.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2369-LIOB-590-Installation-Instructions",
+        "alt": "LIOB-590 Installation Instructions",
+        "kind": "download",
+        "path": "/media/5fb1838c2f6862ce.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2165-AMEV-Self-declaration-L-IOB",
+        "alt": "AMEV",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "c51a055b82c20b4d8cae26fcbcfcad9a8311aa96d399338fb69cb18b6043167e",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2165-AMEV-Self-declaration-L-IOB"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/4e024da5c2349b30.jpg"
@@ -4520,13 +4891,62 @@
         "kind": "image",
         "path": "/media/6c536c91507f16e6.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1994-L-IOB-I/O-Controller-User-Manual-7.6",
+        "alt": "L-IOB I/O Controller User Manual",
+        "kind": "download",
+        "path": "/media/dd8f9e059c5c1dfc.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2215-General-Input-and-Output-Specification-of-LOYTEC-devices",
+        "alt": "General I/O Specifications",
+        "kind": "download",
+        "path": "/media/5a7ab759a465fbc9.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2001-l-iob-device-selector?Itemid=197",
+        "alt": "L-IOB Device Selector",
+        "kind": "download",
+        "path": "/media/283f38c6de7c26ab.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx",
+        "alt": "BTL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2458-LIOB-596-Datasheet",
+        "alt": "LIOB-596 Datasheet",
+        "kind": "download",
+        "path": "/media/bca231e079fade38.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2436-LIOB-596-Installation-Instructions",
+        "alt": "LIOB-596 Installation Sheet",
+        "kind": "download",
+        "path": "/media/957f3080dc4d0e27.pdf",
+        "status": 200
       }
     ],
     "contentHash": "59786641de36fafb68b00c7de1da7de989435845c91d68e784b9580066c4ed88",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/22459ff87f581e35.jpg"
@@ -4630,13 +5050,55 @@
         "kind": "image",
         "path": "/media/081081b12e4eacf4.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2164-AMEV-Self-declaration-L-INX-/-L-GATE-/-L-ROC-/-L-DALI",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark-Certificates",
+        "alt": "UL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2126-lgate-902-datasheet",
+        "alt": "LGATE-902 Datasheet",
+        "kind": "download",
+        "path": "/media/caaf8531db959ca5.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2173",
+        "alt": "LGATE-902 Installation Instructions",
+        "kind": "download",
+        "path": "/media/45222c0c5ae25869.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2158-L-INX-/-L-GATE-User-Manual-7.6",
+        "alt": "L-INX / L-GATE User Manual",
+        "kind": "download",
+        "path": "/media/6d4c1ac75f883381.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1527-EC-Declaration-L-GATE",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "1a2a8b8d6665fd207be67851601f748d65906c01b2d61294cf96c01586822136",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2164-AMEV-Self-declaration-L-INX-/-L-GATE-/-L-ROC-/-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1527-EC-Declaration-L-GATE"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/959b60bb9872cfba.jpg"
@@ -4908,13 +5370,69 @@
         "kind": "image",
         "path": "/media/59bb60c1a744cbd4.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2215",
+        "alt": "General I/O Specifications",
+        "kind": "download",
+        "path": "/media/86f04c799a0b2b55.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1994-L-IOB-I/O-Controller-User-Manual-7.6",
+        "alt": "L-IOB I/O Controller User Manual",
+        "kind": "download",
+        "path": "/media/dd8f9e059c5c1dfc.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2001-l-iob-device-selector?Itemid=197",
+        "alt": "L-IOB Device Selector",
+        "kind": "download",
+        "path": "/media/283f38c6de7c26ab.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx",
+        "alt": "BTL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2165-AMEV-Self-declaration-L-IOB",
+        "alt": "AMEV",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2415-LIOB-591-Datasheet",
+        "alt": "LIOB-591 Datasheet",
+        "kind": "download",
+        "path": "/media/b53b45b10a57b44d.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2358-LIOB-591-Installation-Instructions",
+        "alt": "LIOB-591 Installation Instructions",
+        "kind": "download",
+        "path": "/media/e346f4b6042d1d1b.pdf",
+        "status": 200
       }
     ],
     "contentHash": "4054110e608d5c720c1b7104ddb93ca401285ca26fd6a5c87421691d97d104de",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2165-AMEV-Self-declaration-L-IOB"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/62900949636b31ed.jpg"
@@ -5079,13 +5597,83 @@
         "kind": "image",
         "path": "/media/6c536c91507f16e6.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2215",
+        "alt": "General I/O Specifications",
+        "kind": "download",
+        "path": "/media/86f04c799a0b2b55.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2284-MP-Bus-Certificate",
+        "alt": "MP-BUS",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2403-UL-Listed-Mark-Certificates",
+        "alt": "UL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1994-L-IOB-I/O-Controller-User-Manual-7.6",
+        "alt": "L-IOB I/O Controller User Manual",
+        "kind": "download",
+        "path": "/media/dd8f9e059c5c1dfc.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2001-l-iob-device-selector?Itemid=197",
+        "alt": "L-IOB Device Selector",
+        "kind": "download",
+        "path": "/media/283f38c6de7c26ab.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx",
+        "alt": "BTL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2165-AMEV-Self-declaration-L-IOB",
+        "alt": "AMEV",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2270-liob-585-datasheet?Itemid=2270",
+        "alt": "LIOB-585 Datasheet",
+        "kind": "download",
+        "path": "/media/2d4b35c580fd49f2.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2269-LIOB-585-Installation-Instructions",
+        "alt": "LIOB-585 Installation Instructions",
+        "kind": "download",
+        "path": "/media/11afa9bb61973e06.pdf",
+        "status": 200
       }
     ],
     "contentHash": "d92cfd3ddb0ac6a6c4f4b68fc049d8f2d0c0cc5fca2ad2490a814e66929a8b27",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2284-MP-Bus-Certificate",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2403-UL-Listed-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2165-AMEV-Self-declaration-L-IOB"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/140077da8fcc8d0a.jpg"
@@ -5229,13 +5817,55 @@
         "kind": "image",
         "path": "/media/081081b12e4eacf4.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2249-BTL-Certificate-LINX-xxx,-LGATE-xxx,-LROC-xxx,-LDALI-xxx,-LIP-xxx",
+        "alt": "BTL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2403-UL-Listed-Mark-Certificates",
+        "alt": "UL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2158-L-INX-/-L-GATE-User-Manual-7.6",
+        "alt": "L-INX / L-GATE User Manual",
+        "kind": "download",
+        "path": "/media/6d4c1ac75f883381.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1527-EC-Declaration-L-GATE",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/1986-lgate-952-datasheet",
+        "alt": "LGATE-952",
+        "kind": "download",
+        "path": "/media/b0f6d5956514b218.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2192-LGATE-952-Installation-Instructions",
+        "alt": "LGATE-952 Installation Instructions",
+        "kind": "download",
+        "path": "/media/ffd7c8d1aa30cb5d.pdf",
+        "status": 200
       }
     ],
     "contentHash": "48aff6784d5c916402b33ef042d674ecd3a6b6bfadb31a26f9d76e2fd5ccaf7c",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2249-BTL-Certificate-LINX-xxx,-LGATE-xxx,-LROC-xxx,-LDALI-xxx,-LIP-xxx",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2403-UL-Listed-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1527-EC-Declaration-L-GATE"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/2fecd28c5c69169f.jpg"
@@ -5333,13 +5963,34 @@
         "kind": "image",
         "path": "/media/8c2a56ba7a4937fc.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2425-LOYREL-816-Datasheet",
+        "alt": "LOYREL-816 Datasheet",
+        "kind": "download",
+        "path": "/media/824dfedba4b94377.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2424-LOYREL-816-Installation-Instructions",
+        "alt": "LOYREL-816 Installation Sheet",
+        "kind": "download",
+        "path": "/media/dec0cd40bd631c4c.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2481-EC-Declaration-L-TRIAC16-/-LOYREL-816",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "27acea400d6ec431e2f28af8bd9b8ae1c72f19e1c8818ebc1596f8107bab1e36",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2481-EC-Declaration-L-TRIAC16-/-LOYREL-816"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/4a21f45b5e2257d8.jpg"
@@ -5366,13 +6017,34 @@
         "kind": "image",
         "path": "/media/6fa380d24c3118e1.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2252-SMI-Certificate:-LSMI-800,-LSMI-804,-LROC-40x",
+        "alt": "SMI",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2145-LOYTEC-Device-User-Manual-7.6",
+        "alt": "LOYTEC Device User Manual",
+        "kind": "download",
+        "path": "/media/3052052c61475c14.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2166-EC-Declaration-L-SMI",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "9513ec481844587bf27813f7f3f421ebdb40b62a1fd2c195a5857f93096a715e",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2252-SMI-Certificate:-LSMI-800,-LSMI-804,-LROC-40x",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2166-EC-Declaration-L-SMI"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/829f016541a2a43b.jpg"
@@ -5406,13 +6078,41 @@
         "kind": "image",
         "path": "/media/d0d9269eadf9c4ef.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2483",
+        "alt": "EnOcean",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2084-leno-80x-datasheet",
+        "alt": "L-ENO Datasheet",
+        "kind": "download",
+        "path": "/media/f023ced3801c66da.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2089-LENO-800,-LENO-801,-LENO-802-Installation-Instructions",
+        "alt": "LENO-800, LENO-801, LENO-802 Installation Instructions",
+        "kind": "download",
+        "path": "/media/ae06c7e48630b1be.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2086-EC-Declaration-L-ENO",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "65032e7e1cc38f929215bf50e5d7b0f7d6528e9330f3593c8b78f6fc6e7bd060",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2483",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2086-EC-Declaration-L-ENO"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/3ce1066c409ab609.jpg"
@@ -5439,13 +6139,34 @@
         "kind": "image",
         "path": "/media/57229ffa5f5aae13.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2226-lmpbus-804-datasheet",
+        "alt": "LMPBUS-804 Datasheet",
+        "kind": "download",
+        "path": "/media/d634b19a3dea21d9.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2231-L-MPBUS-Installation-Instructions",
+        "alt": "L-MPBUS Installation Instructions",
+        "kind": "download",
+        "path": "/media/46da3ba66bfe1e60.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2259-EC-Declaration-LMPBUS-804",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "f06aa77ab2d28866c59623933bf157feea3615e52d3a5f927e676e40de139789",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2259-EC-Declaration-LMPBUS-804"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/50e034f74b2e717c.jpg"
@@ -5499,6 +6220,20 @@
         "alt": "LPA_SW",
         "kind": "image",
         "path": "/media/2233341a70756448.png",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/110-lpa-datasheet",
+        "alt": "LPA Datasheet",
+        "kind": "download",
+        "path": "/media/c13da014a106c319.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/404-LPA/LPA-IP-User-Manual-3.7",
+        "alt": "LPA/LPA-IP User Manual",
+        "kind": "download",
+        "path": "/media/b5f4a6bf04cbd220.pdf",
         "status": 200
       }
     ],
@@ -5575,13 +6310,48 @@
         "kind": "image",
         "path": "/media/62c466fb6b1687e1.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2249-BTL-Certificate-LINX-xxx,-LGATE-xxx,-LROC-xxx,-LDALI-xxx,-LIP-xxx",
+        "alt": "BTL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2403-UL-Listed-Mark-Certificates",
+        "alt": "UL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/498-lip-me20xc-datasheet",
+        "alt": "LIP-ME20xC Datasheet",
+        "kind": "download",
+        "path": "/media/8c3c0a95548a9371.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/629-LIP-ME20x-User-Manual-7.6",
+        "alt": "LIP-ME20x User Manual",
+        "kind": "download",
+        "path": "/media/b3cedea60469eb71.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1538-EC-Declaration-L-IP",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "a327398da05cd2845c17ebabe729cd8c9f60c4d00e5f114d2e9deafe587d8905",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2249-BTL-Certificate-LINX-xxx,-LGATE-xxx,-LROC-xxx,-LDALI-xxx,-LIP-xxx",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2403-UL-Listed-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1538-EC-Declaration-L-IP"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/93db5c786157e53e.jpg"
@@ -5678,13 +6448,55 @@
         "kind": "image",
         "path": "/media/314083c17e6d4fdc.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2403-UL-Listed-Mark-Certificates",
+        "alt": "UL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1538-EC-Declaration-L-IP",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2123-lip-xectc-datasheet",
+        "alt": "LIP-xECTC Datasheet",
+        "kind": "download",
+        "path": "/media/8e276036a71fb202.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2189-LIP-3333ECTC-Installation-Instructions",
+        "alt": "LIP-3333ECTC",
+        "kind": "download",
+        "path": "/media/45ffdafdaa5aa34e.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2125-LIP-1ECTC,-LIP-3ECTC,-LIP-33ECTC-Installation-Instructions",
+        "alt": "LIP-1ECTC / LIP-3ECTC / LIP-33ECTC",
+        "kind": "download",
+        "path": "/media/f8eb363dccf2ecce.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2-L-IP-User-Manual-7.4",
+        "alt": "L-IP User Manual",
+        "kind": "download",
+        "path": "/media/06fc7faf1363c8fb.pdf",
+        "status": 200
       }
     ],
     "contentHash": "39994e92d42a82c770dc2803ece7c6f62ec5aca902ad81b7237fc5798c7dba93",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2403-UL-Listed-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1538-EC-Declaration-L-IP"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/3661d4b5a52edfc5.jpg"
@@ -5802,13 +6614,62 @@
         "kind": "image",
         "path": "/media/6c536c91507f16e6.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2215",
+        "alt": "General I/O Specifications",
+        "kind": "download",
+        "path": "/media/86f04c799a0b2b55.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1994-L-IOB-I/O-Controller-User-Manual-7.6",
+        "alt": "L-IOB I/O Controller User Manual",
+        "kind": "download",
+        "path": "/media/dd8f9e059c5c1dfc.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2001-l-iob-device-selector?Itemid=197",
+        "alt": "L-IOB Device Selector",
+        "kind": "download",
+        "path": "/media/283f38c6de7c26ab.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx",
+        "alt": "BTL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2456",
+        "alt": "LIOB-594 Datashe",
+        "kind": "download",
+        "path": "/media/1b6f5107108ea329.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2438-LIOB-594-Installation-Instructions",
+        "alt": "LIOB-594 Installation Sheet",
+        "kind": "download",
+        "path": "/media/ad9b3767bceefe07.pdf",
+        "status": 200
       }
     ],
     "contentHash": "7a7b4a0dd0f69b7e32f7f96b002c81831ed8f58f996c337006d8bfba799ae391",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/e0c44650ebe80017.jpg"
@@ -6094,13 +6955,90 @@
         "kind": "image",
         "path": "/media/59bb60c1a744cbd4.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2215",
+        "alt": "General I/O Specifications",
+        "kind": "download",
+        "path": "/media/86f04c799a0b2b55.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2403-UL-Listed-Mark-Certificates",
+        "alt": "UL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1994-L-IOB-I/O-Controller-User-Manual-7.6",
+        "alt": "L-IOB I/O Controller User Manual",
+        "kind": "download",
+        "path": "/media/dd8f9e059c5c1dfc.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2001-l-iob-device-selector?Itemid=197",
+        "alt": "L-IOB Device Selector",
+        "kind": "download",
+        "path": "/media/283f38c6de7c26ab.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx",
+        "alt": "BTL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2165-AMEV-Self-declaration-L-IOB",
+        "alt": "AMEV",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2167-liob-586-587-588-589-datasheet",
+        "alt": "LIOB-586/587/588/589 Datasheet",
+        "kind": "download",
+        "path": "/media/1b9e0c8f12a7fe7f.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2194-LIOB-586-/-LIOB-587-Installation-Instructions",
+        "alt": "LIOB-586/LIOB-587",
+        "kind": "download",
+        "path": "/media/9804b0a73d2341a5.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2229-LIOB-588-Installation-Instructions",
+        "alt": "LIOB-588",
+        "kind": "download",
+        "path": "/media/22b9523f6d1af8d3.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2230-LIOB-589-Installation-Instructions",
+        "alt": "LIOB-589",
+        "kind": "download",
+        "path": "/media/8c2f31e4dc75e967.pdf",
+        "status": 200
       }
     ],
     "contentHash": "83492cac6b2961b113e296d3a59e06068a16359447dbfa41213921ec09ad1b25",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2403-UL-Listed-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2165-AMEV-Self-declaration-L-IOB"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/b272605f9a9bf6f6.jpg"
@@ -6218,13 +7156,62 @@
         "kind": "image",
         "path": "/media/6c536c91507f16e6.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2215",
+        "alt": "General I/O Specifications",
+        "kind": "download",
+        "path": "/media/86f04c799a0b2b55.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1994-L-IOB-I/O-Controller-User-Manual-7.6",
+        "alt": "L-IOB I/O Controller User Manual",
+        "kind": "download",
+        "path": "/media/dd8f9e059c5c1dfc.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx",
+        "alt": "BTL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2455",
+        "alt": "LIOB-593 Datasheet",
+        "kind": "download",
+        "path": "/media/7dfc4683f0b62559.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2437",
+        "alt": "LIOB-593 Installation Sheet",
+        "kind": "download",
+        "path": "/media/e13053e85c48b14d.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2001-L-IOB-Device-Selector",
+        "alt": "L-IOB Device Selector",
+        "kind": "download",
+        "path": "/media/c34729ae4a060d25.pdf",
+        "status": 200
       }
     ],
     "contentHash": "deca47208f13af82b37a0d9b5998207bc2dca4523da38605479140caddbd0601",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/3a9692bbbc27417f.jpg"
@@ -6258,13 +7245,55 @@
         "kind": "image",
         "path": "/media/53045769174f978e.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2146-L-FOCUS:-L-DALI-Lighting-Control-Solutions-(English)",
+        "alt": "L-FOCUS: L-DALI Lighting Control Solutions (English)",
+        "kind": "download",
+        "path": "/media/23bdf0a9316ef2d7.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2433",
+        "alt": "LDALI-PD1 Datasheet",
+        "kind": "download",
+        "path": "/media/92543af3bb10bca2.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1454-L-DALI-User-Manual-7.6",
+        "alt": "L-DALI User Manual",
+        "kind": "download",
+        "path": "/media/613146c722b59ca5.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2432-LDALI-PD1-Installation-Instructions",
+        "alt": "LDALI-PD1 Installation Instructions",
+        "kind": "download",
+        "path": "/media/cde79b872d9376d0.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1522-EC-Declaration-L-DALI",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2472-DALI-2-Certificate-for-LDALI-PD1",
+        "alt": "DALI-2",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "c8340841015e56b74a52cdeb315047c3df12f2e0b49cd7ed4e68b55d759b61b1",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1522-EC-Declaration-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2472-DALI-2-Certificate-for-LDALI-PD1"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/e11ba6a95ab58092.jpg"
@@ -6466,13 +7495,83 @@
         "kind": "image",
         "path": "/media/15d586b4eb6a4067.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2164-AMEV-Self-declaration-L-INX-/-L-GATE-/-L-ROC-/-L-DALI",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2249-BTL-Certificate-LINX-xxx,-LGATE-xxx,-LROC-xxx,-LDALI-xxx,-LIP-xxx",
+        "alt": "BTL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2146-L-FOCUS:-L-DALI-Lighting-Control-Solutions-(English)",
+        "alt": "L-FOCUS: L-DALI Lighting Control Solutions (English)",
+        "kind": "download",
+        "path": "/media/23bdf0a9316ef2d7.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1454-L-DALI-User-Manual-7.6",
+        "alt": "L-DALI User Manual",
+        "kind": "download",
+        "path": "/media/613146c722b59ca5.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1522-EC-Declaration-L-DALI",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/91-l-dali-bacnet-controller-datasheet-ldali-me201-u,-ldali-me202-u,-ldali-me204-u",
+        "alt": "L-DALI: BACnet/DALI Controller Datasheet",
+        "kind": "download",
+        "path": "/media/ccbfed4d28c56d0f.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2162-LDALI-ME201-U/ME204-U-/-LDALI-PLC2/PLC4-Installation-Instructions",
+        "alt": "LDALI-ME201-U/ME202-U/ME204-U Installation Instructions",
+        "kind": "download",
+        "path": "/media/d7ac92e6e101c8ee.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2054-an011e-l-dali-compatibility-list",
+        "alt": "L-DALI Compatibility List",
+        "kind": "download",
+        "path": "/media/ab1e972f5a5af586.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2328-DALI-2-Certificate-for-LDALI-ME204-U-",
+        "alt": "DALI-2",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark",
+        "alt": "UL",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "e36ccace9c0f8166664fae33d4f1ec5ede9acf49c359dc11ce493f76db081938",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2164-AMEV-Self-declaration-L-INX-/-L-GATE-/-L-ROC-/-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2249-BTL-Certificate-LINX-xxx,-LGATE-xxx,-LROC-xxx,-LDALI-xxx,-LIP-xxx",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1522-EC-Declaration-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2328-DALI-2-Certificate-for-LDALI-ME204-U-",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/7961eeddd2f60050.jpg"
@@ -6492,13 +7591,62 @@
         "kind": "image",
         "path": "/media/59bb60c1a744cbd4.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2215",
+        "alt": "General I/O Specifications",
+        "kind": "download",
+        "path": "/media/86f04c799a0b2b55.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2001-l-iob-device-selector?Itemid=197",
+        "alt": "L-IOB Device Selector",
+        "kind": "download",
+        "path": "/media/283f38c6de7c26ab.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2526",
+        "alt": "LIOB-562 Datasheet",
+        "kind": "download",
+        "path": "/media/81a2241c37252747.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1656-L-IOB-I/O-Module-User-Manual-7.6",
+        "alt": "L-IOB I/O Module User Manual",
+        "kind": "download",
+        "path": "/media/4c48c3906888eead.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2528",
+        "alt": "Installation Instructions",
+        "kind": "download",
+        "path": "/media/1df67a77da29b97d.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/fr/support/telechargement/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx",
+        "alt": "BTL",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "a9dc0ccf060af357303a23ec8139bfc2060da1ca251f144cca650c19b15d3267",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+      "manufacturer-document-unavailable:https://www.loytec.com/fr/support/telechargement/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/4d6c1b9fcd3f6460.jpg"
@@ -6518,13 +7666,62 @@
         "kind": "image",
         "path": "/media/b41222032032c418.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2215",
+        "alt": "General I/O Specifications",
+        "kind": "download",
+        "path": "/media/86f04c799a0b2b55.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2001-l-iob-device-selector?Itemid=197",
+        "alt": "L-IOB Device Selector",
+        "kind": "download",
+        "path": "/media/283f38c6de7c26ab.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1656-L-IOB-I/O-Module-User-Manual-7.6",
+        "alt": "L-IOB I/O Module User Manual",
+        "kind": "download",
+        "path": "/media/4c48c3906888eead.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/fr/support/telechargement/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx",
+        "alt": "BTL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2525",
+        "alt": "LIOB-560 Datasheet",
+        "kind": "download",
+        "path": "/media/b2f377d4781e0073.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2527-liob-560-installation-instructions",
+        "alt": "Installation Instructions",
+        "kind": "download",
+        "path": "/media/bd6f5aecbc39be89.pdf",
+        "status": 200
       }
     ],
     "contentHash": "7069728264ff88757ad635a2aeb2dd3408631170cfac8807566b30d837af6883",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+      "manufacturer-document-unavailable:https://www.loytec.com/fr/support/telechargement/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/92a47614fc4fa722.jpg"
@@ -6593,13 +7790,62 @@
         "kind": "image",
         "path": "/media/f0908441b68401a8.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2215",
+        "alt": "General I/O Specifications",
+        "kind": "download",
+        "path": "/media/86f04c799a0b2b55.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark-Certificates",
+        "alt": "UL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2001-l-iob-device-selector?Itemid=197",
+        "alt": "L-IOB Device Selector",
+        "kind": "download",
+        "path": "/media/283f38c6de7c26ab.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1656-L-IOB-I/O-Module-User-Manual-7.6",
+        "alt": "L-IOB I/O Module User Manual",
+        "kind": "download",
+        "path": "/media/4c48c3906888eead.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2067-liob-45x-datasheet",
+        "alt": "LIOB-45x Datasheet",
+        "kind": "download",
+        "path": "/media/ffbe2c0ccecfad8d.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2257-LonMark-Certificate-LIOB-154/450/451/452/453/454",
+        "alt": "LON",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "b4a8683360208a9c6e528dbd1f63036f438104c023acd6d3874c2ad9bc505984",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2257-LonMark-Certificate-LIOB-154/450/451/452/453/454"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/e71ad34e43bec60a.jpg"
@@ -6716,6 +7962,34 @@
         "alt": "L-TEMP2",
         "kind": "image",
         "path": "/media/f0908441b68401a8.png",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2215",
+        "alt": "General I/O Specifications",
+        "kind": "download",
+        "path": "/media/86f04c799a0b2b55.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2001-l-iob-device-selector?Itemid=197",
+        "alt": "L-IOB Device Selector",
+        "kind": "download",
+        "path": "/media/283f38c6de7c26ab.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1656-L-IOB-I/O-Module-User-Manual-7.6",
+        "alt": "L-IOB I/O Module User Manual",
+        "kind": "download",
+        "path": "/media/4c48c3906888eead.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2070-liob-10x-liob-110-liob-112-datasheet",
+        "alt": "LIOB-10x/11x Datasheet",
+        "kind": "download",
+        "path": "/media/ce985d604bf0d6c5.pdf",
         "status": 200
       }
     ],
@@ -6918,13 +8192,76 @@
         "kind": "image",
         "path": "/media/6c536c91507f16e6.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2164-AMEV-Self-declaration-L-INX-/-L-GATE-/-L-ROC-/-L-DALI",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2249-BTL-Certificate-LINX-xxx,-LGATE-xxx,-LROC-xxx,-LDALI-xxx,-LIP-xxx",
+        "alt": "BTL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2146-L-FOCUS:-L-DALI-Lighting-Control-Solutions-(English)",
+        "alt": "L-FOCUS: L-DALI Lighting Control Solutions (English)",
+        "kind": "download",
+        "path": "/media/23bdf0a9316ef2d7.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1454-L-DALI-User-Manual-7.6",
+        "alt": "L-DALI User Manual",
+        "kind": "download",
+        "path": "/media/613146c722b59ca5.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1522-EC-Declaration-L-DALI",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2162-LDALI-ME201-U/ME204-U-/-LDALI-PLC2/PLC4-Installation-Instructions",
+        "alt": "LDALI-ME201-U/ME202-U/ME204-U Installation Instructions",
+        "kind": "download",
+        "path": "/media/d7ac92e6e101c8ee.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2054-an011e-l-dali-compatibility-list",
+        "alt": "L-DALI Compatibility List",
+        "kind": "download",
+        "path": "/media/ab1e972f5a5af586.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2224-ldali-plc2-ldali-plc4-controller-datasheet",
+        "alt": "LDALI-PLC2/PLC4 Datasheet",
+        "kind": "download",
+        "path": "/media/e248a5ef9e32f12a.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2365-DALI-2-Certificate-for-LDALI-PLC4",
+        "alt": "DALI-2",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "11e159545d1253d2cd4941a09d9978fa478a1c23cc6823b7760c3fa9918f4c8d",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2164-AMEV-Self-declaration-L-INX-/-L-GATE-/-L-ROC-/-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2249-BTL-Certificate-LINX-xxx,-LGATE-xxx,-LROC-xxx,-LDALI-xxx,-LIP-xxx",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1522-EC-Declaration-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2365-DALI-2-Certificate-for-LDALI-PLC4"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/bbc930edd3368543.jpg"
@@ -7078,13 +8415,62 @@
         "kind": "image",
         "path": "/media/f0908441b68401a8.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2215",
+        "alt": "General I/O Specifications",
+        "kind": "download",
+        "path": "/media/86f04c799a0b2b55.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark-Certificates",
+        "alt": "UL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2001-l-iob-device-selector?Itemid=197",
+        "alt": "L-IOB Device Selector",
+        "kind": "download",
+        "path": "/media/283f38c6de7c26ab.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1656-L-IOB-I/O-Module-User-Manual-7.6",
+        "alt": "L-IOB I/O Module User Manual",
+        "kind": "download",
+        "path": "/media/4c48c3906888eead.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2069-liob-15x-datasheet",
+        "alt": "LIOB-15x Datasheet",
+        "kind": "download",
+        "path": "/media/a2d9c8fc1ad691b5.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2256-LonMark-Certificate-LIOB-151/152/153",
+        "alt": "LON",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "1cfec0a5441dda1486f630492e3b9875835d1f0a86dc5285e5bf12ca4299ee76",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2256-LonMark-Certificate-LIOB-151/152/153"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/9668a2b672703e98.jpg"
@@ -7125,6 +8511,13 @@
         "kind": "image",
         "path": "/media/a4b15c4082e09c08.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2275-l%E2%80%91studio-3-datasheet",
+        "alt": "L-STUDIO Datasheet",
+        "kind": "download",
+        "path": "/media/6f70542a55c5e75d.pdf",
+        "status": 200
       }
     ],
     "contentHash": "c23478ba23d59148cadd69dded1a28c68557d68fd199475128728431d3d9049c",
@@ -7157,6 +8550,20 @@
         "alt": "LOYRTU-485",
         "kind": "image",
         "path": "/media/c1640e213c9fc5d6.png",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2286-loyrtu-485-rtu-485-datasheet",
+        "alt": "LOYRTU-485 Datasheet",
+        "kind": "download",
+        "path": "/media/8d53ee1be181db1a.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2290-RTU-485-Installation-Instructions",
+        "alt": "LOYRTU-485 Installation Instructions",
+        "kind": "download",
+        "path": "/media/4c029d22e2b9ddf4.pdf",
         "status": 200
       }
     ],
@@ -7205,13 +8612,62 @@
         "kind": "image",
         "path": "/media/e08757728e7f6326.jpg",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2145-LOYTEC-Device-User-Manual-7.6",
+        "alt": "LOYTEC Device User Manual",
+        "kind": "download",
+        "path": "/media/3052052c61475c14.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark",
+        "alt": "UL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2061-LPOW-2415x/2460B-Datasheet",
+        "alt": "LPOW-2415x/2460B Datasheet",
+        "kind": "download",
+        "path": "/media/f58563fa3d28ca41.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1513-LPOW-2415A-Installation-Instructions",
+        "alt": "LPOW-2415A",
+        "kind": "download",
+        "path": "/media/557d8bfba1c64ddb.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1515-LPOW-2415B-Installation-Instructions",
+        "alt": "LPOW-2415B",
+        "kind": "download",
+        "path": "/media/fac9809905e9ef60.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2175-LPOW-2460B-Installation-notes",
+        "alt": "LPOW-2460B",
+        "kind": "download",
+        "path": "/media/dfe98e28dc2eb0b7.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1711-EC-Declaration-L-POW",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "2237216a50d0afd27af7b9d89118d425a77f5a568cb8511e919f8ce378742344",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1711-EC-Declaration-L-POW"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/aa956b1759cda34f.jpg"
@@ -7245,13 +8701,34 @@
         "kind": "image",
         "path": "/media/3e364f86e3c6501d.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2145-LOYTEC-Device-User-Manual-7.6",
+        "alt": "LOYTEC Device User Manual",
+        "kind": "download",
+        "path": "/media/3052052c61475c14.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/124-l-term-cea-709-datasheet",
+        "alt": "L-Term (CEA-709) Datasheet",
+        "kind": "download",
+        "path": "/media/ea9c622280a77cfb.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1568-EC-Declaration-L-Term",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "50e04d4d7ac3f3485b859d1254c66107fdb5452d3c3e7fe8b3a5c6d63f89cd18",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1568-EC-Declaration-L-Term"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/49df676fed264eed.jpg"
@@ -7278,13 +8755,55 @@
         "kind": "image",
         "path": "/media/da419e01fc361869.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2146-L-FOCUS:-L-DALI-Lighting-Control-Solutions-(English)",
+        "alt": "L-FOCUS: L-DALI Lighting Control Solutions (English)",
+        "kind": "download",
+        "path": "/media/23bdf0a9316ef2d7.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1454-L-DALI-User-Manual-7.6",
+        "alt": "L-DALI User Manual",
+        "kind": "download",
+        "path": "/media/613146c722b59ca5.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1522-EC-Declaration-L-DALI",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2244-ldali-bm2-pushbutton-coupler-datasheet",
+        "alt": "LDALI-BM2 Datasheet",
+        "kind": "download",
+        "path": "/media/e4b49e39d32340c6.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2242-LDALI-BM2-Installation-Instructions-",
+        "alt": "LDALI-BM2 Installation Instructions",
+        "kind": "download",
+        "path": "/media/0c0b42d0ddb07741.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2309-DALI-2-Certificate-for-LDALI-BM2-",
+        "alt": "DALI-2",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "3795900581a65deb4a38da6e5c370a1bb35ce5c679cf0e6ebd0ef9200cfdea35",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1522-EC-Declaration-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2309-DALI-2-Certificate-for-LDALI-BM2-"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/5282f031f9bd4f2a.jpg"
@@ -7318,13 +8837,62 @@
         "kind": "image",
         "path": "/media/d1efc9eba9ff2853.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2146-L-FOCUS:-L-DALI-Lighting-Control-Solutions-(English)",
+        "alt": "L-FOCUS: L-DALI Lighting Control Solutions (English)",
+        "kind": "download",
+        "path": "/media/23bdf0a9316ef2d7.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1454-L-DALI-User-Manual-7.6",
+        "alt": "L-DALI User Manual",
+        "kind": "download",
+        "path": "/media/613146c722b59ca5.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1522-EC-Declaration-L-DALI",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2386",
+        "alt": "LDALI-RM8 Datasheet",
+        "kind": "download",
+        "path": "/media/27c768f6e50dcec2.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2361-LDALI-RM8-Installation-Instructions",
+        "alt": "LDALI-RM8 Installation Instructions",
+        "kind": "download",
+        "path": "/media/c6e7a1796797823c.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2350-DALI-2-Certificate-f%C3%BCr-LDALI-RM8",
+        "alt": "DALI-2",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2485-UL-Listed-Mark-Certificates-(LDALI-RM5,-LDALI-RM6,-LDALI-RM8)",
+        "alt": "UL",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "7cf2461808883893278a524d88630927828286c3da6803f6b6a63e842bb710de",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1522-EC-Declaration-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2350-DALI-2-Certificate-f%C3%BCr-LDALI-RM8",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2485-UL-Listed-Mark-Certificates-(LDALI-RM5,-LDALI-RM6,-LDALI-RM8)"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/fdb4316a8d62af80.jpg"
@@ -7351,13 +8919,62 @@
         "kind": "image",
         "path": "/media/d90031aa1aef4f86.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2146-L-FOCUS:-L-DALI-Lighting-Control-Solutions-(English)",
+        "alt": "L-FOCUS: L-DALI Lighting Control Solutions (English)",
+        "kind": "download",
+        "path": "/media/23bdf0a9316ef2d7.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1454-L-DALI-User-Manual-7.6",
+        "alt": "L-DALI User Manual",
+        "kind": "download",
+        "path": "/media/613146c722b59ca5.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1522-EC-Declaration-L-DALI",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2485-UL-Listed-Mark-Certificates-(LDALI-RM5,-LDALI-RM6,-LDALI-RM8)",
+        "alt": "UL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2422",
+        "alt": "LDALI-RM5/RM6 Datasheet",
+        "kind": "download",
+        "path": "/media/86f6a4a866f78ea5.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2419-LDALI-RM5-Installation-Instructions",
+        "alt": "LDALI-RM5 Installation Instructions",
+        "kind": "download",
+        "path": "/media/5a7151ef65313a92.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2420-LDALI-RM6-Installation-Instructions",
+        "alt": "LDALI-RM6 Installation Instructions",
+        "kind": "download",
+        "path": "/media/87f27ec91105a05c.pdf",
+        "status": 200
       }
     ],
     "contentHash": "a89be71a16b69f59af20e5a8b27e1031e7d41c59187c6993629ea1feecf65d55",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1522-EC-Declaration-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2485-UL-Listed-Mark-Certificates-(LDALI-RM5,-LDALI-RM6,-LDALI-RM8)"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/c1692700975648a9.jpg"
@@ -7426,13 +9043,48 @@
         "kind": "image",
         "path": "/media/cf5723efaed5db08.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2146-L-FOCUS:-L-DALI-Lighting-Control-Solutions-(English)",
+        "alt": "L-FOCUS: L-DALI Lighting Control Solutions (English)",
+        "kind": "download",
+        "path": "/media/23bdf0a9316ef2d7.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1454-L-DALI-User-Manual-7.6",
+        "alt": "L-DALI User Manual",
+        "kind": "download",
+        "path": "/media/613146c722b59ca5.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2299-LDALI-MS2-BT-/-LDALI-MS4-BT:-Multi-Sensor-Datasheet",
+        "alt": "LDALI-MS2-BT / LDALI-MS3-BT / LDALI-MS4-BT: Multi-Sensor Datasheet",
+        "kind": "download",
+        "path": "/media/0540663db7505127.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2490",
+        "alt": "L-DALI Field Devices User Manual",
+        "kind": "download",
+        "path": "/media/e71f68a17fd25a18.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2449-EC-Declaration-LDALI-MS2-BT,-LDALI-MS4-BT-",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "1203f0257af4e6ced8f3e054ea2d8cd7f1fad7cab8f441dfa4314cae10875cda",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2449-EC-Declaration-LDALI-MS2-BT,-LDALI-MS4-BT-"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/bab7fd5f8c73f138.jpg"
@@ -7522,13 +9174,48 @@
         "kind": "image",
         "path": "/media/314083c17e6d4fdc.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/131-nic-datasheet",
+        "alt": "NIC Datasheet",
+        "kind": "download",
+        "path": "/media/3d836c291c7e1655.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/264-NIC-User-Manual-4.2",
+        "alt": "NIC User Manual",
+        "kind": "download",
+        "path": "/media/704bb42f9d326fde.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2196-NIC709-IPxE100C-Installation-Instructions",
+        "alt": "NIC709-IPxE100C",
+        "kind": "download",
+        "path": "/media/02c8e57001bd6ebb.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2482-NIC709-USB100-Installation-Instructions",
+        "alt": "NIC709-USB100",
+        "kind": "download",
+        "path": "/media/66e4a379b8944b18.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1581-EC-Declaration-NIC",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "9d4eea871c1d64833f15600b0845bc10b47d171ede2cdffc3b4454052deccec4",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1581-EC-Declaration-NIC"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/fea7976506007273.jpg"
@@ -7779,13 +9466,48 @@
         "kind": "image",
         "path": "/media/081081b12e4eacf4.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark-Certificates",
+        "alt": "UL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2158-L-INX-/-L-GATE-User-Manual-7.6",
+        "alt": "L-INX / L-GATE User Manual",
+        "kind": "download",
+        "path": "/media/6d4c1ac75f883381.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2119-linx-102-linx-103-datasheet",
+        "alt": "LINX-102/103 Datasheet",
+        "kind": "download",
+        "path": "/media/d268fe803436062b.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2124-LINX-1xx,-LINX-2xx-Installation-Instructions",
+        "alt": "LINX-1xx, LINX-2xx Installation Instructions",
+        "kind": "download",
+        "path": "/media/c74d43662b26d897.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1529-EC-Declaration-L-INX",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "4bec63ecfa015b2f9af07e4b28943887f3189046840a95edfb56a82b3682507c",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1529-EC-Declaration-L-INX"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/dc2e13bc8443e45e.jpg"
@@ -8015,13 +9737,62 @@
         "kind": "image",
         "path": "/media/081081b12e4eacf4.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2164-AMEV-Self-declaration-L-INX-/-L-GATE-/-L-ROC-/-L-DALI",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2249-BTL-Certificate-LINX-xxx,-LGATE-xxx,-LROC-xxx,-LDALI-xxx,-LIP-xxx",
+        "alt": "BTL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark-Certificates",
+        "alt": "UL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2158-L-INX-/-L-GATE-User-Manual-7.6",
+        "alt": "L-INX / L-GATE User Manual",
+        "kind": "download",
+        "path": "/media/6d4c1ac75f883381.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2124-LINX-1xx,-LINX-2xx-Installation-Instructions",
+        "alt": "LINX-1xx, LINX-2xx Installation Instructions",
+        "kind": "download",
+        "path": "/media/c74d43662b26d897.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1529-EC-Declaration-L-INX",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2228-linx-215-datasheet",
+        "alt": "LINX-215 Datasheet",
+        "kind": "download",
+        "path": "/media/99cc41983b646b6d.pdf",
+        "status": 200
       }
     ],
     "contentHash": "9fadd0cefedcd9454e2e8ee1988a94631132995b71530bff9703c3c3dce60d5f",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2164-AMEV-Self-declaration-L-INX-/-L-GATE-/-L-ROC-/-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2249-BTL-Certificate-LINX-xxx,-LGATE-xxx,-LROC-xxx,-LDALI-xxx,-LIP-xxx",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1529-EC-Declaration-L-INX"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/c358fbce2d72eed8.jpg"
@@ -8335,13 +10106,69 @@
         "kind": "image",
         "path": "/media/59bb60c1a744cbd4.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2164-AMEV-Self-declaration-L-INX-/-L-GATE-/-L-ROC-/-L-DALI",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2249-BTL-Certificate-LINX-xxx,-LGATE-xxx,-LROC-xxx,-LDALI-xxx,-LIP-xxx",
+        "alt": "BTL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2403-UL-Listed-Mark-Certificates",
+        "alt": "UL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2158-L-INX-/-L-GATE-User-Manual-7.6",
+        "alt": "L-INX / L-GATE User Manual",
+        "kind": "download",
+        "path": "/media/6d4c1ac75f883381.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1529-EC-Declaration-L-INX",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2227",
+        "alt": "LINX-153 / LINX-154 Datasheet",
+        "kind": "download",
+        "path": "/media/6c3504235bf8e0be.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2193-LINX-153-Installation-Instructions-",
+        "alt": "LINX-153",
+        "kind": "download",
+        "path": "/media/1ded85b63bfe3723.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2206-LINX-154-Installation-Instructions-",
+        "alt": "LINX-154",
+        "kind": "download",
+        "path": "/media/835cf8dd1f069c7e.pdf",
+        "status": 200
       }
     ],
     "contentHash": "2d48935e948bd4b9e427ea9dd2a4c892b6648333278b860602dd95fcba4aeb39",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2164-AMEV-Self-declaration-L-INX-/-L-GATE-/-L-ROC-/-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2249-BTL-Certificate-LINX-xxx,-LGATE-xxx,-LROC-xxx,-LDALI-xxx,-LIP-xxx",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2403-UL-Listed-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1529-EC-Declaration-L-INX"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/151f123eeb02acb4.jpg"
@@ -8606,13 +10433,62 @@
         "kind": "image",
         "path": "/media/081081b12e4eacf4.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2164-AMEV-Self-declaration-L-INX-/-L-GATE-/-L-ROC-/-L-DALI",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2249-BTL-Certificate-LINX-xxx,-LGATE-xxx,-LROC-xxx,-LDALI-xxx,-LIP-xxx",
+        "alt": "BTL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark-Certificates",
+        "alt": "UL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2158-L-INX-/-L-GATE-User-Manual-7.6",
+        "alt": "L-INX / L-GATE User Manual",
+        "kind": "download",
+        "path": "/media/6d4c1ac75f883381.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2124-LINX-1xx,-LINX-2xx-Installation-Instructions",
+        "alt": "LINX-1xx, LINX-2xx Installation Instructions",
+        "kind": "download",
+        "path": "/media/c74d43662b26d897.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1529-EC-Declaration-L-INX",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2121-linx-202-linx-203-datasheet",
+        "alt": "LINX-202/203 Datasheet",
+        "kind": "download",
+        "path": "/media/52ab02e299f9dc65.pdf",
+        "status": 200
       }
     ],
     "contentHash": "6047252330c1dd804e3d603263a087f39b5b4ac1e7a640d826330e517784e566",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2164-AMEV-Self-declaration-L-INX-/-L-GATE-/-L-ROC-/-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2249-BTL-Certificate-LINX-xxx,-LGATE-xxx,-LROC-xxx,-LDALI-xxx,-LIP-xxx",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1529-EC-Declaration-L-INX"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/21b97b805a4f2b66.jpg"
@@ -8693,6 +10569,20 @@
         "kind": "image",
         "path": "/media/eafb724f84635c08.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2145-LOYTEC-Device-User-Manual-7.6",
+        "alt": "LOYTEC Device User Manual",
+        "kind": "download",
+        "path": "/media/3052052c61475c14.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2072-lbox-600,-lbox-rocx-datasheet",
+        "alt": "LBOX-600 Datasheet",
+        "kind": "download",
+        "path": "/media/7b5c5a61a65d9b60.pdf",
+        "status": 200
       }
     ],
     "contentHash": "b00278263ff77cb1cb633f242c894746cda02f332ec9162b368dc0ea6161a444",
@@ -8726,13 +10616,34 @@
         "kind": "image",
         "path": "/media/3be8f086e4460083.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2510",
+        "alt": "LOYUNO-L Datasheet",
+        "kind": "download",
+        "path": "/media/455bc323bfb9482f.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2511",
+        "alt": "LOYUNO-L Installation Instructions",
+        "kind": "download",
+        "path": "/media/fffb8845ab939699.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2508",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "cd01ea141c7b6511793b353dc478485f03152dfc557dbf5615c836af27eacfae",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2508"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/cff96e3f021e236f.jpg"
@@ -8758,6 +10669,27 @@
         "alt": "L-RC1",
         "kind": "image",
         "path": "/media/8c23fd075d5ddc3b.png",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2146-L-FOCUS:-L-DALI-Lighting-Control-Solutions-(English)",
+        "alt": "L-FOCUS: L-DALI Lighting Control Solutions (English)",
+        "kind": "download",
+        "path": "/media/23bdf0a9316ef2d7.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1454-L-DALI-User-Manual-7.6",
+        "alt": "L-DALI User Manual",
+        "kind": "download",
+        "path": "/media/613146c722b59ca5.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2245-l-dali-infrared-remote-control-datasheet",
+        "alt": "L-RC1 Datasheet",
+        "kind": "download",
+        "path": "/media/e7d4cb03873bc686.pdf",
         "status": 200
       }
     ],
@@ -8799,13 +10731,55 @@
         "kind": "image",
         "path": "/media/de5b0a4926b1fcfc.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark-Certificates",
+        "alt": "UL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2146-L-FOCUS:-L-DALI-Lighting-Control-Solutions-(English)",
+        "alt": "L-FOCUS: L-DALI Lighting Control Solutions (English)",
+        "kind": "download",
+        "path": "/media/23bdf0a9316ef2d7.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1454-L-DALI-User-Manual-7.6",
+        "alt": "L-DALI User Manual",
+        "kind": "download",
+        "path": "/media/613146c722b59ca5.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1711-EC-Declaration-L-POW",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/1737-ldali-pwr2-u-ldali-pwr4-u-datasheet",
+        "alt": "LDALI-PWRx-U Datasheet",
+        "kind": "download",
+        "path": "/media/fdd85c861d3f2eb2.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1979-LDALI-PWRx-U-Installation-Instructions",
+        "alt": "LDALI-PWRx-U Installation Instructions",
+        "kind": "download",
+        "path": "/media/17a8b194a002883c.pdf",
+        "status": 200
       }
     ],
     "contentHash": "6c6ca69fb62bd4cf4e67c7832af9f9c9ef23d7591b8933ada6be0de1f3e42bd5",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1711-EC-Declaration-L-POW"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/4ea84740daf9b7b7.jpg"
@@ -8846,13 +10820,55 @@
         "kind": "image",
         "path": "/media/f382900cc209fa50.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2146-L-FOCUS:-L-DALI-Lighting-Control-Solutions-(English)",
+        "alt": "L-FOCUS: L-DALI Lighting Control Solutions (English)",
+        "kind": "download",
+        "path": "/media/23bdf0a9316ef2d7.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2523-LDALI-PWR1-U-Datasheet",
+        "alt": "LDALI-PWR1-U Datasheet",
+        "kind": "download",
+        "path": "/media/4f05820955c1c072.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1454-L-DALI-User-Manual",
+        "alt": "L-DALI User Manual",
+        "kind": "download",
+        "path": "/media/32d9408e37281ec1.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1979-LDALI-PWR1-U-Installation-Instructions",
+        "alt": "LDALI-PWR1-U Installation Instructions",
+        "kind": "download",
+        "path": "/media/586cb7937f499a07.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1711-EC-Declaration",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2445-DALI-2",
+        "alt": "DALI-2",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "44c061f61ff149d576b689d129a92b9a16040a3dbfe319af6742278be5d05d9c",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1711-EC-Declaration",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2445-DALI-2"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/589dde829a3ac953.jpg"
@@ -8872,13 +10888,55 @@
         "kind": "image",
         "path": "/media/f29d43aa75417edd.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2146-L-FOCUS:-L-DALI-Lighting-Control-Solutions-(English)",
+        "alt": "L-FOCUS: L-DALI Lighting Control Solutions (English)",
+        "kind": "download",
+        "path": "/media/23bdf0a9316ef2d7.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1454-L-DALI-User-Manual-7.6",
+        "alt": "L-DALI User Manual",
+        "kind": "download",
+        "path": "/media/613146c722b59ca5.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1522-EC-Declaration-L-DALI",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2416-LDALI-PWM4-Datasheet",
+        "alt": "LDALI-PWM4 Datasheet",
+        "kind": "download",
+        "path": "/media/0d19194e821997dc.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2417-LDALI-PWM4/RGBW/TC-Installation-Instructions-",
+        "alt": "LDALI-PWM4/RGBW/TC Installation Instructions",
+        "kind": "download",
+        "path": "/media/b1d0f7182a6b2200.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2407-DALI-2-Certificate-for-LDALI-PWM4",
+        "alt": "DALI-2",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "6976ffdf44eb7f350597311cfa142616f79145863a9298268640394b6846ed45",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1522-EC-Declaration-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2407-DALI-2-Certificate-for-LDALI-PWM4"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/789b9d537d1af2a2.jpg"
@@ -8905,13 +10963,55 @@
         "kind": "image",
         "path": "/media/53045769174f978e.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1454-L-DALI-User-Manual-7.6",
+        "alt": "L-DALI User Manual",
+        "kind": "download",
+        "path": "/media/613146c722b59ca5.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1522-EC-Declaration-L-DALI",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2464",
+        "alt": "LOY-DALI-SBM1 Datasheet",
+        "kind": "download",
+        "path": "/media/2e92ced08b940cfa.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2490-L-DALI-Field-Devices-User-Manual",
+        "alt": "L-DALI Field Devices User Manual",
+        "kind": "download",
+        "path": "/media/029d5b0a3109ef5a.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2447",
+        "alt": "LOY-DALI-SBM1 Installation Instructions",
+        "kind": "download",
+        "path": "/media/9c024443e0bddf74.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2473-DALI-2-Certificate-for-LOY-DALI-SBM1",
+        "alt": "DALI-2",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "914387f4bf449df9df53399484bb99293fe7597a9eb146567f67bd64c43d6875",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1522-EC-Declaration-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2473-DALI-2-Certificate-for-LOY-DALI-SBM1"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/e1c87974b2bfa672.jpg"
@@ -9099,13 +11199,69 @@
         "kind": "image",
         "path": "/media/f29d43aa75417edd.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2146-L-FOCUS:-L-DALI-Lighting-Control-Solutions-(English)",
+        "alt": "L-FOCUS: L-DALI Lighting Control Solutions (English)",
+        "kind": "download",
+        "path": "/media/23bdf0a9316ef2d7.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1454-L-DALI-User-Manual-7.6",
+        "alt": "L-DALI User Manual",
+        "kind": "download",
+        "path": "/media/613146c722b59ca5.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1522-EC-Declaration-L-DALI",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2054-an011e-l-dali-compatibility-list",
+        "alt": "L-DALI Compatibility List",
+        "kind": "download",
+        "path": "/media/ab1e972f5a5af586.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark",
+        "alt": "UL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/1131-l-dali-cea709-controller-datasheet-ldali-3e101-u,-ldali-3e102-u,-ldali-3e104-u",
+        "alt": "L-DALI: CEA-709/DALI Controller Datasheet",
+        "kind": "download",
+        "path": "/media/a722b8395bddcc3b.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2161-LDALI-3E10x-U-Installation-Instructions",
+        "alt": "LDALI-3E10x-U Installation Instructions",
+        "kind": "download",
+        "path": "/media/b6c20e16753d02d2.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2385-DALI-2-Certificate-for-LDALI-3E104-U",
+        "alt": "DALI-2",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "cf1cc72bf04801437c6d273fe742a366abd304357ab931cbb5a9d1ead15a337d",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1522-EC-Declaration-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2385-DALI-2-Certificate-for-LDALI-3E104-U"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/f09e0a8bd29b21c2.jpg"
@@ -9146,13 +11302,41 @@
         "kind": "image",
         "path": "/media/4d14b800a26c8cb1.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2476-LOYBT-TEMP1-Temperature-Sensor-Datasheet",
+        "alt": "LOYBT-TEMP1 Datasheet",
+        "kind": "download",
+        "path": "/media/a58eef354a4e503f.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2505-LOYTEC-Bluetooth-Devices-User-Manual-1.4.0",
+        "alt": "Bluetooth Devices User Manual",
+        "kind": "download",
+        "path": "/media/6ebddc733bf687af.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2477",
+        "alt": "LOYBT-TEMP1 Installation Instructions",
+        "kind": "download",
+        "path": "/media/c76b4598a0a72656.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2449",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "dcaf6f68edf2c059b18106736425a89d43560d6dfa48344274fbc859ee9bf09a",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2449"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/2612600bb7242439.jpg"
@@ -9228,13 +11412,69 @@
         "kind": "image",
         "path": "/media/1f549340aecdc153.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2215",
+        "alt": "General I/O Specifications",
+        "kind": "download",
+        "path": "/media/86f04c799a0b2b55.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark-Certificates",
+        "alt": "UL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2001-l-iob-device-selector?Itemid=197",
+        "alt": "L-IOB Device Selector",
+        "kind": "download",
+        "path": "/media/283f38c6de7c26ab.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx",
+        "alt": "BTL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2165-AMEV-Self-declaration-L-IOB",
+        "alt": "AMEV",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1656-L-IOB-I/O-Module-User-Manual-7.6",
+        "alt": "L-IOB I/O Module User Manual",
+        "kind": "download",
+        "path": "/media/4c48c3906888eead.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2065-liob-55x-datasheet",
+        "alt": "LIOB-55x Datasheet",
+        "kind": "download",
+        "path": "/media/fd89329904f04f0f.pdf",
+        "status": 200
       }
     ],
     "contentHash": "bb379ec7a0ea2fcca186325b414f02c993d95006d8e6cf5fde8fe5d3649ecad9",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2165-AMEV-Self-declaration-L-IOB"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/ba8baa37349a5cec.jpg"
@@ -9499,13 +11739,55 @@
         "kind": "image",
         "path": "/media/6c536c91507f16e6.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2319-L-FOCUS:-Visualization-Solutions-with-L-VIS,-L-STAT,-L-WEB-(English)",
+        "alt": "Visualization Solutions Brochure",
+        "kind": "download",
+        "path": "/media/0b8da3f570bcdf37.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2253-UL-Listed-Mark-Certificate-(L-VIS,-L-STAT)",
+        "alt": "UL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2096-l-stat-room-operator-panel-datasheet",
+        "alt": "L-STAT Datasheet",
+        "kind": "download",
+        "path": "/media/af6225fe4f71fce3.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2159-l-stat-user-manual-3-2-4",
+        "alt": "L-STAT User Manual",
+        "kind": "download",
+        "path": "/media/cda773601264215c.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2115-L-STAT-Room-Operator-Panel-Installation-Instructions",
+        "alt": "L-STAT Room Operator Panel Installation Instructions",
+        "kind": "download",
+        "path": "/media/3d2480111e422c82.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2098-EC-Declaration-L-STAT",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "0dccba0e0007ba655c9699bc4fe8f13d8801861e3154e36876fd8522aacf4f37",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2253-UL-Listed-Mark-Certificate-(L-VIS,-L-STAT)",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2098-EC-Declaration-L-STAT"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/0bfe1a47ff6a5ecb.jpg"
@@ -9525,13 +11807,34 @@
         "kind": "image",
         "path": "/media/d88c4aa4917ff015.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2481-EC-Declaration-L-TRIAC16-/-LOYREL-816",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2454-L-TRIAC16-Datasheet",
+        "alt": "L-TRIAC16 Datasheet",
+        "kind": "download",
+        "path": "/media/7b58d3cb6c04a590.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2465-L-TRIAC16-Installation-Instructions",
+        "alt": "L-TRIAC16 Installation Sheet",
+        "kind": "download",
+        "path": "/media/63e8203bc9251466.pdf",
+        "status": 200
       }
     ],
     "contentHash": "ef0d122706a8d8ab9a78c00e29ae4dd87b6bd0f555b8b116e8406576c0f874c7",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2481-EC-Declaration-L-TRIAC16-/-LOYREL-816"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/e08fab99fab6f588.jpg"
@@ -9551,13 +11854,34 @@
         "kind": "image",
         "path": "/media/ed52df61f0f189bd.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2468-LOYCNV-VA8-Datasheet",
+        "alt": "LOYCNV-VA8 Datasheet",
+        "kind": "download",
+        "path": "/media/5e43098343b28a02.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2466-LOYCNV-VA8-Installation-Instructions",
+        "alt": "LOYCNV-VA8 Installation Sheet",
+        "kind": "download",
+        "path": "/media/7cdc0a8e87af55cc.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2480-EC-Declaration-LOYCNV-VA8",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "9b43ee62ce65ea12d64a9c8a4b3376d0704c9803ef0b88d8e489ffdc39243844",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2480-EC-Declaration-LOYCNV-VA8"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/324b20a009eee2b2.jpg"
@@ -9576,6 +11900,20 @@
         "alt": "LRS232-802",
         "kind": "image",
         "path": "/media/081081b12e4eacf4.png",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2062-lknx-300-datasheet",
+        "alt": "LRS232-802 Datasheet",
+        "kind": "download",
+        "path": "/media/e65191c11ef8d7f8.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2461-LRS232-802-Installation-Instructions-",
+        "alt": "LRS232-802 Installation Sheet",
+        "kind": "download",
+        "path": "/media/97f516589181e4b3.pdf",
         "status": 200
       }
     ],
@@ -9603,13 +11941,41 @@
         "kind": "image",
         "path": "/media/10aca0abf7689fb3.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2145-LOYTEC-Device-User-Manual-7.6",
+        "alt": "LOYTEC Device User Manual",
+        "kind": "download",
+        "path": "/media/3052052c61475c14.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2085-lwlan-800-datasheet",
+        "alt": "L-WLAN Datasheet",
+        "kind": "download",
+        "path": "/media/30c772729bf4cdfe.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2088-LWLAN-800-Installation-Instructions",
+        "alt": "LWLAN-800 Installation Instructions",
+        "kind": "download",
+        "path": "/media/edbc1e259d5b6ced.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2087-EC-Declaration-L-WLAN",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "4157d0c6463d7ac11c46c760bb6044fc20ab4f937334684bd3667e4465c61684",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2087-EC-Declaration-L-WLAN"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/85c5b7fc04d859f1.jpg"
@@ -9628,6 +11994,20 @@
         "alt": "LTE-800",
         "kind": "image",
         "path": "/media/5330cf0ef9bb81f4.png",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2298-LTE-800-Datasheet",
+        "alt": "LTE-800 Datasheet",
+        "kind": "download",
+        "path": "/media/6ed7661a702286f3.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2353-LTE-800-Installation-Instructions",
+        "alt": "LTE-800 Installation Instructions",
+        "kind": "download",
+        "path": "/media/1d9ed0795734bae9.pdf",
         "status": 200
       }
     ],
@@ -9655,13 +12035,41 @@
         "kind": "image",
         "path": "/media/2599da4f814df1cc.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2145-LOYTEC-Device-User-Manual-7.6",
+        "alt": "LOYTEC Device User Manual",
+        "kind": "download",
+        "path": "/media/3052052c61475c14.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2062-lknx-300-datasheet",
+        "alt": "LRS232-802 Datasheet",
+        "kind": "download",
+        "path": "/media/e65191c11ef8d7f8.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2002-LKNX-300-Installation-Sheet",
+        "alt": "LKNX-300 Installation Sheet",
+        "kind": "download",
+        "path": "/media/b13ab4ee3a70cb2e.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2007-EC-Declaration-L-KNX",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "35a7f49edd3acfd3d94ef03995a5226e71bf2606ec4ba275d3af4b8a5364f73c",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2007-EC-Declaration-L-KNX"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/c9a0d6196c733d18.jpg"
@@ -9735,13 +12143,34 @@
         "kind": "image",
         "path": "/media/62c466fb6b1687e1.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2145-LOYTEC-Device-User-Manual-7.6",
+        "alt": "LOYTEC Device User Manual",
+        "kind": "download",
+        "path": "/media/3052052c61475c14.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1568-EC-Declaration-L-Term",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/744-l-term-rs-485-datasheet",
+        "alt": "L-Term (RS-485) Datasheet",
+        "kind": "download",
+        "path": "/media/34355a38b53e1d3f.pdf",
+        "status": 200
       }
     ],
     "contentHash": "e507d1941d8a520f2bdb0ad94b3805c6ea8a5816064958b0c6d6ba1fb0459e44",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1568-EC-Declaration-L-Term"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/7cc3b7df97287149.jpg"
@@ -9761,13 +12190,34 @@
         "kind": "image",
         "path": "/media/91a6165169cac03a.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2533-LOYCNV-PT1008-Datasheet",
+        "alt": "LOYCNV-PT1008 Datasheet",
+        "kind": "download",
+        "path": "/media/b951d5c6e012a14d.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2524-LOYCNV-PT1008-Installation-Instructions",
+        "alt": "LOYCNV-PT1008 Installation Sheet",
+        "kind": "download",
+        "path": "/media/c274ee4751afb18b.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2480-EC-Declaration",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "7172d1b29e1f6e74b93e0d20c6a0833f767d6c0d83d94a9812c5efc3e8e63ce4",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2480-EC-Declaration"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/3a907d214f421453.jpg"
@@ -10432,13 +12882,41 @@
         "kind": "image",
         "path": "/media/113f5e79c3d0c6ec.jpg",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/2073-l-mbus20-l-mbus80-datasheet",
+        "alt": "L-MBUS20/80 Datasheet",
+        "kind": "download",
+        "path": "/media/67d0f70bb613726b.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/component/docman/doc_download/1466-l-mbus-manual-1-0",
+        "alt": "L-MBUS Manual",
+        "kind": "download",
+        "status": 500
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1423-L-MBUS-Installation-Instructions",
+        "alt": "Installation Sheet",
+        "kind": "download",
+        "path": "/media/d03c6c4f50f382c7.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1714-EC-Declaration-L-MBUS",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "bdf6c3b60e5c2de4e9f32dee3feac7f1a58a1e2dcbb6372b3f74a014a867cbc2",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/component/docman/doc_download/1466-l-mbus-manual-1-0",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1714-EC-Declaration-L-MBUS"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/a368cbb5d11a9876.jpg"
@@ -10536,13 +13014,48 @@
         "kind": "image",
         "path": "/media/d36b89a59f0a2625.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2483",
+        "alt": "EnOcean",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2429-LSTAT-8x0-G3-L0-Remote-EnOcean-Antenna-Datasheet",
+        "alt": "LSTAT-8×0-G3-L0 Remote EnOcean Antenna Datasheet",
+        "kind": "download",
+        "path": "/media/86ccfc26a47be161.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2159-L-STAT-User-Manual-3.0",
+        "alt": "L-STAT User Manual",
+        "kind": "download",
+        "path": "/media/551890bd5ba6a41c.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2430-L-STAT-Remote-EnOcean-Antenna-Installation-Instructions",
+        "alt": "L-STAT Remote EnOcean Antenna Installation Instructions",
+        "kind": "download",
+        "path": "/media/944af26739718223.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2098",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "5d675b0ae5d52da313287d56bd0e5d8441ce8e5f83c1d1e2aeb370b6ef56cf8f",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2483",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2098"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/89432902442528cd.jpg"
@@ -10753,13 +13266,62 @@
         "kind": "image",
         "path": "/media/f0908441b68401a8.png",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2215",
+        "alt": "General I/O Specifications",
+        "kind": "download",
+        "path": "/media/86f04c799a0b2b55.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1994-L-IOB-I/O-Controller-User-Manual-7.6",
+        "alt": "L-IOB I/O Controller User Manual",
+        "kind": "download",
+        "path": "/media/dd8f9e059c5c1dfc.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx",
+        "alt": "BTL",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2001-L-IOB-Device-Selector",
+        "alt": "L-IOB Device Selector",
+        "kind": "download",
+        "path": "/media/c34729ae4a060d25.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2453",
+        "alt": "LIOB-592 Datasheet",
+        "kind": "download",
+        "path": "/media/27ee6934c79daec9.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2354-LIOB-592-Installation-Instructions",
+        "alt": "LIOB-592 Installation Sheet",
+        "kind": "download",
+        "path": "/media/89b24252bf8f30b9.pdf",
+        "status": 200
       }
     ],
     "contentHash": "299017a0607bdaa1eacaf756fb37b7396877245584acdecb4d05bb0db4df18e8",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/170c2f4c9c9029b5.jpg"
@@ -14705,13 +17267,55 @@
         "kind": "download",
         "path": "/media/51afdf7339da9b6a.pdf",
         "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2428-L-ROC-User-Manual-3.0.10-(for-L-STUDIO-3.x)",
+        "alt": "L-ROC User Manual",
+        "kind": "download",
+        "path": "/media/ae8ccc70b2a24cc5.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2215",
+        "alt": "General I/O Specifications",
+        "kind": "download",
+        "path": "/media/86f04c799a0b2b55.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2505-LOYTEC-Bluetooth-Devices-User-Manual-1.4.0",
+        "alt": "Bluetooth Devices User Manual",
+        "kind": "download",
+        "path": "/media/6ebddc733bf687af.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2558-LROC-800-Installation-Instructions",
+        "alt": "LROC-800 Installation Instructions",
+        "kind": "download",
+        "path": "/media/e64d84174436d795.pdf",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2567-EC-Declaration-LROC-800",
+        "alt": "EC",
+        "kind": "download",
+        "status": 200
+      },
+      {
+        "source": "https://www.loytec.com/support/download/doc_download/2562-DALI-2-Certificate-for-LROC-800",
+        "alt": "DALI-2",
+        "kind": "download",
+        "status": 200
       }
     ],
     "contentHash": "2f768b1a2080196de25d7f1c4ec9cfb0da89b1bd0d40c25a2b67ca234796288b",
     "importStatus": "imported",
     "reviewFlags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2567-EC-Declaration-LROC-800",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2562-DALI-2-Certificate-for-LROC-800"
     ],
     "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
     "screenshot": "docs/screenshots/source/b0ccdf798863cf49.jpg"

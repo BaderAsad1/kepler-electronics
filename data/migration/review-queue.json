@@ -67,7 +67,14 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2164-AMEV-Self-declaration-L-INX-/-L-GATE-/-L-ROC-/-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2249-BTL-Certificate-LINX-xxx,-LGATE-xxx,-LROC-xxx,-LDALI-xxx,-LIP-xxx",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2516-DALI-2-Certificate-f%C3%BCr-LROC-400",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2284-MP-Bus-Certificate",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2252-SMI-Certificate:-LSMI-800,-LSMI-804,-LROC-40x",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2483"
     ],
     "reason": null
   },
@@ -76,7 +83,12 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2164-AMEV-Self-declaration-L-INX-/-L-GATE-/-L-ROC-/-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2249-BTL-Certificate-LINX-xxx,-LGATE-xxx,-LROC-xxx,-LDALI-xxx,-LIP-xxx",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2190-LROC-102-Installation-Instructions",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2049-EC-Declaration-LROC-10x",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2403-UL-Listed-Mark-Certificates"
     ],
     "reason": null
   },
@@ -85,7 +97,10 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1574-EC-Declaration-L-VIS",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2460-BTL-Certificate-L-VIS-/-L-PAD",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2253-UL-Listed-Mark-Certificate-(L-VIS,-L-STAT)"
     ],
     "reason": null
   },
@@ -112,7 +127,9 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2460-BTL-Certificate-L-VIS-/-L-PAD",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2448-EC-Declaration-L-PAD"
     ],
     "reason": null
   },
@@ -427,7 +444,9 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2258-EC-Declaration-DVS",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2277-UL-Listed-Mark-Certificate-(DVS)"
     ],
     "reason": null
   },
@@ -436,7 +455,9 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2258-EC-Declaration-DVS",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2277-UL-Listed-Mark-Certificate-(DVS)"
     ],
     "reason": null
   },
@@ -697,7 +718,9 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx"
     ],
     "reason": null
   },
@@ -706,7 +729,10 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2165-AMEV-Self-declaration-L-IOB"
     ],
     "reason": null
   },
@@ -715,7 +741,9 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx"
     ],
     "reason": null
   },
@@ -724,7 +752,10 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2164-AMEV-Self-declaration-L-INX-/-L-GATE-/-L-ROC-/-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1527-EC-Declaration-L-GATE"
     ],
     "reason": null
   },
@@ -733,7 +764,10 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2165-AMEV-Self-declaration-L-IOB"
     ],
     "reason": null
   },
@@ -751,7 +785,12 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2284-MP-Bus-Certificate",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2403-UL-Listed-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2165-AMEV-Self-declaration-L-IOB"
     ],
     "reason": null
   },
@@ -769,7 +808,10 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2249-BTL-Certificate-LINX-xxx,-LGATE-xxx,-LROC-xxx,-LDALI-xxx,-LIP-xxx",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2403-UL-Listed-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1527-EC-Declaration-L-GATE"
     ],
     "reason": null
   },
@@ -805,7 +847,8 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2481-EC-Declaration-L-TRIAC16-/-LOYREL-816"
     ],
     "reason": null
   },
@@ -814,7 +857,9 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2252-SMI-Certificate:-LSMI-800,-LSMI-804,-LROC-40x",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2166-EC-Declaration-L-SMI"
     ],
     "reason": null
   },
@@ -823,7 +868,9 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2483",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2086-EC-Declaration-L-ENO"
     ],
     "reason": null
   },
@@ -832,7 +879,8 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2259-EC-Declaration-LMPBUS-804"
     ],
     "reason": null
   },
@@ -850,7 +898,10 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2249-BTL-Certificate-LINX-xxx,-LGATE-xxx,-LROC-xxx,-LDALI-xxx,-LIP-xxx",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2403-UL-Listed-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1538-EC-Declaration-L-IP"
     ],
     "reason": null
   },
@@ -859,7 +910,9 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2403-UL-Listed-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1538-EC-Declaration-L-IP"
     ],
     "reason": null
   },
@@ -868,7 +921,9 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx"
     ],
     "reason": null
   },
@@ -877,7 +932,11 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2403-UL-Listed-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2165-AMEV-Self-declaration-L-IOB"
     ],
     "reason": null
   },
@@ -886,7 +945,9 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx"
     ],
     "reason": null
   },
@@ -895,7 +956,9 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1522-EC-Declaration-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2472-DALI-2-Certificate-for-LDALI-PD1"
     ],
     "reason": null
   },
@@ -904,7 +967,12 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2164-AMEV-Self-declaration-L-INX-/-L-GATE-/-L-ROC-/-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2249-BTL-Certificate-LINX-xxx,-LGATE-xxx,-LROC-xxx,-LDALI-xxx,-LIP-xxx",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1522-EC-Declaration-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2328-DALI-2-Certificate-for-LDALI-ME204-U-",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark"
     ],
     "reason": null
   },
@@ -913,7 +981,9 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+      "manufacturer-document-unavailable:https://www.loytec.com/fr/support/telechargement/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx"
     ],
     "reason": null
   },
@@ -922,7 +992,9 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+      "manufacturer-document-unavailable:https://www.loytec.com/fr/support/telechargement/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx"
     ],
     "reason": null
   },
@@ -931,7 +1003,10 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2257-LonMark-Certificate-LIOB-154/450/451/452/453/454"
     ],
     "reason": null
   },
@@ -949,7 +1024,11 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2164-AMEV-Self-declaration-L-INX-/-L-GATE-/-L-ROC-/-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2249-BTL-Certificate-LINX-xxx,-LGATE-xxx,-LROC-xxx,-LDALI-xxx,-LIP-xxx",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1522-EC-Declaration-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2365-DALI-2-Certificate-for-LDALI-PLC4"
     ],
     "reason": null
   },
@@ -985,7 +1064,10 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2256-LonMark-Certificate-LIOB-151/152/153"
     ],
     "reason": null
   },
@@ -1012,7 +1094,9 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1711-EC-Declaration-L-POW"
     ],
     "reason": null
   },
@@ -1021,7 +1105,8 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1568-EC-Declaration-L-Term"
     ],
     "reason": null
   },
@@ -1030,7 +1115,9 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1522-EC-Declaration-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2309-DALI-2-Certificate-for-LDALI-BM2-"
     ],
     "reason": null
   },
@@ -1039,7 +1126,10 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1522-EC-Declaration-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2350-DALI-2-Certificate-f%C3%BCr-LDALI-RM8",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2485-UL-Listed-Mark-Certificates-(LDALI-RM5,-LDALI-RM6,-LDALI-RM8)"
     ],
     "reason": null
   },
@@ -1048,7 +1138,9 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1522-EC-Declaration-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2485-UL-Listed-Mark-Certificates-(LDALI-RM5,-LDALI-RM6,-LDALI-RM8)"
     ],
     "reason": null
   },
@@ -1057,7 +1149,8 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2449-EC-Declaration-LDALI-MS2-BT,-LDALI-MS4-BT-"
     ],
     "reason": null
   },
@@ -1066,7 +1159,8 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1581-EC-Declaration-NIC"
     ],
     "reason": null
   },
@@ -1075,7 +1169,9 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1529-EC-Declaration-L-INX"
     ],
     "reason": null
   },
@@ -1084,7 +1180,11 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2164-AMEV-Self-declaration-L-INX-/-L-GATE-/-L-ROC-/-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2249-BTL-Certificate-LINX-xxx,-LGATE-xxx,-LROC-xxx,-LDALI-xxx,-LIP-xxx",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1529-EC-Declaration-L-INX"
     ],
     "reason": null
   },
@@ -1093,7 +1193,11 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2164-AMEV-Self-declaration-L-INX-/-L-GATE-/-L-ROC-/-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2249-BTL-Certificate-LINX-xxx,-LGATE-xxx,-LROC-xxx,-LDALI-xxx,-LIP-xxx",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2403-UL-Listed-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1529-EC-Declaration-L-INX"
     ],
     "reason": null
   },
@@ -1102,7 +1206,11 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2164-AMEV-Self-declaration-L-INX-/-L-GATE-/-L-ROC-/-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2249-BTL-Certificate-LINX-xxx,-LGATE-xxx,-LROC-xxx,-LDALI-xxx,-LIP-xxx",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1529-EC-Declaration-L-INX"
     ],
     "reason": null
   },
@@ -1129,7 +1237,8 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2508"
     ],
     "reason": null
   },
@@ -1147,7 +1256,9 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1711-EC-Declaration-L-POW"
     ],
     "reason": null
   },
@@ -1156,7 +1267,9 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1711-EC-Declaration",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2445-DALI-2"
     ],
     "reason": null
   },
@@ -1165,7 +1278,9 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1522-EC-Declaration-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2407-DALI-2-Certificate-for-LDALI-PWM4"
     ],
     "reason": null
   },
@@ -1174,7 +1289,9 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1522-EC-Declaration-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2473-DALI-2-Certificate-for-LOY-DALI-SBM1"
     ],
     "reason": null
   },
@@ -1183,7 +1300,10 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1522-EC-Declaration-L-DALI",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2385-DALI-2-Certificate-for-LDALI-3E104-U"
     ],
     "reason": null
   },
@@ -1192,7 +1312,8 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2449"
     ],
     "reason": null
   },
@@ -1201,7 +1322,11 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2254-UL-Recognized-Component-Mark-Certificates",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2165-AMEV-Self-declaration-L-IOB"
     ],
     "reason": null
   },
@@ -1210,7 +1335,9 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2253-UL-Listed-Mark-Certificate-(L-VIS,-L-STAT)",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2098-EC-Declaration-L-STAT"
     ],
     "reason": null
   },
@@ -1219,7 +1346,8 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2481-EC-Declaration-L-TRIAC16-/-LOYREL-816"
     ],
     "reason": null
   },
@@ -1228,7 +1356,8 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2480-EC-Declaration-LOYCNV-VA8"
     ],
     "reason": null
   },
@@ -1246,7 +1375,8 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2087-EC-Declaration-L-WLAN"
     ],
     "reason": null
   },
@@ -1264,7 +1394,8 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2007-EC-Declaration-L-KNX"
     ],
     "reason": null
   },
@@ -1282,7 +1413,8 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1568-EC-Declaration-L-Term"
     ],
     "reason": null
   },
@@ -1291,7 +1423,8 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2480-EC-Declaration"
     ],
     "reason": null
   },
@@ -1426,7 +1559,9 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/component/docman/doc_download/1466-l-mbus-manual-1-0",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1714-EC-Declaration-L-MBUS"
     ],
     "reason": null
   },
@@ -1462,7 +1597,9 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2483",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2098"
     ],
     "reason": null
   },
@@ -1507,7 +1644,9 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/1703-EC-Declaration-L-IOB",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2251-BTL-Certificate-LIOB-x,-LIOB-AIRx"
     ],
     "reason": null
   },
@@ -2866,7 +3005,9 @@
     "classification": "product",
     "flags": [
       "business-review-pending",
-      "asset-rights-review-pending"
+      "asset-rights-review-pending",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2567-EC-Declaration-LROC-800",
+      "manufacturer-document-unavailable:https://www.loytec.com/support/download/doc_download/2562-DALI-2-Certificate-for-LROC-800"
     ],
     "reason": null
   },

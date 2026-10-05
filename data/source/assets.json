@@ -29091,5 +29091,2000 @@
     "displayPath": "/media/dbeafdf17cdf3745.webp",
     "width": 300,
     "height": 300
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2177-lroc-400-lroc-401-lroc-402-datasheet",
+    "originalPath": "/media/d60851a0f9f20812.pdf",
+    "bytes": 3544223,
+    "sha256": "0bcd8f1563d14dcdb4807337465f6e9ddac02dcd8fa657b8517fd194d83d644f",
+    "kind": "download",
+    "alt": "LROC-40x Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2023/10/09/lroc-40x-room-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:23:38.126Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2184-LROC-40x-Installation-Instructions",
+    "originalPath": "/media/ba587be1e9c9fd83.pdf",
+    "bytes": 1062359,
+    "sha256": "271fe099d54c8470684006c6b77880b9eaa71db8512a28c522800b8a44923934",
+    "kind": "download",
+    "alt": "LROC-40x Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2023/10/09/lroc-40x-room-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:23:38.140Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2428-L-ROC-User-Manual-3.0.10-(for-L-STUDIO-3.x)",
+    "originalPath": "/media/ae8ccc70b2a24cc5.pdf",
+    "bytes": 3446458,
+    "sha256": "ec296d32906a4c909aefb9e1f826b9612817f1d3252b9870cfc9cee7c056fd02",
+    "kind": "download",
+    "alt": "L-ROC User Manual",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2023/10/09/lroc-40x-room-controller/",
+      "https://kepler-elec.com/2023/10/09/lroc-102-room-controller/",
+      "https://kepler-elec.com/2025/06/08/lroc-800-bluetooth-mesh-room-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:23:40.112Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2215",
+    "originalPath": "/media/86f04c799a0b2b55.pdf",
+    "bytes": 120158,
+    "sha256": "84b392e5ce9ba112efd06a1c826a743ef08fdebe2a13ec80cc644521715fcfee",
+    "kind": "download",
+    "alt": "General I/O Specifications",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2023/10/09/lroc-40x-room-controller/",
+      "https://kepler-elec.com/2024/03/28/liob-590-i-o-controller/",
+      "https://kepler-elec.com/2023/10/09/liob-591-room-controller/",
+      "https://kepler-elec.com/2023/10/08/l-iob-i-o-controllers/",
+      "https://kepler-elec.com/2024/03/28/liob-594-i-o-controller/",
+      "https://kepler-elec.com/2024/03/28/liob-586-587-588-589-i-o-controller/",
+      "https://kepler-elec.com/2024/03/28/liob-593-i-o-controller/",
+      "https://kepler-elec.com/2024/04/02/liob-562-module-bacnet-ip/",
+      "https://kepler-elec.com/2024/04/02/liob-560-module-bacnet-ip/",
+      "https://kepler-elec.com/2024/04/02/liob-ip852-i-o-modules-lonmark/",
+      "https://kepler-elec.com/2024/04/02/liob-connect-i-o-modules/",
+      "https://kepler-elec.com/2024/04/02/liob-ft-i-o-modules-lonmark/",
+      "https://kepler-elec.com/2024/04/02/liob-bip-i-o-modules-bacnet-ip/",
+      "https://kepler-elec.com/2024/03/28/liob-592-i-o-controller/",
+      "https://kepler-elec.com/2025/06/08/lroc-800-bluetooth-mesh-room-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:23:40.639Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2178-lroc-102-datasheet",
+    "originalPath": "/media/71331ba8d646ca3b.pdf",
+    "bytes": 3455789,
+    "sha256": "901d7bb6fb3283ed47155e2e8094d7fc179529eeed675fafae55a8ce7e37c932",
+    "kind": "download",
+    "alt": "LROC-102 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2023/10/09/lroc-102-room-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:23:44.308Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2319-L-FOCUS:-Visualization-Solutions-with-L-VIS,-L-STAT,-L-WEB-(English)",
+    "originalPath": "/media/0b8da3f570bcdf37.pdf",
+    "bytes": 28402469,
+    "sha256": "29c6ef8de4878153212410db877b850f109784694a6166e2a426a91b2bcabd47",
+    "kind": "download",
+    "alt": "Visualization Solutions Brochure",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/l-vis-touch-panels/",
+      "https://kepler-elec.com/2024/03/29/l-stat-room-operator-panel/"
+    ],
+    "fetchedAt": "2026-10-05T16:23:47.597Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2095",
+    "originalPath": "/media/0c4896048b65c4ba.pdf",
+    "bytes": 3323489,
+    "sha256": "e7782a9a74881edd271d1385f4ee3c951b0cb15828a0b8d205ca3c25726243b3",
+    "kind": "download",
+    "alt": "LVIS-3MEx Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/l-vis-touch-panels/"
+    ],
+    "fetchedAt": "2026-10-05T16:23:47.820Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/380-L-VIS-/-L-PAD-User-Manual-7.6",
+    "originalPath": "/media/d5eb144b4b2f5230.pdf",
+    "bytes": 6565722,
+    "sha256": "d0cdf3cc9c68a9a5bbd705b80d3974abd4e32ccfa5e7ab4a7656da0a0416f61c",
+    "kind": "download",
+    "alt": "L-VIS / L-PAD User Manual",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/l-vis-touch-panels/"
+    ],
+    "fetchedAt": "2026-10-05T16:23:49.297Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2083-LVIS-3MEx-Installation-Instructions",
+    "originalPath": "/media/7ca6dc0323c1cb36.pdf",
+    "bytes": 1003835,
+    "sha256": "e8840d733e3928d62589fe4c64f4e391e015117178b8fce06a75c0b1ea88a8b5",
+    "kind": "download",
+    "alt": "LVIS-3MEx Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/l-vis-touch-panels/"
+    ],
+    "fetchedAt": "2026-10-05T16:23:50.639Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2362-lpad-7-programmable-touch-panels-datasheet",
+    "originalPath": "/media/688c9ef50c524ad8.pdf",
+    "bytes": 2174074,
+    "sha256": "fb2f5022870a17ad035bf1310986648d7103f939cafbb6ec64ac6abf96231e0b",
+    "kind": "download",
+    "alt": "LPAD-7 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2023/10/08/loytec-lpad-7/"
+    ],
+    "fetchedAt": "2026-10-05T16:23:52.426Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/380-L-VIS-/-L-PAD-User-Manual-7.4.8",
+    "originalPath": "/media/a6d19fceccab14bd.pdf",
+    "bytes": 6565722,
+    "sha256": "d0cdf3cc9c68a9a5bbd705b80d3974abd4e32ccfa5e7ab4a7656da0a0416f61c",
+    "kind": "download",
+    "alt": "L-VIS / L-PAD User Manual",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2023/10/08/loytec-lpad-7/"
+    ],
+    "fetchedAt": "2026-10-05T16:23:53.065Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2363-LPAD-7-Installation-Instructions",
+    "originalPath": "/media/ecc7f8b4173f0a5b.pdf",
+    "bytes": 923298,
+    "sha256": "897ea4c6f01ee631b5b6d4b91d348fae2e49735b7953bfd5572fd12faebbd1da",
+    "kind": "download",
+    "alt": "LPAD-7 Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2023/10/08/loytec-lpad-7/"
+    ],
+    "fetchedAt": "2026-10-05T16:23:53.450Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2261-loydvs-110w02-3sfp-dvs-110w02-3sfp-datasheet",
+    "originalPath": "/media/f9431a550df11510.pdf",
+    "bytes": 268713,
+    "sha256": "f11518bdc5fc176f5523aa22ca37da4c72bf4fa390eb2488275505392c588ed0",
+    "kind": "download",
+    "alt": "DVS-110W02-3SFP Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/dvs-110w02-3sfp-managed-industrial-ethernet-switch/"
+    ],
+    "fetchedAt": "2026-10-05T16:23:55.196Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2281-DVS-110W02-3SFP-Installation-Instructions",
+    "originalPath": "/media/ecb52ffec48930de.pdf",
+    "bytes": 1670282,
+    "sha256": "caf065dd884262bc103377063bd1dd9b11b2c5933d208b93033090a335f571c1",
+    "kind": "download",
+    "alt": "DVS-110W02-3SFP Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/dvs-110w02-3sfp-managed-industrial-ethernet-switch/"
+    ],
+    "fetchedAt": "2026-10-05T16:23:55.228Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2262-loydvs-008i00-dvs-008i00-datasheet",
+    "originalPath": "/media/4a2a3b6c48e7ccf8.pdf",
+    "bytes": 207836,
+    "sha256": "d3267d7e3282999dcbf8eb9f0c3551884de71490d64a61a097532ecd9441b28c",
+    "kind": "download",
+    "alt": "DVS-008I00 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/dvs-008i00-unmanaged-fast-ethernet-switch/"
+    ],
+    "fetchedAt": "2026-10-05T16:23:57.319Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2282-DVS-008I00-Installation-Instructions",
+    "originalPath": "/media/4a8bc5fdf0b3bc0f.pdf",
+    "bytes": 1761992,
+    "sha256": "2ed9a5d63792e83256e92dfc8b04505c4332b0e7fdffd4fa3744783438c16b02",
+    "kind": "download",
+    "alt": "DVS-008I00 Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/dvs-008i00-unmanaged-fast-ethernet-switch/"
+    ],
+    "fetchedAt": "2026-10-05T16:23:57.576Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2457",
+    "originalPath": "/media/98dacaecdae591c6.pdf",
+    "bytes": 2465504,
+    "sha256": "52baaab19535506c43fd0ef7777e749138624d2dcb4b6dbcfec14025c00a72cc",
+    "kind": "download",
+    "alt": "LIOB-595 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/28/liob-595-i-o-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:23:58.603Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2435",
+    "originalPath": "/media/909af8e63f180410.pdf",
+    "bytes": 878624,
+    "sha256": "83e985f19160937df9eb533b4bcf185cf3eceb599dbd75e1dc4bf26c48ef6afc",
+    "kind": "download",
+    "alt": "LIOB-595 Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/28/liob-595-i-o-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:23:58.981Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/1994-L-IOB-I/O-Controller-User-Manual-7.6",
+    "originalPath": "/media/dd8f9e059c5c1dfc.pdf",
+    "bytes": 4874472,
+    "sha256": "c30de9d18a1be452defb2b8b937aca227c0803175cf2436e10692add6eff0f51",
+    "kind": "download",
+    "alt": "L-IOB I/O Controller User Manual",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/28/liob-595-i-o-controller/",
+      "https://kepler-elec.com/2024/03/28/liob-590-i-o-controller/",
+      "https://kepler-elec.com/2024/03/28/liob-596-i-o-controller/",
+      "https://kepler-elec.com/2023/10/09/liob-591-room-controller/",
+      "https://kepler-elec.com/2023/10/08/l-iob-i-o-controllers/",
+      "https://kepler-elec.com/2024/03/28/liob-594-i-o-controller/",
+      "https://kepler-elec.com/2024/03/28/liob-586-587-588-589-i-o-controller/",
+      "https://kepler-elec.com/2024/03/28/liob-593-i-o-controller/",
+      "https://kepler-elec.com/2024/03/28/liob-592-i-o-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:00.024Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2215-General-Input-and-Output-Specification-of-LOYTEC-devices",
+    "originalPath": "/media/5a7ab759a465fbc9.pdf",
+    "bytes": 120158,
+    "sha256": "84b392e5ce9ba112efd06a1c826a743ef08fdebe2a13ec80cc644521715fcfee",
+    "kind": "download",
+    "alt": "General I/O Specifications",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/28/liob-595-i-o-controller/",
+      "https://kepler-elec.com/2024/03/28/liob-596-i-o-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:00.413Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2001-l-iob-device-selector?Itemid=197",
+    "originalPath": "/media/283f38c6de7c26ab.pdf",
+    "bytes": 4041418,
+    "sha256": "c23f4ddd637e09618df9d337e5fe3190de451a80a80bc74c0691e41630ed5bcb",
+    "kind": "download",
+    "alt": "L-IOB Device Selector",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/28/liob-595-i-o-controller/",
+      "https://kepler-elec.com/2024/03/28/liob-590-i-o-controller/",
+      "https://kepler-elec.com/2024/03/28/liob-596-i-o-controller/",
+      "https://kepler-elec.com/2023/10/09/liob-591-room-controller/",
+      "https://kepler-elec.com/2023/10/08/l-iob-i-o-controllers/",
+      "https://kepler-elec.com/2024/03/28/liob-594-i-o-controller/",
+      "https://kepler-elec.com/2024/03/28/liob-586-587-588-589-i-o-controller/",
+      "https://kepler-elec.com/2024/04/02/liob-562-module-bacnet-ip/",
+      "https://kepler-elec.com/2024/04/02/liob-560-module-bacnet-ip/",
+      "https://kepler-elec.com/2024/04/02/liob-ip852-i-o-modules-lonmark/",
+      "https://kepler-elec.com/2024/04/02/liob-connect-i-o-modules/",
+      "https://kepler-elec.com/2024/04/02/liob-ft-i-o-modules-lonmark/",
+      "https://kepler-elec.com/2024/04/02/liob-bip-i-o-modules-bacnet-ip/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:01.253Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2374-liob-590-datasheet?Itemid=2374",
+    "originalPath": "/media/132be8dee27b3c6b.pdf",
+    "bytes": 2075826,
+    "sha256": "a10b1a97c8c32264d20390c7135a59ed8dfd1565b64c9b1282a3775f75f93cc0",
+    "kind": "download",
+    "alt": "LIOB-590 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/28/liob-590-i-o-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:02.508Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2369-LIOB-590-Installation-Instructions",
+    "originalPath": "/media/5fb1838c2f6862ce.pdf",
+    "bytes": 986976,
+    "sha256": "49903a01cefda6c0b41e4496b9d264fc82e638d421cdb7f4824aecf56b24340f",
+    "kind": "download",
+    "alt": "LIOB-590 Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/28/liob-590-i-o-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:03.301Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2458-LIOB-596-Datasheet",
+    "originalPath": "/media/bca231e079fade38.pdf",
+    "bytes": 2467249,
+    "sha256": "8064a19c57378f9de54ef105b2df14eccad840cb6acc5d8eda2d0a00d1faba14",
+    "kind": "download",
+    "alt": "LIOB-596 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/28/liob-596-i-o-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:04.445Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2436-LIOB-596-Installation-Instructions",
+    "originalPath": "/media/957f3080dc4d0e27.pdf",
+    "bytes": 854302,
+    "sha256": "5c27c0e0b57b3ed2212c77cbc5558d341f32cdd6fa62b495fd078881e8b9ccb5",
+    "kind": "download",
+    "alt": "LIOB-596 Installation Sheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/28/liob-596-i-o-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:05.384Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2126-lgate-902-datasheet",
+    "originalPath": "/media/caaf8531db959ca5.pdf",
+    "bytes": 2506172,
+    "sha256": "4e2335f2dd9853c505a05899d89255d0f2385062547a60755c775d2e05744384",
+    "kind": "download",
+    "alt": "LGATE-902 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/25/lgate-902/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:05.651Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2173",
+    "originalPath": "/media/45222c0c5ae25869.pdf",
+    "bytes": 912579,
+    "sha256": "506bad5e87a8837c965242f7ec04b51e3a7a6bf9ee962057ecdae1dd12cb0752",
+    "kind": "download",
+    "alt": "LGATE-902 Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/25/lgate-902/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:06.714Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2158-L-INX-/-L-GATE-User-Manual-7.6",
+    "originalPath": "/media/6d4c1ac75f883381.pdf",
+    "bytes": 5022958,
+    "sha256": "1dafcc12f03c01b50a8c64757464003988a939cf104de3e41d85cd58db47af74",
+    "kind": "download",
+    "alt": "L-INX / L-GATE User Manual",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/25/lgate-902/",
+      "https://kepler-elec.com/2024/03/25/lgate-952/",
+      "https://kepler-elec.com/2024/03/26/linx-102-103-automation-server-cea-709/",
+      "https://kepler-elec.com/2024/03/29/linx-215-automation-server/",
+      "https://kepler-elec.com/2024/03/29/linx-153-154-automation-server/",
+      "https://kepler-elec.com/2024/03/26/linx-202-203/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:06.843Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2415-LIOB-591-Datasheet",
+    "originalPath": "/media/b53b45b10a57b44d.pdf",
+    "bytes": 2552768,
+    "sha256": "e98b4309b3b9ca0a6cacfebdefdc3b923156974fab98e1abb97e739fc6047636",
+    "kind": "download",
+    "alt": "LIOB-591 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2023/10/09/liob-591-room-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:08.049Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2358-LIOB-591-Installation-Instructions",
+    "originalPath": "/media/e346f4b6042d1d1b.pdf",
+    "bytes": 887080,
+    "sha256": "d56005264d6dd8eb21cc0f35f3170dca0a0ab28af569d3b3cb8547c8aecff39b",
+    "kind": "download",
+    "alt": "LIOB-591 Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2023/10/09/liob-591-room-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:08.828Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2270-liob-585-datasheet?Itemid=2270",
+    "originalPath": "/media/2d4b35c580fd49f2.pdf",
+    "bytes": 2543135,
+    "sha256": "5ccca56757828682f2ea8ce48aa89f29081f5b18b35102398f4408801c61c4cc",
+    "kind": "download",
+    "alt": "LIOB-585 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2023/10/08/l-iob-i-o-controllers/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:09.110Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2269-LIOB-585-Installation-Instructions",
+    "originalPath": "/media/11afa9bb61973e06.pdf",
+    "bytes": 924551,
+    "sha256": "7ce6fe39372eeb22f0f789e563206a0a8d571a6882df26f73f3db299f6093792",
+    "kind": "download",
+    "alt": "LIOB-585 Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2023/10/08/l-iob-i-o-controllers/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:10.168Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/1986-lgate-952-datasheet",
+    "originalPath": "/media/b0f6d5956514b218.pdf",
+    "bytes": 2538148,
+    "sha256": "4b8b11ac7db52256760fe51eeb14ec649388412a7e868b5623d50b4d8231c413",
+    "kind": "download",
+    "alt": "LGATE-952",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/25/lgate-952/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:10.363Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2192-LGATE-952-Installation-Instructions",
+    "originalPath": "/media/ffd7c8d1aa30cb5d.pdf",
+    "bytes": 979303,
+    "sha256": "89cf0868d37f6a0f3358031847cdcd6603383438cae6957301ac278af57c4ccd",
+    "kind": "download",
+    "alt": "LGATE-952 Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/25/lgate-952/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:11.420Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2425-LOYREL-816-Datasheet",
+    "originalPath": "/media/824dfedba4b94377.pdf",
+    "bytes": 327778,
+    "sha256": "52b1296d86c90ece6055d44dc6352476b06976277ba126134944b6fab6de696f",
+    "kind": "download",
+    "alt": "LOYREL-816 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/loyrel-816-relay-interface/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:11.570Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2424-LOYREL-816-Installation-Instructions",
+    "originalPath": "/media/dec0cd40bd631c4c.pdf",
+    "bytes": 846229,
+    "sha256": "d996137894ab1105c1e35d1169c4055c9f1f38c1ce82ac1f5e1424f3f8b4d873",
+    "kind": "download",
+    "alt": "LOYREL-816 Installation Sheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/loyrel-816-relay-interface/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:12.458Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2145-LOYTEC-Device-User-Manual-7.6",
+    "originalPath": "/media/3052052c61475c14.pdf",
+    "bytes": 14498610,
+    "sha256": "767e09b934169e5449993c4ff4d7e220bf2bb822c4f36b6afa682f15d882c6fb",
+    "kind": "download",
+    "alt": "LOYTEC Device User Manual",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/lsmi-standard-motor-interface/",
+      "https://kepler-elec.com/2024/04/02/l-pow-power-supply/",
+      "https://kepler-elec.com/2024/04/02/l-term-network-terminator-tp-ft-10-and-tp-xf-1250/",
+      "https://kepler-elec.com/2024/04/02/lbox-600-system-distribution-box/",
+      "https://kepler-elec.com/2024/03/29/l-wlan-wireless-lan-interface/",
+      "https://kepler-elec.com/2024/03/29/knx-tp1-interface/",
+      "https://kepler-elec.com/2024/06/02/l-term-network-terminator/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:13.511Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2084-leno-80x-datasheet",
+    "originalPath": "/media/f023ced3801c66da.pdf",
+    "bytes": 270303,
+    "sha256": "1b7d9d9891dc31c4cfd8edee056bd1a54e49272d71d057350d2de94efb8441be",
+    "kind": "download",
+    "alt": "L-ENO Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/l-eno-enocean-interface/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:14.467Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2089-LENO-800,-LENO-801,-LENO-802-Installation-Instructions",
+    "originalPath": "/media/ae06c7e48630b1be.pdf",
+    "bytes": 1040074,
+    "sha256": "1388bb393540f35bb356b0b5247d83f3d47a2da328ba02c5e9d5fe8b276397c5",
+    "kind": "download",
+    "alt": "LENO-800, LENO-801, LENO-802 Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/l-eno-enocean-interface/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:15.439Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2226-lmpbus-804-datasheet",
+    "originalPath": "/media/d634b19a3dea21d9.pdf",
+    "bytes": 349685,
+    "sha256": "5cbdb8c5745fa35c59c2d628f7ecc7e6ab51c1a638af67c0dff6496881cb2c7e",
+    "kind": "download",
+    "alt": "LMPBUS-804 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/mp-bus-interface/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:16.456Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2231-L-MPBUS-Installation-Instructions",
+    "originalPath": "/media/46da3ba66bfe1e60.pdf",
+    "bytes": 326873,
+    "sha256": "00419b7f2c8d31e13d9104d26dd67ee1f6ab1f9164450192eb5d14a56560951a",
+    "kind": "download",
+    "alt": "L-MPBUS Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/mp-bus-interface/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:16.821Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/110-lpa-datasheet",
+    "originalPath": "/media/c13da014a106c319.pdf",
+    "bytes": 452852,
+    "sha256": "6c4891966b93801384256fc587ff11d5e4fb497bbb8ecb84b0046f7a41eade34",
+    "kind": "download",
+    "alt": "LPA Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/lpa/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:17.703Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/404-LPA/LPA-IP-User-Manual-3.7",
+    "originalPath": "/media/b5f4a6bf04cbd220.pdf",
+    "bytes": 1646067,
+    "sha256": "8dea5e7280250771126146f95f873569dccc5c6dd8be5323f6f3d7db083be138",
+    "kind": "download",
+    "alt": "LPA/LPA-IP User Manual",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/lpa/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:18.282Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/498-lip-me20xc-datasheet",
+    "originalPath": "/media/8c3c0a95548a9371.pdf",
+    "bytes": 1560392,
+    "sha256": "d8764c1aeef25870a4e068d9045b7b78f51f0d6f5f4120be306bf03867038797",
+    "kind": "download",
+    "alt": "LIP-ME20xC Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/l-ip-router-bacnet/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:18.752Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/629-LIP-ME20x-User-Manual-7.6",
+    "originalPath": "/media/b3cedea60469eb71.pdf",
+    "bytes": 1059804,
+    "sha256": "30551ecf017c38728ad17b907a5b4e72d8b57309cf092c6f7066b66efa27e379",
+    "kind": "download",
+    "alt": "LIP-ME20x User Manual",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/l-ip-router-bacnet/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:19.445Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2123-lip-xectc-datasheet",
+    "originalPath": "/media/8e276036a71fb202.pdf",
+    "bytes": 1554184,
+    "sha256": "46c29fca14d034f51f67369460a103e5c86187a95863785504751e50e71c8b4c",
+    "kind": "download",
+    "alt": "LIP-xECTC Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/l-ip-router-cea-709/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:20.501Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2189-LIP-3333ECTC-Installation-Instructions",
+    "originalPath": "/media/45ffdafdaa5aa34e.pdf",
+    "bytes": 977106,
+    "sha256": "4eb12ed7a2f627b1a5d36a0eb13502f4e56f1c5bf32a7f33486d7a0489c87396",
+    "kind": "download",
+    "alt": "LIP-3333ECTC",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/l-ip-router-cea-709/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:21.418Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2125-LIP-1ECTC,-LIP-3ECTC,-LIP-33ECTC-Installation-Instructions",
+    "originalPath": "/media/f8eb363dccf2ecce.pdf",
+    "bytes": 1047600,
+    "sha256": "82159379ef6a5987515c80df6eb92b61a2aba5e3b27200798c7fc2f97aaa9cc3",
+    "kind": "download",
+    "alt": "LIP-1ECTC / LIP-3ECTC / LIP-33ECTC",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/l-ip-router-cea-709/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:21.658Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2-L-IP-User-Manual-7.4",
+    "originalPath": "/media/06fc7faf1363c8fb.pdf",
+    "bytes": 7305338,
+    "sha256": "677ac85fe76e4203af009f54d08e8f0b29596d693a4f0ae671a12dbb06a0e68f",
+    "kind": "download",
+    "alt": "L-IP User Manual",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/l-ip-router-cea-709/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:22.622Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2456",
+    "originalPath": "/media/1b6f5107108ea329.pdf",
+    "bytes": 2464331,
+    "sha256": "a1112f7e4888f9c767dbe8e3bd11196a1ed24db6d90abdafb48e4d4e6e6101de",
+    "kind": "download",
+    "alt": "LIOB-594 Datashe",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/28/liob-594-i-o-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:22.724Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2438-LIOB-594-Installation-Instructions",
+    "originalPath": "/media/ad9b3767bceefe07.pdf",
+    "bytes": 962528,
+    "sha256": "c3052bfe44862a160f928dfb6ce7d0825e481a18320b3da05df16d219bf0c2b3",
+    "kind": "download",
+    "alt": "LIOB-594 Installation Sheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/28/liob-594-i-o-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:24.288Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2167-liob-586-587-588-589-datasheet",
+    "originalPath": "/media/1b9e0c8f12a7fe7f.pdf",
+    "bytes": 3472427,
+    "sha256": "36927b44fcbedac7619c5e962f3e041ea95da2abfa2893575d7945dbde46627e",
+    "kind": "download",
+    "alt": "LIOB-586/587/588/589 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/28/liob-586-587-588-589-i-o-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:24.308Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2194-LIOB-586-/-LIOB-587-Installation-Instructions",
+    "originalPath": "/media/9804b0a73d2341a5.pdf",
+    "bytes": 961784,
+    "sha256": "1cbb037d01c5073b55fc1f28fb89eebc3269b589350b35b3b5fd57f2099b19f3",
+    "kind": "download",
+    "alt": "LIOB-586/LIOB-587",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/28/liob-586-587-588-589-i-o-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:25.287Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2229-LIOB-588-Installation-Instructions",
+    "originalPath": "/media/22b9523f6d1af8d3.pdf",
+    "bytes": 979087,
+    "sha256": "69f5cab54587268a8be71458219aedcb3adb874287fdd392d8157333c0a95685",
+    "kind": "download",
+    "alt": "LIOB-588",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/28/liob-586-587-588-589-i-o-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:25.576Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2230-LIOB-589-Installation-Instructions",
+    "originalPath": "/media/8c2f31e4dc75e967.pdf",
+    "bytes": 980008,
+    "sha256": "50f43c748ca54c1bbd93fb3deaaf5d5c19edaf12a5060ded0846439c04c09419",
+    "kind": "download",
+    "alt": "LIOB-589",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/28/liob-586-587-588-589-i-o-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:26.276Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2455",
+    "originalPath": "/media/7dfc4683f0b62559.pdf",
+    "bytes": 2548719,
+    "sha256": "54936b3af7f702c1d24dd607694b2a3aa179179bc9471d5616a45e637f183d21",
+    "kind": "download",
+    "alt": "LIOB-593 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/28/liob-593-i-o-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:26.614Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2437",
+    "originalPath": "/media/e13053e85c48b14d.pdf",
+    "bytes": 848056,
+    "sha256": "be5107ec8cc0dbddd90217c9ee54d1eb6654061ffa3de20239b42369444df5e0",
+    "kind": "download",
+    "alt": "LIOB-593 Installation Sheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/28/liob-593-i-o-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:27.441Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2001-L-IOB-Device-Selector",
+    "originalPath": "/media/c34729ae4a060d25.pdf",
+    "bytes": 4041418,
+    "sha256": "c23f4ddd637e09618df9d337e5fe3190de451a80a80bc74c0691e41630ed5bcb",
+    "kind": "download",
+    "alt": "L-IOB Device Selector",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/28/liob-593-i-o-controller/",
+      "https://kepler-elec.com/2024/03/28/liob-592-i-o-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:27.824Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2146-L-FOCUS:-L-DALI-Lighting-Control-Solutions-(English)",
+    "originalPath": "/media/23bdf0a9316ef2d7.pdf",
+    "bytes": 58098366,
+    "sha256": "4ce59c2ccf609a7365428e908b64a5a1c6f9432897741bffe04181c7c5c72da9",
+    "kind": "download",
+    "alt": "L-FOCUS: L-DALI Lighting Control Solutions (English)",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/ldali-pd1-phase-cut-dimmer-module/",
+      "https://kepler-elec.com/2024/04/02/l-dali-bacnet-dali-controllers/",
+      "https://kepler-elec.com/2024/03/29/ldaliplc2-ldaliplc4-programmable-dali-controller/",
+      "https://kepler-elec.com/2024/04/02/l-dali-pushbutton-coupler/",
+      "https://kepler-elec.com/2024/04/02/ldali-rm8-relay-module/",
+      "https://kepler-elec.com/2024/04/02/ldali-rm5-ldali-rm6-relay-modules/",
+      "https://kepler-elec.com/2024/04/02/ldali-ms/",
+      "https://kepler-elec.com/2024/04/02/l-rc1-infrared-remote-control/",
+      "https://kepler-elec.com/2024/04/02/ldali-pwr2-u-ldali-pwr4-u-power-supply/",
+      "https://kepler-elec.com/2024/04/02/ldali-pwr1-u-power-supply/",
+      "https://kepler-elec.com/2024/04/02/ldali-pwm4-pwm-modules/",
+      "https://kepler-elec.com/2024/04/02/l-dali-cea-709-dali-controllers/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:28.520Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2433",
+    "originalPath": "/media/92543af3bb10bca2.pdf",
+    "bytes": 516634,
+    "sha256": "d1f7f593547e8d8440c162ff9dc9bf694ba7f38f8dd83b6f62f846e5b779c112",
+    "kind": "download",
+    "alt": "LDALI-PD1 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/ldali-pd1-phase-cut-dimmer-module/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:29.014Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/1454-L-DALI-User-Manual-7.6",
+    "originalPath": "/media/613146c722b59ca5.pdf",
+    "bytes": 9044341,
+    "sha256": "8c9382ba0574bd53481b34e3485d01a918b3bb09d506db0af2f5378f2ddbee83",
+    "kind": "download",
+    "alt": "L-DALI User Manual",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/ldali-pd1-phase-cut-dimmer-module/",
+      "https://kepler-elec.com/2024/04/02/l-dali-bacnet-dali-controllers/",
+      "https://kepler-elec.com/2024/03/29/ldaliplc2-ldaliplc4-programmable-dali-controller/",
+      "https://kepler-elec.com/2024/04/02/l-dali-pushbutton-coupler/",
+      "https://kepler-elec.com/2024/04/02/ldali-rm8-relay-module/",
+      "https://kepler-elec.com/2024/04/02/ldali-rm5-ldali-rm6-relay-modules/",
+      "https://kepler-elec.com/2024/04/02/ldali-ms/",
+      "https://kepler-elec.com/2024/04/02/l-rc1-infrared-remote-control/",
+      "https://kepler-elec.com/2024/04/02/ldali-pwr2-u-ldali-pwr4-u-power-supply/",
+      "https://kepler-elec.com/2024/04/02/ldali-pwm4-pwm-modules/",
+      "https://kepler-elec.com/2024/04/02/loy-dali-sbm1-sunblind-module/",
+      "https://kepler-elec.com/2024/04/02/l-dali-cea-709-dali-controllers/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:29.929Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2432-LDALI-PD1-Installation-Instructions",
+    "originalPath": "/media/cde79b872d9376d0.pdf",
+    "bytes": 750376,
+    "sha256": "5568028b77ea05a65be55ecd4695f32f79fc3c3ba218bfa50c6e55b4d2846c59",
+    "kind": "download",
+    "alt": "LDALI-PD1 Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/ldali-pd1-phase-cut-dimmer-module/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:31.540Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/91-l-dali-bacnet-controller-datasheet-ldali-me201-u,-ldali-me202-u,-ldali-me204-u",
+    "originalPath": "/media/ccbfed4d28c56d0f.pdf",
+    "bytes": 2580938,
+    "sha256": "751db6c848995eed3aed451c762332a2bc974e8d5d5a955ad095e86243590550",
+    "kind": "download",
+    "alt": "L-DALI: BACnet/DALI Controller Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/l-dali-bacnet-dali-controllers/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:33.454Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2162-LDALI-ME201-U/ME204-U-/-LDALI-PLC2/PLC4-Installation-Instructions",
+    "originalPath": "/media/d7ac92e6e101c8ee.pdf",
+    "bytes": 856658,
+    "sha256": "c9bd8a9801fa3b244479117381ae3e83b1055745336b36c987a363088c14da61",
+    "kind": "download",
+    "alt": "LDALI-ME201-U/ME202-U/ME204-U Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/l-dali-bacnet-dali-controllers/",
+      "https://kepler-elec.com/2024/03/29/ldaliplc2-ldaliplc4-programmable-dali-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:33.727Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2054-an011e-l-dali-compatibility-list",
+    "originalPath": "/media/ab1e972f5a5af586.pdf",
+    "bytes": 94244,
+    "sha256": "bd13a4514ec648b227c499f7e11257060aa936df3f51585714fbcc8ec5c6b3ed",
+    "kind": "download",
+    "alt": "L-DALI Compatibility List",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/l-dali-bacnet-dali-controllers/",
+      "https://kepler-elec.com/2024/03/29/ldaliplc2-ldaliplc4-programmable-dali-controller/",
+      "https://kepler-elec.com/2024/04/02/l-dali-cea-709-dali-controllers/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:34.644Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2526",
+    "originalPath": "/media/81a2241c37252747.pdf",
+    "bytes": 1799903,
+    "sha256": "e7a82639d1b0f57321d602dc009fe72edc57a78f80cd608d701e25775fb58349",
+    "kind": "download",
+    "alt": "LIOB-562 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/liob-562-module-bacnet-ip/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:36.210Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/1656-L-IOB-I/O-Module-User-Manual-7.6",
+    "originalPath": "/media/4c48c3906888eead.pdf",
+    "bytes": 5432980,
+    "sha256": "a4708bcd62f29d95605ba40b47475dd2f9bf9dc29adae5061e24cc75118f758c",
+    "kind": "download",
+    "alt": "L-IOB I/O Module User Manual",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/liob-562-module-bacnet-ip/",
+      "https://kepler-elec.com/2024/04/02/liob-560-module-bacnet-ip/",
+      "https://kepler-elec.com/2024/04/02/liob-ip852-i-o-modules-lonmark/",
+      "https://kepler-elec.com/2024/04/02/liob-connect-i-o-modules/",
+      "https://kepler-elec.com/2024/04/02/liob-ft-i-o-modules-lonmark/",
+      "https://kepler-elec.com/2024/04/02/liob-bip-i-o-modules-bacnet-ip/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:36.424Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2528",
+    "originalPath": "/media/1df67a77da29b97d.pdf",
+    "bytes": 967981,
+    "sha256": "e8f12fd53d3d155f7529595f0ad88a0dd0a1d8d704ec17ffc1482c41593ee682",
+    "kind": "download",
+    "alt": "Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/liob-562-module-bacnet-ip/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:37.786Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2525",
+    "originalPath": "/media/b2f377d4781e0073.pdf",
+    "bytes": 1993496,
+    "sha256": "f91364793dfbe0ae2e3643145ec6a005f7562e7b86e7f3752021f362160c23ae",
+    "kind": "download",
+    "alt": "LIOB-560 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/liob-560-module-bacnet-ip/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:38.833Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2527-liob-560-installation-instructions",
+    "originalPath": "/media/bd6f5aecbc39be89.pdf",
+    "bytes": 963940,
+    "sha256": "d67454b6787a1bd3e7492030cf89d1e8f0c6ae4a711689ed0767dbaffdc4218b",
+    "kind": "download",
+    "alt": "Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/liob-560-module-bacnet-ip/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:39.266Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2067-liob-45x-datasheet",
+    "originalPath": "/media/ffbe2c0ccecfad8d.pdf",
+    "bytes": 1609475,
+    "sha256": "a2db9fb45e71cadf2bf77b4fa2d8669c9fa20f0dfc86a9d3bbffa43fab00ef1f",
+    "kind": "download",
+    "alt": "LIOB-45x Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/liob-ip852-i-o-modules-lonmark/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:40.042Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2070-liob-10x-liob-110-liob-112-datasheet",
+    "originalPath": "/media/ce985d604bf0d6c5.pdf",
+    "bytes": 946539,
+    "sha256": "009f3471314e294df96c561c6203054902cbc27f5bbae21967facbb89c58513e",
+    "kind": "download",
+    "alt": "LIOB-10x/11x Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/liob-connect-i-o-modules/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:41.121Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2224-ldali-plc2-ldali-plc4-controller-datasheet",
+    "originalPath": "/media/e248a5ef9e32f12a.pdf",
+    "bytes": 2631347,
+    "sha256": "043f094a32abe0316dab044954e25d1e73ab0540f57db176f9f211681ef7d8d5",
+    "kind": "download",
+    "alt": "LDALI-PLC2/PLC4 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/ldaliplc2-ldaliplc4-programmable-dali-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:41.314Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2069-liob-15x-datasheet",
+    "originalPath": "/media/a2d9c8fc1ad691b5.pdf",
+    "bytes": 892138,
+    "sha256": "ef9d3367c692fbc07b9587c05d3d4c45a6109b3cce585f5978c28c2ee2d2e8b3",
+    "kind": "download",
+    "alt": "LIOB-15x Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/liob-ft-i-o-modules-lonmark/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:42.902Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2275-l%E2%80%91studio-3-datasheet",
+    "originalPath": "/media/6f70542a55c5e75d.pdf",
+    "bytes": 493403,
+    "sha256": "58ebb26725ee81755800878e5d1bb1c36154d138a902c338e6d22752cf0215b4",
+    "kind": "download",
+    "alt": "L-STUDIO Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/l-studio-3-engineering-tool/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:44.052Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2286-loyrtu-485-rtu-485-datasheet",
+    "originalPath": "/media/8d53ee1be181db1a.pdf",
+    "bytes": 317970,
+    "sha256": "b0a76b37fd1199342ca2ce0f8b1205056dcb157651f73415912a386894437445",
+    "kind": "download",
+    "alt": "LOYRTU-485 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/loyrtu-485-modbus-remote-i-o-communication-module/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:44.069Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2290-RTU-485-Installation-Instructions",
+    "originalPath": "/media/4c029d22e2b9ddf4.pdf",
+    "bytes": 814190,
+    "sha256": "b76f43d94d9aacb3ca2585cd5d434ffaeca7ef70dd76555c0cc8af47131024d2",
+    "kind": "download",
+    "alt": "LOYRTU-485 Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/loyrtu-485-modbus-remote-i-o-communication-module/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:45.123Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2061-LPOW-2415x/2460B-Datasheet",
+    "originalPath": "/media/f58563fa3d28ca41.pdf",
+    "bytes": 499208,
+    "sha256": "149a52abd593054e66844b62526c9ebe30f62d4b7e1d5c1a264e74c441893a5c",
+    "kind": "download",
+    "alt": "LPOW-2415x/2460B Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/l-pow-power-supply/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:45.234Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/1513-LPOW-2415A-Installation-Instructions",
+    "originalPath": "/media/557d8bfba1c64ddb.pdf",
+    "bytes": 340904,
+    "sha256": "9171bb12e3bd0aab36a793cff1b7f0110f47cd2b0cc8068934b82c9e084c3f5e",
+    "kind": "download",
+    "alt": "LPOW-2415A",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/l-pow-power-supply/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:46.317Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/1515-LPOW-2415B-Installation-Instructions",
+    "originalPath": "/media/fac9809905e9ef60.pdf",
+    "bytes": 323451,
+    "sha256": "6a7fd082d02ea8acc757ce1a753e0f3b211bcb1dd74ddaa6b45488f7b8c02b84",
+    "kind": "download",
+    "alt": "LPOW-2415B",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/l-pow-power-supply/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:46.336Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2175-LPOW-2460B-Installation-notes",
+    "originalPath": "/media/dfe98e28dc2eb0b7.pdf",
+    "bytes": 1144280,
+    "sha256": "d7c8331c4f35893d42686c22d10bdcfae2e7def3117dabfa88b2bf7d2b62491a",
+    "kind": "download",
+    "alt": "LPOW-2460B",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/l-pow-power-supply/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:47.368Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/124-l-term-cea-709-datasheet",
+    "originalPath": "/media/ea9c622280a77cfb.pdf",
+    "bytes": 706718,
+    "sha256": "a4a270808638fb065e4f6ab89c50a4c2690b2f90fb9398ba5100d7f1958bff9b",
+    "kind": "download",
+    "alt": "L-Term (CEA-709) Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/l-term-network-terminator-tp-ft-10-and-tp-xf-1250/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:48.368Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2244-ldali-bm2-pushbutton-coupler-datasheet",
+    "originalPath": "/media/e4b49e39d32340c6.pdf",
+    "bytes": 350558,
+    "sha256": "68265d121c73c811fe81e918fe33f133f1d2aade321dccacf9f44d7c4b8646c9",
+    "kind": "download",
+    "alt": "LDALI-BM2 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/l-dali-pushbutton-coupler/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:49.357Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2242-LDALI-BM2-Installation-Instructions-",
+    "originalPath": "/media/0c0b42d0ddb07741.pdf",
+    "bytes": 810948,
+    "sha256": "4959331618ee188f6510f607a48d24b5fa541be36c6ce44caa19c6f8f90179f8",
+    "kind": "download",
+    "alt": "LDALI-BM2 Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/l-dali-pushbutton-coupler/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:49.699Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2386",
+    "originalPath": "/media/27c768f6e50dcec2.pdf",
+    "bytes": 585993,
+    "sha256": "1fb0d81c89b3cd021e88bfe1a9ac1434f4b8a90e43469667af5253de59b1938e",
+    "kind": "download",
+    "alt": "LDALI-RM8 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/ldali-rm8-relay-module/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:50.548Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2361-LDALI-RM8-Installation-Instructions",
+    "originalPath": "/media/c6e7a1796797823c.pdf",
+    "bytes": 1034055,
+    "sha256": "1225224996db5f88b1bb3094a147074049cf022f8806726259e04664549db204",
+    "kind": "download",
+    "alt": "LDALI-RM8 Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/ldali-rm8-relay-module/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:51.141Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2422",
+    "originalPath": "/media/86f6a4a866f78ea5.pdf",
+    "bytes": 624429,
+    "sha256": "28fdb3842b6f23ef709cc49918dc1b8f8cbbdfaef56a02889df1a8ed33565311",
+    "kind": "download",
+    "alt": "LDALI-RM5/RM6 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/ldali-rm5-ldali-rm6-relay-modules/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:52.475Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2419-LDALI-RM5-Installation-Instructions",
+    "originalPath": "/media/5a7151ef65313a92.pdf",
+    "bytes": 760936,
+    "sha256": "81736878cbc04355cd33ace6fa916e676958e4692674dd1253c9f59b2d323e35",
+    "kind": "download",
+    "alt": "LDALI-RM5 Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/ldali-rm5-ldali-rm6-relay-modules/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:53.103Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2420-LDALI-RM6-Installation-Instructions",
+    "originalPath": "/media/87f27ec91105a05c.pdf",
+    "bytes": 776770,
+    "sha256": "8384eab0dfa8acf90bedab76b2952279ef262c6c3bb6fff3d01deaede33d2fde",
+    "kind": "download",
+    "alt": "LDALI-RM6 Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/ldali-rm5-ldali-rm6-relay-modules/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:53.505Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2299-LDALI-MS2-BT-/-LDALI-MS4-BT:-Multi-Sensor-Datasheet",
+    "originalPath": "/media/0540663db7505127.pdf",
+    "bytes": 1113165,
+    "sha256": "98e96133878e83cd3780a3cfb20cf45134599c70c470b7cd8d1b9ce9260b65bc",
+    "kind": "download",
+    "alt": "LDALI-MS2-BT / LDALI-MS3-BT / LDALI-MS4-BT: Multi-Sensor Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/ldali-ms/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:54.109Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2490",
+    "originalPath": "/media/e71f68a17fd25a18.pdf",
+    "bytes": 2659885,
+    "sha256": "437d24b3ab86932623683b8eb090a0907a233c3cbe3dc5fe1028beb40c1a18cb",
+    "kind": "download",
+    "alt": "L-DALI Field Devices User Manual",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/ldali-ms/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:54.409Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/131-nic-datasheet",
+    "originalPath": "/media/3d836c291c7e1655.pdf",
+    "bytes": 1329307,
+    "sha256": "bc2eca9cf079dfd2ad3e8cbcc31b03e379c5926f237ddd017ac8f301b9a0e3ee",
+    "kind": "download",
+    "alt": "NIC Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/nic/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:56.040Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/264-NIC-User-Manual-4.2",
+    "originalPath": "/media/704bb42f9d326fde.pdf",
+    "bytes": 1572371,
+    "sha256": "3e32078b22189463210826a0df9a354cd5000276c5499f47c55c7e7306a94a9c",
+    "kind": "download",
+    "alt": "NIC User Manual",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/nic/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:56.302Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2196-NIC709-IPxE100C-Installation-Instructions",
+    "originalPath": "/media/02c8e57001bd6ebb.pdf",
+    "bytes": 1041001,
+    "sha256": "3fa8d58c3585a23cdb8e8c78e7f8a5b9ae8710ff5ef89ea2462cc92085e5e4e2",
+    "kind": "download",
+    "alt": "NIC709-IPxE100C",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/nic/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:57.343Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2482-NIC709-USB100-Installation-Instructions",
+    "originalPath": "/media/66e4a379b8944b18.pdf",
+    "bytes": 506490,
+    "sha256": "5bc26fc4cff98f2538f89a4551d1b3ecd8417a4e6bc5e7ced5400f915f18ef75",
+    "kind": "download",
+    "alt": "NIC709-USB100",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/nic/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:57.346Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2119-linx-102-linx-103-datasheet",
+    "originalPath": "/media/d268fe803436062b.pdf",
+    "bytes": 2508061,
+    "sha256": "aae66f6b72f2e6506a163371890ff187d4ec7d30718f23b5ad20eee9caf75cfc",
+    "kind": "download",
+    "alt": "LINX-102/103 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/26/linx-102-103-automation-server-cea-709/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:58.436Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2124-LINX-1xx,-LINX-2xx-Installation-Instructions",
+    "originalPath": "/media/c74d43662b26d897.pdf",
+    "bytes": 906939,
+    "sha256": "56f0cc512c209c7b8a5ce4dc2a73178dd1cd44054e00c32a21bcc45c45f90def",
+    "kind": "download",
+    "alt": "LINX-1xx, LINX-2xx Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/26/linx-102-103-automation-server-cea-709/",
+      "https://kepler-elec.com/2024/03/29/linx-215-automation-server/",
+      "https://kepler-elec.com/2024/03/26/linx-202-203/"
+    ],
+    "fetchedAt": "2026-10-05T16:24:59.164Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2228-linx-215-datasheet",
+    "originalPath": "/media/99cc41983b646b6d.pdf",
+    "bytes": 2822308,
+    "sha256": "269b33e62e0886f16c2f3f07b8c14d8c3fdd7f2404d365c355909ea7b53eae2d",
+    "kind": "download",
+    "alt": "LINX-215 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/linx-215-automation-server/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:00.480Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2227",
+    "originalPath": "/media/6c3504235bf8e0be.pdf",
+    "bytes": 3311214,
+    "sha256": "a6cbb61daa3536d4962de660c170ab01dcdb3fb8f20c074459020a17f7da40b8",
+    "kind": "download",
+    "alt": "LINX-153 / LINX-154 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/linx-153-154-automation-server/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:00.854Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2193-LINX-153-Installation-Instructions-",
+    "originalPath": "/media/1ded85b63bfe3723.pdf",
+    "bytes": 984491,
+    "sha256": "133787041ce91bc287a8807bb3a53dcd01ab38fbea05b1e4abd03fe5e7b26920",
+    "kind": "download",
+    "alt": "LINX-153",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/linx-153-154-automation-server/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:02.056Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2206-LINX-154-Installation-Instructions-",
+    "originalPath": "/media/835cf8dd1f069c7e.pdf",
+    "bytes": 967688,
+    "sha256": "9c1f99e8cbfdef8211e71982da85af855ff4c78d46745a0b0489b7afa7624f72",
+    "kind": "download",
+    "alt": "LINX-154",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/linx-153-154-automation-server/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:02.455Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2121-linx-202-linx-203-datasheet",
+    "originalPath": "/media/52ab02e299f9dc65.pdf",
+    "bytes": 2444449,
+    "sha256": "f08b3e127d1eb694b0c94faa0f6afce9a170886e8a953c146e1387f081941c1c",
+    "kind": "download",
+    "alt": "LINX-202/203 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/26/linx-202-203/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:03.128Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2072-lbox-600,-lbox-rocx-datasheet",
+    "originalPath": "/media/7b5c5a61a65d9b60.pdf",
+    "bytes": 467629,
+    "sha256": "2cfc8ddf68e37c651b22f211959f17335637ee5d12c7924ebf7d89c757c545ec",
+    "kind": "download",
+    "alt": "LBOX-600 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/lbox-600-system-distribution-box/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:03.457Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2510",
+    "originalPath": "/media/455bc323bfb9482f.pdf",
+    "bytes": 620538,
+    "sha256": "38c4263d1f8a9128bdda8a61eba7bd724df62df4ec0cf7585e8fea961a4910f0",
+    "kind": "download",
+    "alt": "LOYUNO-L Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/loyuno-l-unolite-indoor-air-quality-sensor/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:04.384Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2511",
+    "originalPath": "/media/fffb8845ab939699.pdf",
+    "bytes": 2844900,
+    "sha256": "9244b49417b3cc41d1516d3c7fa8c34bf43f1c0c6a7c35ff540ad32fadef0693",
+    "kind": "download",
+    "alt": "LOYUNO-L Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/loyuno-l-unolite-indoor-air-quality-sensor/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:04.507Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2245-l-dali-infrared-remote-control-datasheet",
+    "originalPath": "/media/e7d4cb03873bc686.pdf",
+    "bytes": 227223,
+    "sha256": "4ac26287e378f3556e09c48dd44c0aaf536f71b78c72c4ab8d212645a06dfec4",
+    "kind": "download",
+    "alt": "L-RC1 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/l-rc1-infrared-remote-control/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:05.852Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/1737-ldali-pwr2-u-ldali-pwr4-u-datasheet",
+    "originalPath": "/media/fdd85c861d3f2eb2.pdf",
+    "bytes": 428953,
+    "sha256": "ca3834d13c4e63bde43106278e7e8173c00cef029231971c5d37d14ac713afca",
+    "kind": "download",
+    "alt": "LDALI-PWRx-U Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/ldali-pwr2-u-ldali-pwr4-u-power-supply/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:06.195Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/1979-LDALI-PWRx-U-Installation-Instructions",
+    "originalPath": "/media/17a8b194a002883c.pdf",
+    "bytes": 68932,
+    "sha256": "cfe7a5ba741b7689a1f2e2a95ce8a62ef51bffc540e31b2f4906f02cf0752237",
+    "kind": "download",
+    "alt": "LDALI-PWRx-U Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/ldali-pwr2-u-ldali-pwr4-u-power-supply/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:06.838Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2523-LDALI-PWR1-U-Datasheet",
+    "originalPath": "/media/4f05820955c1c072.pdf",
+    "bytes": 389171,
+    "sha256": "79eb6b0b6d5b04e9ee8764969dc94a377f02c89f5b60df3c6aa5abb23edcbfdf",
+    "kind": "download",
+    "alt": "LDALI-PWR1-U Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/ldali-pwr1-u-power-supply/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:07.181Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/1454-L-DALI-User-Manual",
+    "originalPath": "/media/32d9408e37281ec1.pdf",
+    "bytes": 9044341,
+    "sha256": "8c9382ba0574bd53481b34e3485d01a918b3bb09d506db0af2f5378f2ddbee83",
+    "kind": "download",
+    "alt": "L-DALI User Manual",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/ldali-pwr1-u-power-supply/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:07.685Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/1979-LDALI-PWR1-U-Installation-Instructions",
+    "originalPath": "/media/586cb7937f499a07.pdf",
+    "bytes": 68932,
+    "sha256": "cfe7a5ba741b7689a1f2e2a95ce8a62ef51bffc540e31b2f4906f02cf0752237",
+    "kind": "download",
+    "alt": "LDALI-PWR1-U Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/ldali-pwr1-u-power-supply/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:08.037Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2416-LDALI-PWM4-Datasheet",
+    "originalPath": "/media/0d19194e821997dc.pdf",
+    "bytes": 305416,
+    "sha256": "97afdc5f54d927bac7dfc326c57d8ea7f7d2ec936fde73b7b137bb2f5c808190",
+    "kind": "download",
+    "alt": "LDALI-PWM4 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/ldali-pwm4-pwm-modules/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:10.174Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2417-LDALI-PWM4/RGBW/TC-Installation-Instructions-",
+    "originalPath": "/media/b1d0f7182a6b2200.pdf",
+    "bytes": 901399,
+    "sha256": "57d78bcdaadb26bd73590885e91ab26244263a9fb5918d44ca06c8ea549788cb",
+    "kind": "download",
+    "alt": "LDALI-PWM4/RGBW/TC Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/ldali-pwm4-pwm-modules/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:10.353Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2464",
+    "originalPath": "/media/2e92ced08b940cfa.pdf",
+    "bytes": 355773,
+    "sha256": "b52c268833617ca787068563afea95d7fa16737536c10d754ccb066bbfd1c96b",
+    "kind": "download",
+    "alt": "LOY-DALI-SBM1 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/loy-dali-sbm1-sunblind-module/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:11.969Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2490-L-DALI-Field-Devices-User-Manual",
+    "originalPath": "/media/029d5b0a3109ef5a.pdf",
+    "bytes": 2659885,
+    "sha256": "437d24b3ab86932623683b8eb090a0907a233c3cbe3dc5fe1028beb40c1a18cb",
+    "kind": "download",
+    "alt": "L-DALI Field Devices User Manual",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/loy-dali-sbm1-sunblind-module/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:12.015Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2447",
+    "originalPath": "/media/9c024443e0bddf74.pdf",
+    "bytes": 662613,
+    "sha256": "ffe4e743860117bd02fc9a611ffe517d5ffa6ed572688e780f80544b8a9fd7d8",
+    "kind": "download",
+    "alt": "LOY-DALI-SBM1 Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/loy-dali-sbm1-sunblind-module/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:13.284Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/1131-l-dali-cea709-controller-datasheet-ldali-3e101-u,-ldali-3e102-u,-ldali-3e104-u",
+    "originalPath": "/media/a722b8395bddcc3b.pdf",
+    "bytes": 2344247,
+    "sha256": "d031c4a040e36268ef7cd3adde6cb74c28686f6cc81b5e3121829a497bf930b8",
+    "kind": "download",
+    "alt": "L-DALI: CEA-709/DALI Controller Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/l-dali-cea-709-dali-controllers/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:14.364Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2161-LDALI-3E10x-U-Installation-Instructions",
+    "originalPath": "/media/b6c20e16753d02d2.pdf",
+    "bytes": 890670,
+    "sha256": "5caf1a6f774ace6ec8fd9f6583c4bd5de3d4c4cfc0ad501367bdb70679335e98",
+    "kind": "download",
+    "alt": "LDALI-3E10x-U Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/l-dali-cea-709-dali-controllers/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:14.496Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2476-LOYBT-TEMP1-Temperature-Sensor-Datasheet",
+    "originalPath": "/media/a58eef354a4e503f.pdf",
+    "bytes": 343115,
+    "sha256": "823467ecde41cf40860a6f4d980143508b3bae365a7446ccfd8962520fcbccfc",
+    "kind": "download",
+    "alt": "LOYBT-TEMP1 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/loybt-temp1-temperature-sensor/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:15.672Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2505-LOYTEC-Bluetooth-Devices-User-Manual-1.4.0",
+    "originalPath": "/media/6ebddc733bf687af.pdf",
+    "bytes": 3061616,
+    "sha256": "3c67b5eb309ffe48d7c229071de39f0f08258a375d3b8c28b81a6df57d2fdb48",
+    "kind": "download",
+    "alt": "Bluetooth Devices User Manual",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/loybt-temp1-temperature-sensor/",
+      "https://kepler-elec.com/2025/06/08/lroc-800-bluetooth-mesh-room-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:16.469Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2477",
+    "originalPath": "/media/c76b4598a0a72656.pdf",
+    "bytes": 652796,
+    "sha256": "61bd36d13466917f0c1bd832d210f7573cc4940d2270f07701559c4a4b66d9a1",
+    "kind": "download",
+    "alt": "LOYBT-TEMP1 Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/loybt-temp1-temperature-sensor/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:16.731Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2065-liob-55x-datasheet",
+    "originalPath": "/media/fd89329904f04f0f.pdf",
+    "bytes": 2089677,
+    "sha256": "657fd8c799ada73b6e1e2e7232d9d8bfd99943db7fa8e677562b817ce5f6fbf1",
+    "kind": "download",
+    "alt": "LIOB-55x Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/04/02/liob-bip-i-o-modules-bacnet-ip/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:18.007Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2096-l-stat-room-operator-panel-datasheet",
+    "originalPath": "/media/af6225fe4f71fce3.pdf",
+    "bytes": 1980482,
+    "sha256": "a10eaccaf257873365e32e7b71ca81c0cf81726025ab0ea744620e07dacf2b8c",
+    "kind": "download",
+    "alt": "L-STAT Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/l-stat-room-operator-panel/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:18.936Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2159-l-stat-user-manual-3-2-4",
+    "originalPath": "/media/cda773601264215c.pdf",
+    "bytes": 2506263,
+    "sha256": "040de8215881c30d8e0827eda33902bacea2f1881a68aff4148bfcf1f074d36c",
+    "kind": "download",
+    "alt": "L-STAT User Manual",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/l-stat-room-operator-panel/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:19.330Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2115-L-STAT-Room-Operator-Panel-Installation-Instructions",
+    "originalPath": "/media/3d2480111e422c82.pdf",
+    "bytes": 778125,
+    "sha256": "65c6c6f15434b59c5b6c7a627c9aec7ac681edcdc11c7d0604eafc8e1d3c4484",
+    "kind": "download",
+    "alt": "L-STAT Room Operator Panel Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/l-stat-room-operator-panel/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:20.261Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2454-L-TRIAC16-Datasheet",
+    "originalPath": "/media/7b58d3cb6c04a590.pdf",
+    "bytes": 337824,
+    "sha256": "048a3cdb34352b345bf80d6ac9ddd5664f8a186dd1aad0386ac84df9efb31a82",
+    "kind": "download",
+    "alt": "L-TRIAC16 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/l-triac16-triac-interface/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:21.303Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2465-L-TRIAC16-Installation-Instructions",
+    "originalPath": "/media/63e8203bc9251466.pdf",
+    "bytes": 834364,
+    "sha256": "41a02c9b2655474442b7d70915bda43dca04ef7d1a1d4c361db779001a9c185c",
+    "kind": "download",
+    "alt": "L-TRIAC16 Installation Sheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/l-triac16-triac-interface/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:21.397Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2468-LOYCNV-VA8-Datasheet",
+    "originalPath": "/media/5e43098343b28a02.pdf",
+    "bytes": 302356,
+    "sha256": "dbd43ad6d5211732016f89eb1d32c7fe84d9a51f64cb801b27ccf046f4522014",
+    "kind": "download",
+    "alt": "LOYCNV-VA8 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/loycnv-va8-voltage-current-converter/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:22.341Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2466-LOYCNV-VA8-Installation-Instructions",
+    "originalPath": "/media/7cdc0a8e87af55cc.pdf",
+    "bytes": 793299,
+    "sha256": "1dbce2ebf8fc0bf4270f1e9f22a6b53d90c214f2744d6935f5d5be38b9a06a96",
+    "kind": "download",
+    "alt": "LOYCNV-VA8 Installation Sheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/loycnv-va8-voltage-current-converter/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:22.503Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2062-lknx-300-datasheet",
+    "originalPath": "/media/e65191c11ef8d7f8.pdf",
+    "bytes": 472991,
+    "sha256": "0b2c66de6ab590a936dd08211ac60518008ff1134727ae405a9b131782f5e96b",
+    "kind": "download",
+    "alt": "LRS232-802 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/lrs232-802-interface/",
+      "https://kepler-elec.com/2024/03/29/knx-tp1-interface/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:23.762Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2461-LRS232-802-Installation-Instructions-",
+    "originalPath": "/media/97f516589181e4b3.pdf",
+    "bytes": 731490,
+    "sha256": "a63517f3aececa25901fd497f0d62dbd1e9b2c90435167c167b328d281ed85c6",
+    "kind": "download",
+    "alt": "LRS232-802 Installation Sheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/lrs232-802-interface/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:24.458Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2085-lwlan-800-datasheet",
+    "originalPath": "/media/30c772729bf4cdfe.pdf",
+    "bytes": 238996,
+    "sha256": "e5db9cf9e0d7b11c9442ddbb58337d9823bfeffedadbe0182c28e680d23a72c9",
+    "kind": "download",
+    "alt": "L-WLAN Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/l-wlan-wireless-lan-interface/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:24.811Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2088-LWLAN-800-Installation-Instructions",
+    "originalPath": "/media/edbc1e259d5b6ced.pdf",
+    "bytes": 1018772,
+    "sha256": "8026579ad8e4c10ba7a4c0994865c77c47f744894c9d5abfb7482e00521f8100",
+    "kind": "download",
+    "alt": "LWLAN-800 Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/l-wlan-wireless-lan-interface/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:25.858Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2298-LTE-800-Datasheet",
+    "originalPath": "/media/6ed7661a702286f3.pdf",
+    "bytes": 343596,
+    "sha256": "dd09afd77eb30433ef0b72390c92cf4ff1661ceba6e515c45dafacef08f842b8",
+    "kind": "download",
+    "alt": "LTE-800 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/lte-interface/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:26.916Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2353-LTE-800-Installation-Instructions",
+    "originalPath": "/media/1d9ed0795734bae9.pdf",
+    "bytes": 922183,
+    "sha256": "6184cdf8412ca0bb046c68388e972d8935aa8184652e200e87fe8ca810aa6443",
+    "kind": "download",
+    "alt": "LTE-800 Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/lte-interface/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:26.926Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2002-LKNX-300-Installation-Sheet",
+    "originalPath": "/media/b13ab4ee3a70cb2e.pdf",
+    "bytes": 380710,
+    "sha256": "2d3d0b07b7b26fcf64382d0d204695e1e1de4859a77de4e42a9bbd82d7484e94",
+    "kind": "download",
+    "alt": "LKNX-300 Installation Sheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/knx-tp1-interface/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:27.963Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/744-l-term-rs-485-datasheet",
+    "originalPath": "/media/34355a38b53e1d3f.pdf",
+    "bytes": 444928,
+    "sha256": "b62d40318f82d38deaa958cfb3de5e650452239ec7435b0d639f26919e8f9b5e",
+    "kind": "download",
+    "alt": "L-Term (RS-485) Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/06/02/l-term-network-terminator/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:29.010Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2533-LOYCNV-PT1008-Datasheet",
+    "originalPath": "/media/b951d5c6e012a14d.pdf",
+    "bytes": 239349,
+    "sha256": "f4b846934bd5cbd87c2ab6a5e960f434d229d4b57573a3d277ad503f4532b5a0",
+    "kind": "download",
+    "alt": "LOYCNV-PT1008 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/06/02/loycnv-pt1008-voltage-converter/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:29.526Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2524-LOYCNV-PT1008-Installation-Instructions",
+    "originalPath": "/media/c274ee4751afb18b.pdf",
+    "bytes": 877285,
+    "sha256": "9cefabdce33e291f52f7e42807f8ed68922316af70fc8370c2385b17a558e21f",
+    "kind": "download",
+    "alt": "LOYCNV-PT1008 Installation Sheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/06/02/loycnv-pt1008-voltage-converter/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:30.204Z"
+  },
+  {
+    "source": "https://www.loytec.com/component/docman/doc_download/2073-l-mbus20-l-mbus80-datasheet",
+    "originalPath": "/media/67d0f70bb613726b.pdf",
+    "bytes": 466447,
+    "sha256": "b21f8627597f8cb19c46ea087a341de7e3fe60215c721c56b9c34bc74c1c8a8b",
+    "kind": "download",
+    "alt": "L-MBUS20/80 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/l-mbus-level-converter/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:31.413Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/1423-L-MBUS-Installation-Instructions",
+    "originalPath": "/media/d03c6c4f50f382c7.pdf",
+    "bytes": 444362,
+    "sha256": "4fdad6dc92cd8866c112c145a20346a13a27d3e67f5ca632692028e666ca3239",
+    "kind": "download",
+    "alt": "Installation Sheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/l-mbus-level-converter/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:32.472Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2429-LSTAT-8x0-G3-L0-Remote-EnOcean-Antenna-Datasheet",
+    "originalPath": "/media/86ccfc26a47be161.pdf",
+    "bytes": 387891,
+    "sha256": "b7bda3e139ac0ec06f0497712ad7095cd36847e8f797859eaca2c69031924c47",
+    "kind": "download",
+    "alt": "LSTAT-8×0-G3-L0 Remote EnOcean Antenna Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/l-stat-remote-enocean-antenna/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:33.540Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2159-L-STAT-User-Manual-3.0",
+    "originalPath": "/media/551890bd5ba6a41c.pdf",
+    "bytes": 2506263,
+    "sha256": "040de8215881c30d8e0827eda33902bacea2f1881a68aff4148bfcf1f074d36c",
+    "kind": "download",
+    "alt": "L-STAT User Manual",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/l-stat-remote-enocean-antenna/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:33.751Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2430-L-STAT-Remote-EnOcean-Antenna-Installation-Instructions",
+    "originalPath": "/media/944af26739718223.pdf",
+    "bytes": 828870,
+    "sha256": "2bec4702d406fe658a36ca4e215786edc44749963878342572461ae89690003a",
+    "kind": "download",
+    "alt": "L-STAT Remote EnOcean Antenna Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/29/l-stat-remote-enocean-antenna/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:34.588Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2453",
+    "originalPath": "/media/27ee6934c79daec9.pdf",
+    "bytes": 2647718,
+    "sha256": "1d388d4d72b98a110916e0a0513f1d01fb20660afe3c571b7eb30711151f5144",
+    "kind": "download",
+    "alt": "LIOB-592 Datasheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/28/liob-592-i-o-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:35.836Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2354-LIOB-592-Installation-Instructions",
+    "originalPath": "/media/89b24252bf8f30b9.pdf",
+    "bytes": 870580,
+    "sha256": "178b680553fe8094c7575fc23a4e986322949681c0b7c20f0cc389210888d787",
+    "kind": "download",
+    "alt": "LIOB-592 Installation Sheet",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2024/03/28/liob-592-i-o-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:36.604Z"
+  },
+  {
+    "source": "https://www.loytec.com/support/download/doc_download/2558-LROC-800-Installation-Instructions",
+    "originalPath": "/media/e64d84174436d795.pdf",
+    "bytes": 1020190,
+    "sha256": "8bae65951638962b9eda4ea62863c9f1cd21512f9905d6f8b43332b547539034",
+    "kind": "download",
+    "alt": "LROC-800 Installation Instructions",
+    "rightsStatus": "source-linked manufacturer document; business rights and technical revision review pending",
+    "sourcePages": [
+      "https://kepler-elec.com/2025/06/08/lroc-800-bluetooth-mesh-room-controller/"
+    ],
+    "fetchedAt": "2026-10-05T16:25:37.159Z"
   }
 ]
