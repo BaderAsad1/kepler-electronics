@@ -218,7 +218,7 @@
       "business-review-pending",
       "asset-rights-review-pending"
     ],
-    "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
+    "visualInspectionStatus": "contact-sheet-reviewed; full-detail-reviewed desktop/mobile; business approval pending",
     "screenshot": "docs/screenshots/source/351366b1780dc21c.jpg"
   },
   {
@@ -265,7 +265,7 @@
       "business-review-pending",
       "asset-rights-review-pending"
     ],
-    "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
+    "visualInspectionStatus": "contact-sheet-reviewed; full-detail-reviewed desktop/mobile; business approval pending",
     "screenshot": "docs/screenshots/source/898cb3ef6a285237.jpg"
   },
   {
@@ -291,7 +291,7 @@
       "business-review-pending",
       "asset-rights-review-pending"
     ],
-    "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
+    "visualInspectionStatus": "contact-sheet-reviewed; full-detail-reviewed desktop/mobile; business approval pending",
     "screenshot": "docs/screenshots/source/940c93766ad28881.jpg"
   },
   {
@@ -317,7 +317,7 @@
       "business-review-pending",
       "asset-rights-review-pending"
     ],
-    "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
+    "visualInspectionStatus": "contact-sheet-reviewed; full-detail-reviewed desktop/mobile; business approval pending",
     "screenshot": "docs/screenshots/source/91765bc9f4c73089.jpg"
   },
   {
@@ -441,7 +441,7 @@
       "business-review-pending",
       "asset-rights-review-pending"
     ],
-    "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
+    "visualInspectionStatus": "contact-sheet-reviewed; full-detail-reviewed desktop/mobile; business approval pending",
     "screenshot": "docs/screenshots/source/845bdf4b30ac4249.jpg"
   },
   {
@@ -467,7 +467,7 @@
       "business-review-pending",
       "asset-rights-review-pending"
     ],
-    "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
+    "visualInspectionStatus": "contact-sheet-reviewed; full-detail-reviewed desktop/mobile; business approval pending",
     "screenshot": "docs/screenshots/source/b232afe1be98cc8c.jpg"
   },
   {
@@ -1531,7 +1531,7 @@
       "business-review-pending",
       "asset-rights-review-pending"
     ],
-    "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
+    "visualInspectionStatus": "contact-sheet-reviewed; critical-details-reviewed; full-mobile-below-fold-review-pending",
     "screenshot": "docs/screenshots/source/75f68ae54062090c.jpg"
   },
   {
@@ -15012,7 +15012,7 @@
       "business-review-pending",
       "asset-rights-review-pending"
     ],
-    "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
+    "visualInspectionStatus": "contact-sheet-reviewed; critical-details-reviewed; full-mobile-below-fold-review-pending",
     "screenshot": "docs/screenshots/source/51858285bda17706.jpg"
   },
   {
@@ -35649,7 +35649,7 @@
       "business-review-pending",
       "asset-rights-review-pending"
     ],
-    "visualInspectionStatus": "contact-sheet-reviewed; full-detail-review-pending",
+    "visualInspectionStatus": "contact-sheet-reviewed; full-detail-reviewed desktop/mobile; business approval pending",
     "screenshot": "docs/screenshots/source/aee8f1da9bdeaec8.jpg"
   },
   {

@@ -527,5 +527,11 @@
       "bytes": 5791180,
       "sha256": "386941ef304196b63a5143f8526021e0bfac26d69f1e4062c8df96d213f179fd"
     }
-  ]
+  ],
+  "originalImages": {
+    "releaseAsset": "source-images-originals.zip",
+    "bytes": 142429386,
+    "sha256": "becda8ca207cf51c84eb0df10562f759a67db4492ad9eec2ec1284cb9ae63950",
+    "files": 2568
+  }
 }

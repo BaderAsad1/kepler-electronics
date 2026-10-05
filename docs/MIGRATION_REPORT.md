@@ -1,6 +1,6 @@
 # Source migration
 
-Updated: 2026-10-05T15:24:07.696Z
+Updated: 2026-10-05T15:28:43.282Z
 
 - snapshots: 944
 - reachable: 940
@@ -10,7 +10,7 @@ Updated: 2026-10-05T15:24:07.696Z
 - redirects: 1778
 - captured: 940
 - contactSheetsReviewed: 917
-- fullDetailReviewed: 0
+- fullDetailReviewed: 7
 - excluded: 49
 
 These are actual captured/imported counts, not a claim of whole-site completeness. Source snapshots are kept in data/source/snapshots.json. The manifest, redirect map and review queue are in data/migration.
