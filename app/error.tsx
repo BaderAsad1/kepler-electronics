@@ -1,0 +1,1 @@
+'use client';export default function ErrorPage({reset}:{reset:()=>void}){return <div className="container section empty-state"><h1>Let’s reconnect.</h1><p>We couldn’t load this page. Your browser may retry, or you can contact sales@kepler-elec.com.</p><button className="button" onClick={reset}>Try again</button></div>;}

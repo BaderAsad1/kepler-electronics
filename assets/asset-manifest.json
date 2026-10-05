@@ -1,0 +1,121 @@
+[
+  {
+    "name": "architectural-lighting",
+    "master": "assets/masters/architectural-lighting.png",
+    "path": "/images/editorial/architectural-lighting.webp",
+    "width": 1536,
+    "height": 1024,
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "classification": "conceptual-generated",
+    "approvalStatus": "visually-reviewed; business approval pending",
+    "model": "native-imagegen; model not disclosed by tool",
+    "alt": "architectural lighting \u2014 illustrative architectural concept",
+    "prompt": "Use case: photorealistic-natural. Generate an actual photographic website asset, not a webpage, UI or mockup. Photorealistic architectural editorial photography for a premium Dubai smart-building technology brand. Contemporary conceptual UAE architecture, limestone, travertine, warm walnut, brushed metal, charcoal accents, realistic materials and construction, restrained precise framing. No excessive gold, sci-fi holograms, text, watermarks, visible brands, recognizable landmarks or people. This is conceptual architecture, not a real installation. Original modern UAE residential corridor opening into a living area at dusk. Beautiful wall-washing, discreet cove illumination, precise downlights and controlled warm pools of light on textured limestone. Wide approximately 3:2 editorial photograph. Emotional effect of good lighting. No visible wiring or invented lighting hardware.",
+    "reviewNotes": "Personally inspected generated contact sheet; conceptual architecture, never project evidence."
+  },
+  {
+    "name": "commercial-building-intelligence",
+    "master": "assets/masters/commercial-building-intelligence.png",
+    "path": "/images/editorial/commercial-building-intelligence.webp",
+    "width": 1448,
+    "height": 1086,
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "classification": "conceptual-generated",
+    "approvalStatus": "visually-reviewed; business approval pending",
+    "model": "native-imagegen; model not disclosed by tool",
+    "alt": "commercial building intelligence \u2014 illustrative architectural concept",
+    "prompt": "Use case: photorealistic-natural. Generate an actual photographic website asset, not a webpage, UI or mockup. Photorealistic architectural editorial photography for a premium Dubai smart-building technology brand. Contemporary conceptual UAE architecture, limestone, travertine, warm walnut, brushed metal, charcoal accents, realistic materials and construction, restrained precise framing. No excessive gold, sci-fi holograms, text, watermarks, visible brands, recognizable landmarks or people. This is conceptual architecture, not a real installation. Original contemporary UAE commercial building atrium concept. Pale limestone, precise glazed facades, elegant shading and subtle integrated lighting. Natural daylight, realistic proportions, confident monumental architectural scale, operational clarity and refined materials. Wide approximately 4:3. No server-room cliche, circuit-board overlay, energy chart or sustainability labels.",
+    "reviewNotes": "Personally inspected generated contact sheet; conceptual architecture, never project evidence."
+  },
+  {
+    "name": "connected-living",
+    "master": "assets/masters/connected-living.png",
+    "path": "/images/editorial/connected-living.webp",
+    "width": 1448,
+    "height": 1086,
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "classification": "conceptual-generated",
+    "approvalStatus": "visually-reviewed; business approval pending",
+    "model": "native-imagegen; model not disclosed by tool",
+    "alt": "connected living \u2014 illustrative architectural concept",
+    "prompt": "Use case: photorealistic-natural. Generate an actual photographic website asset, not a webpage, UI or mockup. Photorealistic architectural editorial photography for a premium Dubai smart-building technology brand. Contemporary conceptual UAE architecture, limestone, travertine, warm walnut, brushed metal, charcoal accents, realistic materials and construction, restrained precise framing. No excessive gold, sci-fi holograms, text, watermarks, visible brands, recognizable landmarks or people. This is conceptual architecture, not a real installation. Quiet contemporary Dubai living-room concept, filtered daylight through sheer curtains, warm minimal interior, walnut cabinetry, comfortable sculptural seating, uncluttered surfaces and discreet integrated lighting. Wide approximately 4:3 architectural interior photography. Technology disappears into everyday comfort. No branded control panel or gadgets.",
+    "reviewNotes": "Personally inspected generated contact sheet; conceptual architecture, never project evidence."
+  },
+  {
+    "name": "dubai-smart-villa-hero",
+    "master": "assets/masters/dubai-smart-villa-hero.png",
+    "path": "/images/editorial/dubai-smart-villa-hero.webp",
+    "width": 1672,
+    "height": 941,
+    "focalPoint": [
+      0.72,
+      0.5
+    ],
+    "classification": "conceptual-generated",
+    "approvalStatus": "visually-reviewed; business approval pending",
+    "model": "native-imagegen; model not disclosed by tool",
+    "alt": "dubai smart villa hero \u2014 illustrative architectural concept",
+    "prompt": "Contemporary conceptual Dubai villa at blue hour. Pale stone, warm walnut, glazing, warm courtyard on the right, dark negative space left. No text, logo or recognizable property.",
+    "reviewNotes": "Personally inspected generated contact sheet; conceptual architecture, never project evidence."
+  },
+  {
+    "name": "dubai-smart-villa-mobile",
+    "master": "assets/masters/dubai-smart-villa-mobile.png",
+    "path": "/images/editorial/dubai-smart-villa-mobile.webp",
+    "width": 1122,
+    "height": 1402,
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "classification": "conceptual-generated",
+    "approvalStatus": "visually-reviewed; business approval pending",
+    "model": "native-imagegen; model not disclosed by tool",
+    "alt": "dubai smart villa mobile \u2014 illustrative architectural concept",
+    "prompt": "Use case: photorealistic-natural. Generate an actual photographic website asset, not a webpage, UI or mockup. Photorealistic architectural editorial photography for a premium Dubai smart-building technology brand. Contemporary conceptual UAE architecture, limestone, travertine, warm walnut, brushed metal, charcoal accents, realistic materials and construction, restrained precise framing. No excessive gold, sci-fi holograms, text, watermarks, visible brands, recognizable landmarks or people. This is conceptual architecture, not a real installation. Portrait 4:5 companion to a conceptual Dubai villa at blue hour: pale stone, warm walnut, floor-to-ceiling glass, recessed amber lights and restrained palms. Frame a warmly lit contemporary courtyard and living area in the LOWER half. Upper half calm dark cool twilight, shadowed architecture and trees with negative space for HTML headline. Quiet considered composition deliberately designed for a narrow mobile screen.",
+    "reviewNotes": "Personally inspected generated contact sheet; conceptual architecture, never project evidence."
+  },
+  {
+    "name": "hospitality-room-control",
+    "master": "assets/masters/hospitality-room-control.png",
+    "path": "/images/editorial/hospitality-room-control.webp",
+    "width": 1448,
+    "height": 1086,
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "classification": "conceptual-generated",
+    "approvalStatus": "visually-reviewed; business approval pending",
+    "model": "native-imagegen; model not disclosed by tool",
+    "alt": "hospitality room control \u2014 illustrative architectural concept",
+    "prompt": "Use case: photorealistic-natural. Generate an actual photographic website asset, not a webpage, UI or mockup. Photorealistic architectural editorial photography for a premium Dubai smart-building technology brand. Contemporary conceptual UAE architecture, limestone, travertine, warm walnut, brushed metal, charcoal accents, realistic materials and construction, restrained precise framing. No excessive gold, sci-fi holograms, text, watermarks, visible brands, recognizable landmarks or people. This is conceptual architecture, not a real installation. Original upscale Dubai hotel suite concept at early evening. Coordinated warm bedside lighting, integrated curtain tracks, walnut wall panels, neutral upholstery, gentle cove lighting and a considered desk area. Wide approximately 4:3 architectural editorial framing. Convey coordinated lighting and climate through comfortable atmosphere, no fake software overlays or identifiable hotel.",
+    "reviewNotes": "Personally inspected generated contact sheet; conceptual architecture, never project evidence."
+  },
+  {
+    "name": "product-stage",
+    "master": "assets/masters/product-stage.png",
+    "path": "/images/editorial/product-stage.webp",
+    "width": 1254,
+    "height": 1254,
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "classification": "conceptual-generated",
+    "approvalStatus": "visually-reviewed; business approval pending",
+    "model": "native-imagegen; model not disclosed by tool",
+    "alt": "product stage \u2014 illustrative architectural concept",
+    "prompt": "Use case: photorealistic-natural. Generate an actual photographic website asset, not a webpage, UI or mockup. Photorealistic architectural editorial photography for a premium Dubai smart-building technology brand. Contemporary conceptual UAE architecture, limestone, travertine, warm walnut, brushed metal, charcoal accents, realistic materials and construction, restrained precise framing. No excessive gold, sci-fi holograms, text, watermarks, visible brands, recognizable landmarks or people. This is conceptual architecture, not a real installation. Square minimalist high-end product photography BACKGROUND ONLY: low warm travertine stone plinth against soft ivory architectural wall, subtle side lighting, credible soft shadow area and large uncluttered central placement space. No product, object, text or logo. A real unchanged product cutout will be composited later.",
+    "reviewNotes": "Personally inspected generated contact sheet; conceptual architecture, never project evidence."
+  }
+]

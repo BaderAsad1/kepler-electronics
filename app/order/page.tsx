@@ -1,0 +1,1 @@
+import {PageIntro} from '@/components/ui';import OrderView from '@/components/order';export const metadata={title:'Private order status',robots:{index:false,follow:false}};export default function Order(){return <><PageIntro eyebrow="YOUR SECURE ORDER" title="Every detail, confirmed."/><section className="container section"><OrderView/></section></>;}

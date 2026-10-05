@@ -1,0 +1,9 @@
+import {chromium} from '@playwright/test';
+import {readFile,writeFile,mkdir} from 'node:fs/promises';
+import {createHash} from 'node:crypto';
+const snapshots=JSON.parse(await readFile('data/source/snapshots.json','utf8'));
+const wanted=[/^https:\/\/kepler-elec.com\/$/,/\/contact-us\/$/,/\/ked-m098\/$/,/\/kepler-electronics-company-profile\/$/,/\/mama-shelter-hotel-accor\/$/,/\/products\/$/,/\/loytec-lpad-7\/$/,/\/privacy-policy\/$/];
+const chosen=snapshots.filter((s:{url:string;status:number})=>s.status===200&&wanted.some(pattern=>pattern.test(s.url)));
+const browser=await chromium.launch({channel:'chrome',headless:true});await mkdir('docs/screenshots/source-detail',{recursive:true});const records=[];
+for(const s of chosen)for(const width of [390,1440]){const page=await browser.newPage({viewport:{width,height:1000}});try{const response=await page.goto(s.url,{waitUntil:'domcontentloaded',timeout:45000});await page.locator('body').waitFor();await page.evaluate(async()=>{for(let y=0;y<Math.min(document.body.scrollHeight,12000);y+=700){scrollTo(0,y);await new Promise(r=>setTimeout(r,80));}[...document.images].forEach(i=>i.loading='eager');await Promise.race([Promise.all([...document.images].map(i=>i.decode().catch(()=>{}))),new Promise(r=>setTimeout(r,4000))]);scrollTo(0,0);});await page.waitForTimeout(150);const file='docs/screenshots/source-detail/'+createHash('sha256').update(s.url).digest('hex').slice(0,16)+'-'+width+'.jpg';await page.screenshot({path:file,fullPage:true,type:'jpeg',quality:78});records.push({url:s.url,width,status:response?.status(),file,inspection:'captured; pending personal detail review'});}catch(e){records.push({url:s.url,width,error:(e as Error).message});}finally{await page.close();}await new Promise(r=>setTimeout(r,650));}
+await browser.close();await writeFile('docs/screenshots/source-detail/index.json',JSON.stringify(records,null,2));console.log('Source detail captures:',records.length);

@@ -1,0 +1,1 @@
+import {defineConfig} from '@playwright/test';export default defineConfig({testDir:'tests/e2e',fullyParallel:false,workers:1,timeout:60000,use:{baseURL:process.env.E2E_BASE_URL||'http://localhost:3300',channel:process.env.CI?undefined:'chrome',headless:true,trace:'retain-on-failure'},reporter:[['list'],['json',{outputFile:'data/e2e-results.json'}]],outputDir:'test-results'});

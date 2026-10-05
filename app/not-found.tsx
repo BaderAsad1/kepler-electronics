@@ -1,0 +1,1 @@
+import {EmptyState} from '@/components/ui';export default function NotFound(){return <div className="container section"><EmptyState title="This connection isn’t here." text="The page may have moved. Explore the catalog or contact our Dubai team to find what you need." href="/products" label="Explore products"/></div>;}

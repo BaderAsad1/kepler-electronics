@@ -1,0 +1,1 @@
+import {PageIntro} from '@/components/ui';import Quotation from '@/components/quotation';export const metadata={title:'Private approved quotation',robots:{index:false,follow:false}};export default function Quote(){return <><PageIntro eyebrow="YOUR REVIEWED SPECIFICATION" title="Every line, considered."/><section className="container section"><Quotation/></section></>;}

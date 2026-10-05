@@ -1,0 +1,527 @@
+[
+  {
+    "source": "/scl/fi/3rwb3bfwai5sm8084urui/KE-OCC-24D-KEPLER-OCCUPANCY-SENSOR_240422_105451.pdf",
+    "destination": "/media/6b0e507fab14146e.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/04/K1231-DataSheet.pdf",
+    "destination": "/media/1f94caae8d655e0f.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/04/KDALI-KNX-2CH-instruction.pdf",
+    "destination": "/media/37907b73fb506c47.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/04/KEPLER-G-Series-Switches.pdf",
+    "destination": "/media/46d4f95c7e48a19e.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/04/KEPLER-P-SERIES-Switches.pdf",
+    "destination": "/media/a3b251f62a769182.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/DALI-Master-Controller-PC-Configuration-Software-Instruction-V1.27.pdf",
+    "destination": "/media/a8c64c425b94e5ba.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/KDALI-2B-M-instruction-1.pdf",
+    "destination": "/media/67ed0b0f8f94f188.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/KDALI-2B-M-instruction.pdf",
+    "destination": "/media/2a1dbe8024a00ac7.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/KDALI-2B-P-PRO-instruction.pdf",
+    "destination": "/media/7a6c1a6a565ca1aa.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/KDALI-4B-G-Instruction.pdf",
+    "destination": "/media/23bfafc6feea9023.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/KDALI-4B-M-instruction.pdf",
+    "destination": "/media/7ecaf21313852fe7.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/KDALI-4B-P-PRO-instruction.pdf",
+    "destination": "/media/0a7627b51057f4c2.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/KDALI-4B-P-instruction.pdf",
+    "destination": "/media/61aa10d15c68e021.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/KDALI-6B-G-Instruction.pdf",
+    "destination": "/media/f934aeb411c8688b.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/KDALI-6B-P-PRO-instruction.pdf",
+    "destination": "/media/eb9110260ed1e3e9.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/KDALI-6B-P-instruction_.pdf",
+    "destination": "/media/8390851fa3d3ed10.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/KDALI-8B-G-Instruction.pdf",
+    "destination": "/media/50ba280c4db909cb.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/KDALI-8B-M-instruction.pdf",
+    "destination": "/media/d321a3a822069161.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/KDALI-8B-P-PRO-instruction.pdf",
+    "destination": "/media/a79391f72c77f37c.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/KDALI-8B-P-instruction.pdf",
+    "destination": "/media/318063358ff6e392.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/KDALI-KNX-2CH-instruction.pdf",
+    "destination": "/media/102c76d2c84d39a7.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/KDALI-MASTER-1CH-instruction.pdf",
+    "destination": "/media/6c57df932aeb8796.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/KDALI-MW-IP65-Instruction.pdf",
+    "destination": "/media/497485a640049474.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/KDALI-MW-Instruction.pdf",
+    "destination": "/media/107cb91e06db4d0d.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/KDALI-PBI-instruction.pdf",
+    "destination": "/media/5edece3577aa8d22.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/KDALI-PH-1CH-Instruction.pdf",
+    "destination": "/media/a2e67b2b0e27b534.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/KDALI-PH-2CH-user-manual.pdf",
+    "destination": "/media/68ca54970bb7b120.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/KDALI-PH-4CH-instruction.pdf",
+    "destination": "/media/796c776cef10997c.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/KDALI-PIR-instruction.pdf",
+    "destination": "/media/8adb71166ce35e13.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/KDALI-PS-DIN-user-manual.pdf",
+    "destination": "/media/545f9e0597e225ef.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/KDALI-RM-1CH-instruction_.pdf",
+    "destination": "/media/d01606651f7273d0.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/KDALI-RM-4CH-instruction-3.pdf",
+    "destination": "/media/9d18a0f2c64f9804.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/KDALI-RPT-instruction.pdf",
+    "destination": "/media/14fc9d649f9ca95a.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/KDMX-SPLITTER-Instruction.pdf",
+    "destination": "/media/051067e61e980705.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/05/KMOD-RM32-rev1.2.pdf",
+    "destination": "/media/35e5e5bcf5b37e58.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2024/09/KZIG-IR-rev0.pdf",
+    "destination": "/media/983420e8a5f71698.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2025/04/Datasheet_LROC-800.pdf",
+    "destination": "/media/51afdf7339da9b6a.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2025/06/KCP-TH4.pdf",
+    "destination": "/media/a13d5c8e8a8d1846.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2025/06/KIOT-CN-ZIG-v1.pdf",
+    "destination": "/media/b7555cebb82d7597.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2025/06/KMOD-USB-v0.pdf",
+    "destination": "/media/fb59b4759178cecd.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2025/06/KZIG-xG-ACR.pdf",
+    "destination": "/media/d083868b8d5e96ff.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2025/10/KAPI-USB.pdf",
+    "destination": "/media/707fae3819f3ba54.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/03/User_Manual_MINI-ZBRBS_EN_V1.0.pdf",
+    "destination": "/media/d06524f254d6bfff.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/03/User_Manual_SNZB-04P_EN_V1.1.pdf",
+    "destination": "/media/a850e6cbf3b0cdbf.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/03/User_Manual_ZBMINIL2_V1.1.pdf",
+    "destination": "/media/38602756d17ef216.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/03/User_Manual_ZBMINIR2_EN_V1.2.pdf",
+    "destination": "/media/85888f20debffd28.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/Quick_Guide_Dongle-M_V1.2.pdf",
+    "destination": "/media/52dfc8b3c0ae09c9.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/Quick_Guide_E1GSL_V1.1.pdf",
+    "destination": "/media/e6284ee6e1170412.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/Quick_Guide_E1GS_V1.1.pdf",
+    "destination": "/media/773864db90331c7e.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User-Manual-M5-1C_2C_3C-120W-Matter-EN-V1.0.pdf",
+    "destination": "/media/5bbd91914a63ea81.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User-Manual-M5-1C_2C_3C-86W-Matter-EN-V1.0.pdf",
+    "destination": "/media/4612bcca30a89fd7.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User-Manual-S60ZBTPF-EN-V1.1.pdf",
+    "destination": "/media/89b5dc2705d6f523.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User-Manual-S60ZBTPG-EN.pdf",
+    "destination": "/media/0f4ab34f6847baa4.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User-Manual-TX-EU-V1.5.pdf",
+    "destination": "/media/f24fab43aa7cef7e.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User-Manual_S60TPFEN-V1.0.pdf",
+    "destination": "/media/988bdb7f843da74d.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User-Manual_S60TPGEN-V1.0.pdf",
+    "destination": "/media/924a572bdacf7d7b.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_4CHR3_4CHPROR3_V1.3.pdf",
+    "destination": "/media/fe5d68d5ef3a84fe.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_BASIC-1GS_EN_V1.0.pdf",
+    "destination": "/media/cbc4c211dff8f380.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_BASICR4_EN.pdf",
+    "destination": "/media/0960248a3181f45c.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_DUALR3_DUALR3_Lite_V1.3.pdf",
+    "destination": "/media/a0bcc84feaed4552.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_MINI-2GS-E_EN_V1.0.pdf",
+    "destination": "/media/66d3dc20c56a76bc.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_MINI-2GS_EN_V1.0.pdf",
+    "destination": "/media/7d16085963713869.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_MINI-DIM-E_EN_V1.0.pdf",
+    "destination": "/media/bc3af682784d5638.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_MINI-DIM_EN_V1.0.pdf",
+    "destination": "/media/e7be271699189e8c.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_MINI-D_EN_V1.0.pdf",
+    "destination": "/media/66fe0afcd9830b94.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_MINI-RBS-E_EN_V1.1.pdf",
+    "destination": "/media/523d78b2e21859d0.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_MINI-ZB2GS-E_EN_V1.0.pdf",
+    "destination": "/media/33438f8c39a2f81c.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_MINI-ZB2GS-L-E_EN_V1.0.pdf",
+    "destination": "/media/f93041f8fd66326d.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_MINI-ZB2GS-L_EN_V1.0.pdf",
+    "destination": "/media/ad56c0db6c85de60.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_MINI-ZB2GS_EN_V1.0.pdf",
+    "destination": "/media/270cdecbbf599561.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_MINI-ZBDIM-E_EN_V1.0.pdf",
+    "destination": "/media/5987984825e622ba.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_MINI-ZBDIM_EN_V1.0.pdf",
+    "destination": "/media/514409e06e4f081a.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_MINI-ZBRBS-E_EN_V1.1.pdf",
+    "destination": "/media/f0f084d6c0a473fa.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_MINIR2_V1.2.pdf",
+    "destination": "/media/dba42b68fba01cf8.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_MINIR4M-E_EN_V1.0.pdf",
+    "destination": "/media/77fe2974a171196a.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_NSPanel_Pro-120_EN_V1.0.pdf",
+    "destination": "/media/6c507d147d4ab563.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_NSPanel_Pro_86_V1.0_20220817.pdf",
+    "destination": "/media/c6ef556c9c433073.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_NSPanel_V1.1.pdf",
+    "destination": "/media/3b42eba005ace1c7.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_POWCT_EN.pdf",
+    "destination": "/media/35b2927c77594bdb.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_S31_Lite_zb_V1.3_20201130.pdf",
+    "destination": "/media/d6c7d5f287aa3597.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_SNZB-01M_EN_V1.0.pdf",
+    "destination": "/media/e30516bf6effcae9.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_SNZB-02D_EN_V1.1.pdf",
+    "destination": "/media/73b0bcc92a2ce2f7.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_SNZB-02P_EN_V1.2.pdf",
+    "destination": "/media/4feb2bbcfb72051b.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_SNZB-02WD_EN_V1.0.pdf",
+    "destination": "/media/91be3fe0a8315d01.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_SNZB-06P_EN_V1.1_9c656cff-4e06-4ec8-a173-b18badc63dbd.pdf",
+    "destination": "/media/bad82d554d6f9397.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_T5-1C_2C_3C_4C-120_EN.pdf",
+    "destination": "/media/94826f8685ba0db3.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_T5-1C_2C_3C_4C-86_EN.pdf",
+    "destination": "/media/33ebadc496126cea.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_T6-120M_EN_V1.0.pdf",
+    "destination": "/media/174353fa0a4053a7.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_TH_Elite_V1.4.pdf",
+    "destination": "/media/221b1e058d739fff.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_TH_Origin.pdf",
+    "destination": "/media/b8c984be23fac9e7.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_WS01TPF-E_EN_V1.0-1.pdf",
+    "destination": "/media/a9459626a06da070.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_WS01TPF-E_EN_V1.0.pdf",
+    "destination": "/media/4cc8bbf30e4a7be0.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_ZBM5-120W_EN_V1.0.pdf",
+    "destination": "/media/21a97bceb4b139f0.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_ZBM5-80W_EN_V1.0.pdf",
+    "destination": "/media/3d00cdfec399b02d.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_ZBMINIL2-E_EN_V1.0.pdf",
+    "destination": "/media/dd4c4bc7425259b0.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_ZBMicro_EN_V1.1.pdf",
+    "destination": "/media/4843c0c11dbd2e5a.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_Manual_iFan04_V1.3.pdf",
+    "destination": "/media/577652a0d410b4bd.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/User_manual_M5_V1.2.pdf",
+    "destination": "/media/6f3c70e10b097858.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/user_manual_MINIR4.pdf",
+    "destination": "/media/0a7201bebc7b10e3.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/user_manual_MINIR4M.pdf",
+    "destination": "/media/33affd11f4688712.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/user_manual_POWR3_V1.0_20210908.pdf",
+    "destination": "/media/2cf3a0587538f5df.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/user_manual_POW_Elite.pdf",
+    "destination": "/media/1921a2941136cf0f.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/user_manual_POW_Origin.pdf",
+    "destination": "/media/c5323452eaeb7771.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/user_manual_S-MATE2_EN.pdf",
+    "destination": "/media/f333b4924b5f7c50.pdf",
+    "permanent": true
+  },
+  {
+    "source": "/wp-content/uploads/1/2026/04/user_manual_SPM-Main_SPM-4Relay_V1.0_20210924.pdf",
+    "destination": "/media/1b64bd8c2f1b3a0c.pdf",
+    "permanent": true
+  }
+]

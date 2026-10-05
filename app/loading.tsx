@@ -1,0 +1,1 @@
+export default function Loading(){return <div className="container section" role="status" aria-label="Loading page"><div className="loading-rule"/><p className="eyebrow">MAKING THE CONNECTION</p><p>Loading your space…</p></div>;}

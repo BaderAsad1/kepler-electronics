@@ -1,0 +1,13 @@
+{
+  "verifiedAt": "2026-10-05T15:24:56.718Z",
+  "discovered": 944,
+  "reachable": 940,
+  "counts": {
+    "products": 359,
+    "projects": 29,
+    "content": 13
+  },
+  "mediaPaths": 2179,
+  "redirects": 1778,
+  "errors": []
+}

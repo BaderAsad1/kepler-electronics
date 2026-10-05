@@ -1,0 +1,61 @@
+{
+  "name": "kepler-electronics",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --webpack --hostname 127.0.0.1",
+    "build": "next build --webpack",
+    "start": "next start --hostname 127.0.0.1",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --test tests/*.test.ts",
+    "test:e2e": "tsx scripts/test-e2e.ts",
+    "db:setup": "tsx scripts/db-setup.ts",
+    "admin:create": "tsx scripts/admin-create.ts",
+    "migrate:discover": "tsx scripts/migration/discover.ts",
+    "migrate:import": "tsx scripts/migration/import.ts",
+    "migrate:verify": "tsx scripts/migration/verify.ts",
+    "assets:generate": "python3 scripts/asset-generation/generate.py",
+    "assets:optimize": "tsx scripts/asset-generation/optimize.ts",
+    "jobs:run": "tsx scripts/jobs.ts",
+    "export:content": "tsx scripts/export-content.ts",
+    "build:pages": "tsx scripts/export-pages.ts",
+    "assets:source": "tsx scripts/migration/optimize-assets.ts",
+    "assets:restore": "tsx scripts/restore-assets.ts",
+    "capture:site": "tsx scripts/capture-site.ts",
+    "capture:source": "tsx scripts/capture-source-details.ts"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "2.117.2",
+    "@tailwindcss/postcss": "4.3.3",
+    "cheerio": "1.2.0",
+    "dotenv": "18.0.5",
+    "lucide-react": "1.52.0",
+    "next": "16.3.8",
+    "pg": "8.23.1",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "sharp": "0.35.5",
+    "stripe": "23.0.0",
+    "tailwindcss": "4.3.3",
+    "zod": "4.6.5"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.63.0",
+    "@types/node": "26.6.4",
+    "@types/pg": "8.23.1",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "eslint": "9.39.5",
+    "eslint-config-next": "16.3.8",
+    "tsx": "4.23.15",
+    "typescript": "6.0.3"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "optionalDependencies": {
+    "@next/swc-darwin-arm64": "16.3.8"
+  }
+}
