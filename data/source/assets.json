@@ -3459,10 +3459,14 @@
   {
     "source": "https://www.dropbox.com/scl/fi/3rwb3bfwai5sm8084urui/KE-OCC-24D-KEPLER-OCCUPANCY-SENSOR_240422_105451.pdf?rlkey=dn3r82lfsvoqb97vgaeoro288&dl=0",
     "originalPath": "/media/6b0e507fab14146e.pdf",
-    "bytes": 210661,
+    "bytes": 7892317,
     "kind": "download",
     "alt": "Presence sensor KE-OCC-24D Datasheet",
-    "rightsStatus": "source-asset; business rights review pending"
+    "rightsStatus": "source-asset; business rights review pending",
+    "sha256": "d8c39960329450322ff7fe85ed8a6de516d6a8e1c539f2aa1fe43403dd1d1814",
+    "downloadUrl": "https://www.dropbox.com/scl/fi/3rwb3bfwai5sm8084urui/KE-OCC-24D-KEPLER-OCCUPANCY-SENSOR_240422_105451.pdf?rlkey=dn3r82lfsvoqb97vgaeoro288&dl=1",
+    "reconciledAt": "2026-10-05T16:42:17.053Z",
+    "captureCorrection": "Public shared-file HTML preview replaced with original PDF via documented Dropbox dl=1 download mode."
   },
   {
     "source": "https://kepler-elec.com/wp-content/uploads/1/2024/04/KDALI-4B-G.png",

@@ -49,8 +49,10 @@ try {
    if(status===200){
     for(const asset of snap.assets){
      const ext=new URL(asset.source).pathname.includes('/doc_download/')?'.pdf':path.extname(new URL(asset.source).pathname).toLowerCase();const destination='public/media/'+hash(asset.source).slice(0,16)+ext;asset.path=destination.replace(/^public/,'');
-     if(!await exists(destination)){
-      try{const res=await context.request.get(asset.source,{timeout:25000});asset.status=res.status();if(res.ok()){const buffer=await res.body();if(buffer.length>=64*1024*1024){asset.path=undefined;snap.reviewFlags.push('asset-over-size-limit:'+asset.source);}else if(ext==='.pdf'&&buffer.subarray(0,5).toString()!=='%PDF-'){asset.path=undefined;snap.reviewFlags.push('asset-not-pdf:'+asset.source);}else await writeFile(destination,buffer);}else asset.path=undefined;}catch{asset.path=undefined;snap.reviewFlags.push('asset-unreachable:'+asset.source);}
+     const cached=await exists(destination)&&(ext!=='.pdf'||(await readFile(destination)).subarray(0,5).toString()==='%PDF-');
+     if(!cached){
+      const downloadUrl=new URL(asset.source);if(asset.kind==='download'&&downloadUrl.hostname==='www.dropbox.com')downloadUrl.searchParams.set('dl','1');
+      try{const res=await context.request.get(downloadUrl.href,{timeout:25000});asset.status=res.status();if(res.ok()){const buffer=await res.body();if(buffer.length>=64*1024*1024){asset.path=undefined;snap.reviewFlags.push('asset-over-size-limit:'+asset.source);}else if(ext==='.pdf'&&buffer.subarray(0,5).toString()!=='%PDF-'){asset.path=undefined;snap.reviewFlags.push('asset-not-pdf:'+asset.source);}else await writeFile(destination,buffer);}else asset.path=undefined;}catch{asset.path=undefined;snap.reviewFlags.push('asset-unreachable:'+asset.source);}
      }else asset.status=200;
     }
     await page.waitForTimeout(350);

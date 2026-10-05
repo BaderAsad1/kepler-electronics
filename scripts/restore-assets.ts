@@ -6,5 +6,5 @@ await mkdir('public/media',{recursive:true});
 const missing=[];
 for(const asset of manifest.documents){try{const bytes=await readFile('public'+asset.path);if(createHash('sha256').update(bytes).digest('hex')===asset.sha256)continue;}catch{}missing.push(asset);}
 if(missing.length){const code=await new Promise<number>((resolve,reject)=>{const child=spawn('gh',['release','download',manifest.release,'--repo',manifest.repository,'--dir','public/media','--pattern','*.pdf','--clobber'],{stdio:'inherit'});child.on('error',reject);child.on('exit',c=>resolve(c||0));});if(code)throw new Error('Could not restore source documents from the controlled release');}
-for(const asset of manifest.documents){const bytes=await readFile('public'+asset.path);if(createHash('sha256').update(bytes).digest('hex')!==asset.sha256)throw new Error('Source document checksum mismatch: '+asset.path);}
+for(const asset of manifest.documents){const bytes=await readFile('public'+asset.path);if(createHash('sha256').update(bytes).digest('hex')!==asset.sha256)throw new Error('Source document checksum mismatch: '+asset.path);if(bytes.subarray(0,5).toString()!=='%PDF-')throw new Error('Source document is not a PDF: '+asset.path);}
 console.log('Verified source documents:',manifest.documents.length);

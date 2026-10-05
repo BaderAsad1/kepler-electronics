@@ -13,6 +13,7 @@ assets/masters/*.base64
 data/dev.log
 data/lint.log
 data/source/crawl.log
+data/source/unresolved-responses/
 docs/screenshots/
 .playwright-mcp/
 data/pages-build.json
