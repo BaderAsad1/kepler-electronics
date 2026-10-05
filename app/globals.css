@@ -19,3 +19,5 @@
 @media(max-width:767px){input,select,textarea{font-size:16px!important}.technical-content>div>p,.product-intro{font-size:16px}.button{font-size:14px}.footer-links a,.footer-contact{font-size:13px}}
 
 .preview-notice{text-align:center;font-size:12px;line-height:1.5;padding:9px 20px;background:#e4eeea;color:#23473e;border-bottom:1px solid #c7d5cc}
+
+@media(max-width:767px){body:has(.mobile-product-sticky){padding-bottom:calc(82px + env(safe-area-inset-bottom))}.mobile-product-sticky .button{font-size:13px;min-height:44px}.mobile-product-sticky>span{font-size:12px}body:has(.mobile-product-sticky) .compare-tray{bottom:92px}.line-info>p{font-size:13px}}
