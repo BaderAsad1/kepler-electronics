@@ -1,0 +1,29 @@
+{
+  "measuredAt": "2026-10-05T16:52:57.037Z",
+  "url": "https://baderasad1.github.io/kepler-electronics/",
+  "conditions": "Single lab sample at each width. Installed Chrome, headless, macOS, fresh browser context per sample, normal network, no CPU/network throttling, 2 seconds after load, no scrolling. Not Lighthouse or real-user data.",
+  "samples": [
+    {
+      "width": 390,
+      "lcpMs": 732,
+      "cls": 0,
+      "documentLoadMs": 705.3000000119209,
+      "ttfbMs": 98.40000003576279,
+      "resourceCount": 48,
+      "resourceTransferBytes": 1569323,
+      "documentTransferBytes": 25884,
+      "canonical": "https://baderasad1.github.io/kepler-electronics/"
+    },
+    {
+      "width": 1440,
+      "lcpMs": 480,
+      "cls": 0,
+      "documentLoadMs": 450.60000002384186,
+      "ttfbMs": 154.80000001192093,
+      "resourceCount": 68,
+      "resourceTransferBytes": 1632328,
+      "documentTransferBytes": 25884,
+      "canonical": "https://baderasad1.github.io/kepler-electronics/"
+    }
+  ]
+}

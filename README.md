@@ -4,9 +4,11 @@ A Dubai-first building technology website with a migrated technical catalogue, p
 
 The current public deployment is a **GitHub Pages design/catalogue preview**. It uses real source products and documents, a project list saved in the visitor’s browser, and email/telephone contact. It does not run the server, save enquiries, accept BOQ uploads or take payments. The complete server application is retained in this repository for a later hosting connection.
 
+Open the [public preview](https://baderasad1.github.io/kepler-electronics/) or the [GitHub repository](https://github.com/BaderAsad1/kepler-electronics).
+
 ## Local application
 
-Use Node 24 and PostgreSQL 16 or a compatible Supabase Postgres database.
+Use Node 24 and PostgreSQL 16 or a compatible Supabase Postgres database. The GitHub CLI, authenticated for this repository, restores original documents from its public release.
 
 ```sh
 npm ci

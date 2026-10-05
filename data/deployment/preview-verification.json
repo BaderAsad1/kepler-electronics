@@ -1,0 +1,14 @@
+{
+  "verifiedAt": "2026-10-05T16:52:50.369Z",
+  "url": "https://baderasad1.github.io/kepler-electronics",
+  "checks": [
+    "exact SKU search and base-path navigation",
+    "local quote list persistence and note",
+    "actual email contact link",
+    "source-listed LPAD variant",
+    "real manufacturer and legacy shared-file PDF bytes",
+    "noindex",
+    "no page errors"
+  ],
+  "errors": []
+}

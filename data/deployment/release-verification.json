@@ -1,0 +1,114 @@
+{
+  "verifiedAt": "2026-10-05T17:04:08.134Z",
+  "url": "https://baderasad1.github.io/kepler-electronics/",
+  "repository": "BaderAsad1/kepler-electronics",
+  "deployedCommit": "4ebc80dc291092d51fd5a1541d059f58e421c4e8",
+  "workflowRun": "https://github.com/BaderAsad1/kepler-electronics/actions/runs/37343688893",
+  "conclusion": "success",
+  "jobs": [
+    {
+      "name": "verify",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "build",
+      "status": "completed",
+      "conclusion": "success"
+    },
+    {
+      "name": "deploy",
+      "status": "completed",
+      "conclusion": "success"
+    }
+  ],
+  "unitIntegrationTests": 15,
+  "browserScenarios": 11,
+  "verifiedSourcePDFs": 252,
+  "reviewedScreenshots": [
+    {
+      "name": "home",
+      "width": 390,
+      "path": "docs/screenshots/implemented/home-390.png",
+      "sha256": "f185f920f73b3830766db7b21d3c0959d9c8ec13ebd7177ac36407f06ab6831a",
+      "review": "Personally inspected for layout, imagery and preview states; source technical and business approval remains separate."
+    },
+    {
+      "name": "catalog",
+      "width": 390,
+      "path": "docs/screenshots/implemented/catalog-390.png",
+      "sha256": "f599b98813d370c90d8891a3198d812a7787de5054792654a860e1adb38bbe0c",
+      "review": "Personally inspected for layout, imagery and preview states; source technical and business approval remains separate."
+    },
+    {
+      "name": "product",
+      "width": 390,
+      "path": "docs/screenshots/implemented/product-390.png",
+      "sha256": "19a12b1f8ea22b3c8bc56c72c9a3e29d348225b7451215678c39ec938df3c19c",
+      "review": "Personally inspected for layout, imagery and preview states; source technical and business approval remains separate."
+    },
+    {
+      "name": "project",
+      "width": 390,
+      "path": "docs/screenshots/implemented/project-390.png",
+      "sha256": "9ca33059fbff2d2e5aa61eddd8e9745306a4819086a9953e8fe805206c453b4f",
+      "review": "Personally inspected for layout, imagery and preview states; source technical and business approval remains separate."
+    },
+    {
+      "name": "quote",
+      "width": 390,
+      "path": "docs/screenshots/implemented/quote-390.png",
+      "sha256": "ed3eb8a79398ce8c716db4380dc4508bddbae72403f2b8bcf7c17090aaf48afa",
+      "review": "Personally inspected for layout, imagery and preview states; source technical and business approval remains separate."
+    },
+    {
+      "name": "cart",
+      "width": 390,
+      "path": "docs/screenshots/implemented/cart-390.png",
+      "sha256": "8b1c04a28e661abc7d3726c40878684754366cfb0b1d37ab2f6e6f4fb3919de3",
+      "review": "Personally inspected for layout, imagery and preview states; source technical and business approval remains separate."
+    },
+    {
+      "name": "home",
+      "width": 1440,
+      "path": "docs/screenshots/implemented/home-1440.png",
+      "sha256": "146346e4b2a154e955d6a8c7190c5241df74e303e37b69876d080ee859ff8cdc",
+      "review": "Personally inspected for layout, imagery and preview states; source technical and business approval remains separate."
+    },
+    {
+      "name": "catalog",
+      "width": 1440,
+      "path": "docs/screenshots/implemented/catalog-1440.png",
+      "sha256": "96d3011dbc9e5742d4767b30d6dfdc678ee61b289555c4493fca364718930205",
+      "review": "Personally inspected for layout, imagery and preview states; source technical and business approval remains separate."
+    },
+    {
+      "name": "product",
+      "width": 1440,
+      "path": "docs/screenshots/implemented/product-1440.png",
+      "sha256": "797215cb9ecf4f5bf05bd679303735b72bd9fc937ce72000f607ae856fe729fc",
+      "review": "Personally inspected for layout, imagery and preview states; source technical and business approval remains separate."
+    },
+    {
+      "name": "project",
+      "width": 1440,
+      "path": "docs/screenshots/implemented/project-1440.png",
+      "sha256": "01c8ef060158a812b5fea7816fa9ecb7584870334c7894a8aa428754e371d8a8",
+      "review": "Personally inspected for layout, imagery and preview states; source technical and business approval remains separate."
+    },
+    {
+      "name": "quote",
+      "width": 1440,
+      "path": "docs/screenshots/implemented/quote-1440.png",
+      "sha256": "b80399fbe5ff9aa39ca7228e036ab58fb683df3fbaf7f6f658d91133e0c5d9a9",
+      "review": "Personally inspected for layout, imagery and preview states; source technical and business approval remains separate."
+    },
+    {
+      "name": "cart",
+      "width": 1440,
+      "path": "docs/screenshots/implemented/cart-1440.png",
+      "sha256": "960bd486c74c8dcc6e2fdd2bd19c7e1ccbd4f2decabd0d96c46e5c27519d5582",
+      "review": "Personally inspected for layout, imagery and preview states; source technical and business approval remains separate."
+    }
+  ]
+}
