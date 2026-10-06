@@ -1,0 +1,17 @@
+<section class="container section"><div class="page-heading"><p class="eyebrow">{{ shop.name | escape }}</p><h1>{{ blog.title | escape }}</h1></div>{% paginate blog.articles by section.settings.per_page %}<div class="article-grid">{% for article in blog.articles %}<article>{% if article.image %}<a href="{{ article.url }}">{{ article.image | image_url: width: 1000 | image_tag: widths: '400, 700, 1000', sizes: '(min-width: 990px) 33vw, 100vw', loading: 'lazy' }}</a>{% endif %}<p class="caption">{{ article.published_at | date: format: 'date' }}</p><h2><a href="{{ article.url }}">{{ article.title | escape }}</a></h2><div class="rte">{{ article.excerpt_or_content | strip_html | truncatewords: 35 }}</div></article>{% else %}<p>{{ 'blog.empty' | t }}</p>{% endfor %}</div>{% render 'pagination', paginate: paginate %}{% endpaginate %}</section>
+{% schema %}
+{
+  "name": "Blog",
+  "settings": [
+    {
+      "type": "range",
+      "id": "per_page",
+      "label": "Articles per page",
+      "min": 3,
+      "max": 15,
+      "step": 3,
+      "default": 9
+    }
+  ]
+}
+{% endschema %}

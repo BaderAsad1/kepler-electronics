@@ -1,0 +1,31 @@
+<section class="section dark"><div class="container rich-layout"><div><p class="eyebrow">{{ section.settings.eyebrow | escape }}</p><h2>{{ section.settings.heading | escape }}</h2><div class="rte">{{ section.settings.text }}</div></div><div>{% assign newsletter_id = 'Newsletter-' | append: section.id %}{% form 'customer', id: newsletter_id %}<input type="hidden" name="contact[tags]" value="newsletter">{{ form.errors | default_errors }}{% if form.posted_successfully? %}<p role="status">{{ 'newsletter.success' | t }}</p>{% endif %}<label for="NewsletterEmail-{{ section.id }}">{{ 'contact.email' | t }}</label><input id="NewsletterEmail-{{ section.id }}" name="contact[email]" type="email" autocomplete="email" required><button type="submit" class="button light">{{ 'newsletter.subscribe' | t }}{% render 'icon', name: 'arrow' %}</button>{% endform %}</div></div></section>
+{% schema %}
+{
+  "name": "Newsletter",
+  "settings": [
+    {
+      "type": "text",
+      "id": "eyebrow",
+      "label": "Eyebrow",
+      "default": "STAY CONNECTED"
+    },
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "Heading",
+      "default": "Ideas for intelligent spaces."
+    },
+    {
+      "type": "richtext",
+      "id": "text",
+      "label": "Text",
+      "default": "<p>Receive Kepler product news and project insights.</p>"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Newsletter"
+    }
+  ]
+}
+{% endschema %}

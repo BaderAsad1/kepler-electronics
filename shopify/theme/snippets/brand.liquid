@@ -1,0 +1,2 @@
+<a class="brand" href="{{ routes.root_url }}" aria-label="{{ shop.name | escape }} — {{ 'general.home' | t }}">
+{% if settings.logo != blank %}{{ settings.logo | image_url: width: 320 | image_tag: widths: '160, 240, 320', sizes: '160px', loading: 'eager', class: 'brand-custom', alt: shop.name }}{% else %}<img src="{{ 'kepler-mark.png' | asset_url }}" alt="" width="44" height="44"><span>KEPLER<small>ELECTRONICS</small></span>{% endif %}</a>

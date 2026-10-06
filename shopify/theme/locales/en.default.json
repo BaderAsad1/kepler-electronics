@@ -1,0 +1,141 @@
+{
+  "general": {
+    "home": "Home",
+    "page": "Page {{ number }}",
+    "products": "Products",
+    "all_products": "Explore all products",
+    "explore_products": "Explore products",
+    "explore_catalog": "Explore the catalogue or discuss your specification with our team.",
+    "select_products": "Select products in the theme editor",
+    "contact": "Contact",
+    "discuss": "Discuss your project",
+    "account": "Your account",
+    "your_project": "Your project",
+    "country": "Country / region",
+    "language": "Language",
+    "update": "Update",
+    "previous": "Previous page",
+    "next": "Next page",
+    "continue": "Continue exploring",
+    "not_found": "This page could not be found.",
+    "not_found_help": "Find your technology in the catalogue, or contact our Dubai team.",
+    "error": "Something went wrong. Check your shopping bag before trying again.",
+    "precise_technology": "THE RIGHT TECHNOLOGY. DOWN TO THE EXACT MODEL.",
+    "coming_soon": "Intelligence. Coming soon.",
+    "password": "Store password",
+    "enter": "Enter store"
+  },
+  "accessibility": {
+    "skip": "Skip to content",
+    "main_nav": "Main navigation",
+    "mobile_nav": "Mobile navigation",
+    "submenu": "Open {{ title }} submenu",
+    "breadcrumb": "Breadcrumb",
+    "pagination": "Pagination",
+    "new_window": "Opens in a new window",
+    "close": "Close"
+  },
+  "images": {
+    "villa": "Warmly illuminated contemporary villa and courtyard — architectural concept",
+    "lighting": "Warm coordinated lighting in a stone corridor — architectural concept",
+    "concept": "illustrative architectural concept",
+    "reference": "original source-listed project photograph"
+  },
+  "product": {
+    "quantity": "Quantity",
+    "model": "Model",
+    "variant": "Model / variant",
+    "from": "From",
+    "view": "View details",
+    "quote_price": "Price on request",
+    "quote_help": "Confirm pricing, availability and your exact specification with our team.",
+    "sold_out": "Unavailable to purchase",
+    "unavailable_combination": "This combination is unavailable. Choose another option.",
+    "add": "Add to shopping bag",
+    "purchase_option": "Purchase option",
+    "one_time": "One-time purchase",
+    "description": "Product details",
+    "specifications": "Specifications",
+    "documents": "Technical documents",
+    "source": "Original source information",
+    "media_number": "View media {{ number }}",
+    "more_media": "View all product media"
+  },
+  "cart": {
+    "title": "Shopping bag",
+    "eyebrow": "YOUR SELECTED TECHNOLOGY",
+    "empty": "Your shopping bag is empty.",
+    "added": "Added to your shopping bag.",
+    "remove": "Remove",
+    "update": "Update shopping bag",
+    "view": "View shopping bag",
+    "note": "Order note (optional)",
+    "subtotal": "Subtotal",
+    "checkout": "Continue to checkout",
+    "taxes_included": "Taxes included.",
+    "taxes_checkout": "Taxes calculated at checkout.",
+    "shipping_checkout": "Shipping calculated at checkout.",
+    "shipping_policy": "Shipping policy",
+    "payment_methods": "Accepted payment methods",
+    "quote_item": "This product requires a quotation.",
+    "blocked": "Remove quote-only products from the shopping bag before checkout. Contact our team for a quotation."
+  },
+  "quote": {
+    "title": "Project quote list",
+    "add": "Add to project list",
+    "added": "Added to your project list.",
+    "limit": "Your project list has reached 50 products. Send this specification before adding more.",
+    "empty": "Your project list is empty. Add products or enter your specification below.",
+    "specification": "Your project specification",
+    "local_notice": "Your list is saved in this browser. Review it before sending. Pricing and availability are confirmed by our team.",
+    "storage_error": "Your browser could not save the list. Open the project quote page and enter your specification."
+  },
+  "catalog": {
+    "filter": "Filter and sort",
+    "sort": "Sort by",
+    "apply": "Apply filters",
+    "reset": "Reset filters",
+    "min_price": "Minimum price",
+    "max_price": "Maximum price",
+    "count": "{{ count }} products",
+    "empty": "No products matched your selection.",
+    "collections": "Product collections"
+  },
+  "search": {
+    "title": "Find your technology.",
+    "eyebrow": "KNOW THE MODEL? START HERE.",
+    "label": "Model, product or keyword",
+    "placeholder": "Search model, product or keyword",
+    "submit": "Search",
+    "count": "{{ count }} results for “{{ terms }}”",
+    "try": "Try another model number or fewer filters."
+  },
+  "contact": {
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone (optional)",
+    "project": "Project / company (optional)",
+    "message": "Tell us what you need",
+    "send": "Send enquiry",
+    "success": "Your enquiry has been sent. Our team will review your requirements.",
+    "privacy": "Read how we handle your information:"
+  },
+  "blog": {
+    "empty": "No articles have been published yet.",
+    "comments": "Comments",
+    "comment_success": "Your comment has been submitted and may require approval.",
+    "comment_submit": "Submit comment"
+  },
+  "newsletter": {
+    "subscribe": "Subscribe",
+    "success": "Thank you for subscribing."
+  },
+  "gift_card": {
+    "title": "Your gift card",
+    "code": "Gift card code",
+    "expires": "Valid until",
+    "expired": "This gift card has expired.",
+    "disabled": "This gift card is disabled.",
+    "wallet": "Add to Apple Wallet"
+  }
+}

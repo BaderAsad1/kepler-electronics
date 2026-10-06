@@ -1,0 +1,33 @@
+{
+  "type": "footer",
+  "name": "Footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "explore": {
+          "type": "menu",
+          "settings": {
+            "heading": "Explore",
+            "menu": "main-menu"
+          }
+        },
+        "company": {
+          "type": "menu",
+          "settings": {
+            "heading": "Kepler",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "explore",
+        "company"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

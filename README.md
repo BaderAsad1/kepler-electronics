@@ -58,3 +58,7 @@ Generated image masters are cached. `assets:generate` only requests missing asse
 - [Build brief](docs/BUILD_BRIEF.md).
 
 Original public-source snapshots and asset provenance remain separate from edited database content. Original documents are retained locally and in the versioned source-assets GitHub release. Public repository exports exclude staff, customer, payment, session and private attachment records. Screenshots remain local under `docs/screenshots/`.
+
+## Shopify theme
+
+The Kepler design is also available as a native Shopify Online Store 2.0 theme. See [Shopify setup, migration and verification](shopify/README.md). The uploadable package is generated in `shopify/dist/`. Store connection and live checkout verification remain pending.

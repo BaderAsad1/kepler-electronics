@@ -1,0 +1,24 @@
+<section class="container section"><div class="page-heading"><p class="eyebrow">{{ 'general.products' | t }}</p><h1>{{ collection.title | escape }}</h1>{% if section.settings.show_description %}<div class="rte">{{ collection.description }}</div>{% endif %}</div>
+{% paginate collection.products by section.settings.per_page %}<div class="catalog-layout"><aside><details class="filter-panel" open><summary>{{ 'catalog.filter' | t }}</summary>{% render 'facets', results: collection, section_id: section.id %}</details></aside><div><p class="result-count">{{ 'catalog.count' | t: count: collection.products_count }}</p><div class="product-grid">{% for product in collection.products %}{% render 'product-card', product: product %}{% else %}<div class="empty-state"><h2>{{ 'catalog.empty' | t }}</h2><a href="{{ collection.url }}">{{ 'catalog.reset' | t }}</a></div>{% endfor %}</div>{% render 'pagination', paginate: paginate %}</div></div>{% endpaginate %}</section>
+{% schema %}
+{
+  "name": "Collection",
+  "settings": [
+    {
+      "type": "range",
+      "id": "per_page",
+      "label": "Products per page",
+      "min": 12,
+      "max": 48,
+      "step": 12,
+      "default": 24
+    },
+    {
+      "type": "checkbox",
+      "id": "show_description",
+      "label": "Show collection description",
+      "default": true
+    }
+  ]
+}
+{% endschema %}

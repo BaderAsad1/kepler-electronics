@@ -1,0 +1,10 @@
+{
+  "current": {
+    "enable_commerce": false
+  },
+  "presets": {
+    "Kepler Atelier": {
+      "enable_commerce": false
+    }
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "sections": {
+    "hero": {
+      "type": "hero",
+      "settings": {}
+    },
+    "capabilities": {
+      "type": "capabilities",
+      "settings": {},
+      "blocks": {
+        "0": {
+          "type": "capability",
+          "settings": {
+            "title": "Building management",
+            "subtitle": "Intelligence at every scale",
+            "icon": "building",
+            "link": "/pages/building-management"
+          }
+        },
+        "1": {
+          "type": "capability",
+          "settings": {
+            "title": "Lighting control",
+            "subtitle": "Set the right atmosphere",
+            "icon": "light",
+            "link": "/pages/lighting-control"
+          }
+        },
+        "2": {
+          "type": "capability",
+          "settings": {
+            "title": "Home automation",
+            "subtitle": "Connected, considered living",
+            "icon": "home",
+            "link": "/pages/home-automation"
+          }
+        },
+        "3": {
+          "type": "capability",
+          "settings": {
+            "title": "Guest room management",
+            "subtitle": "Comfort, thoughtfully connected",
+            "icon": "layers",
+            "link": "/pages/guest-room-management"
+          }
+        }
+      },
+      "block_order": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "spaces": {
+      "type": "spaces",
+      "settings": {
+        "link": "/pages/solutions"
+      },
+      "blocks": {
+        "0": {
+          "type": "space",
+          "settings": {
+            "title": "A home or villa",
+            "subtitle": "Everyday living, effortlessly connected.",
+            "scene": "connected-living",
+            "link": "/pages/home-automation"
+          }
+        },
+        "1": {
+          "type": "space",
+          "settings": {
+            "title": "A hospitality project",
+            "subtitle": "A thoughtful experience for every guest.",
+            "scene": "hospitality-room-control",
+            "link": "/pages/guest-room-management"
+          }
+        },
+        "2": {
+          "type": "space",
+          "settings": {
+            "title": "A commercial building",
+            "subtitle": "Building systems that work together.",
+            "scene": "commercial-building-intelligence",
+            "link": "/pages/building-management"
+          }
+        },
+        "3": {
+          "type": "space",
+          "settings": {
+            "title": "Sourcing products",
+            "subtitle": "Explore the catalogue. Build your specification.",
+            "scene": "sourcing",
+            "link": "/collections/all"
+          }
+        }
+      },
+      "block_order": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "story": {
+      "type": "image-text",
+      "settings": {
+        "link": "/pages/solutions"
+      }
+    },
+    "products": {
+      "type": "featured-products",
+      "settings": {
+        "collection": "all"
+      }
+    },
+    "project": {
+      "type": "project-feature",
+      "settings": {
+        "link": "/pages/mama-shelter-hotel-accor"
+      }
+    },
+    "process": {
+      "type": "rich-text",
+      "settings": {
+        "link": "/pages/project-quote"
+      }
+    },
+    "cta": {
+      "type": "rich-text",
+      "settings": {
+        "eyebrow": "LET’S MAKE IT INTELLIGENT",
+        "heading": "Tell us what your space needs to do.",
+        "text": "<p>A new home. A connected hotel. A better building. Start with a conversation with our Dubai team.</p>",
+        "link": "/pages/contact",
+        "dark": true
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "capabilities",
+    "spaces",
+    "story",
+    "products",
+    "project",
+    "process",
+    "cta"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "testedAt": "2026-10-06T18:13:44.380Z",
+  "environment": "Local LiquidJS rendering with explicit Shopify API fixtures; Chrome; not live Shopify verification",
+  "results": [
+    {
+      "name": "Responsive home, collection, product, quote and cart render without overflow or missing images",
+      "passed": true,
+      "durationMs": 25304
+    },
+    {
+      "name": "Automated WCAG A/AA checks on main storefront templates",
+      "passed": true,
+      "durationMs": 6992
+    },
+    {
+      "name": "Variant selection replaces SKU, price and URL; unavailable variant cannot be added",
+      "passed": true,
+      "durationMs": 1313
+    },
+    {
+      "name": "Cart drawer uses native checkout, Escape restores focus and repeated adds are serialized",
+      "passed": true,
+      "durationMs": 1562
+    },
+    {
+      "name": "Server cart errors are visible and do not announce success",
+      "passed": true,
+      "durationMs": 1021
+    },
+    {
+      "name": "Quote list persists, selects exact model and carries quantity into native contact form",
+      "passed": true,
+      "durationMs": 1469
+    },
+    {
+      "name": "Media thumbnails select a photograph without moving the product information",
+      "passed": true,
+      "durationMs": 737
+    },
+    {
+      "name": "No JavaScript: variant selection, purchase, filters and enquiry remain native forms",
+      "passed": true,
+      "durationMs": 1424
+    },
+    {
+      "name": "Arabic locale changes chrome and direction without overflow",
+      "passed": true,
+      "durationMs": 834
+    }
+  ]
+}

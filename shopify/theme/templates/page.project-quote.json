@@ -1,0 +1,14 @@
+{
+  "sections": {
+    "main": {
+      "type": "contact",
+      "settings": {
+        "quote": true,
+        "heading": "Your project specification."
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
