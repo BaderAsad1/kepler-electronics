@@ -4,7 +4,7 @@
   "package": "shopify/dist/Kepler Atelier-1.0.0.zip",
   "bytes": 962503,
   "sha256": "5ae664c89be7cd27be2f9eda72f8196eb8d617b84145d91a9c588206ca118489",
-  "files": 77,
+  "files": 70,
   "shopifyCli": "4.8.5",
   "themeCheck": {
     "configuration": "theme-check:recommended",
@@ -28,5 +28,7 @@
   "liveCheckoutVerified": false,
   "contactDeliveryVerified": false,
   "themeStoreApproved": false,
-  "businessCommercialApprovalPending": true
+  "businessCommercialApprovalPending": true,
+  "zipEntries": 77,
+  "sourceContentsMatch": true
 }
