@@ -1,0 +1,5 @@
+{% liquid
+ assign selected_variant = product.selected_or_first_available_variant
+ assign quote_page_url = settings.quote_page.url | default: '/pages/project-quote'
+%}
+<a class="button {{ class }}" href="{{ quote_page_url }}?product={{ product.handle | url_encode }}&amp;variant={{ selected_variant.id }}&amp;model={{ selected_variant.sku | url_encode }}" data-quote-add{% if request_pricing %} data-quote-request{% endif %} data-product-handle="{{ product.handle }}" data-product-title="{{ product.title | escape }}" data-product-url="{{ product.url }}" data-product-variant="{{ selected_variant.id }}" data-product-model="{{ selected_variant.sku | escape }}"{% if selected_variant == blank %} aria-disabled="true"{% endif %}>{% if request_pricing %}{{ 'quote.request' | t }}{% else %}{{ 'quote.add' | t }}{% endif %}{% render 'icon', name: 'quote' %}</a>

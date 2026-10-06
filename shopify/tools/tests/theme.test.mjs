@@ -27,6 +27,13 @@ test('A selected variant beyond Shopify’s variants array remains the submitted
 test('A stale quote-only cart blocks theme checkout',async()=>{
  const data=scope(url,{items:[{key:'quote:one',product:products[0],variant:products[0].variants[0],quantity:1,properties:{},line_level_discount_allocations:[],url:products[0].url}],item_count:1,total_price:0});const html=await renderPage('cart',data);assert.doesNotMatch(html,/name="checkout"/);assert.match(html,/Remove quote-only products/);
 });
+test('Quote forms preserve returned customer input and only confirm a successful Shopify submission',async()=>{
+ const data=scope(url);data.page={title:'Project quotation',content:''};data.request.page_type='page';
+ let html=await renderPage('page.project-quote',data);assert.doesNotMatch(html,/data-contact-success/);assert.match(html,/Please confirm pricing and availability/);
+ data.form={errors:{email:'Invalid email'},name:'Customer',email:'bad-email',body:'My own requirements',phone:'+971 50 123 4567',Project:'My villa','Project list':'2 × MY-MODEL'};
+ html=await renderPage('page.project-quote',data);assert.match(html,/My own requirements/);assert.match(html,/2 × MY-MODEL/);assert.match(html,/value="My villa"/);assert.doesNotMatch(html,/Please confirm pricing and availability|data-contact-success/);
+ data.form={...data.form,errors:null,'posted_successfully?':true};html=await renderPage('page.project-quote',data);assert.match(html,/data-contact-success/);
+});
 test('Import staging preserves unknown prices and intentionally blocks inventory',()=>{
  const p={slug:'model-one',name:'Model one',description:'<Source> & exact',brand:'Brand',category:'control',categories:['control'],mode:'quote',price_minor:null,stock:null,variants:[{sku:'EXACT-1',name:'EXACT-1'},{sku:'EXACT-2',name:'EXACT-2'}],media:[]};const rows=buildRows([p]);assert.equal(rows.length,2);assert.equal(rows[0].Status,'draft');assert.equal(rows[0].Published,'FALSE');assert.equal(rows[0]['Variant Inventory Policy'],'deny');assert.equal(rows[0]['Variant Inventory Qty'],'0');assert.equal(rows[1]['Variant SKU'],'EXACT-2');assert.equal(rows[0]['Variant Price'],undefined);assert.ok(rows[0]['Body (HTML)'].includes('&lt;Source&gt; &amp; exact'));assert.throws(()=>buildRows([{...p,price_minor:100}]),/Commercial review/);
 });

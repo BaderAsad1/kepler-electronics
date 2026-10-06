@@ -1,51 +1,66 @@
 {
-  "testedAt": "2026-10-06T18:13:44.380Z",
+  "testedAt": "2026-10-06T18:38:03.154Z",
   "environment": "Local LiquidJS rendering with explicit Shopify API fixtures; Chrome; not live Shopify verification",
   "results": [
     {
       "name": "Responsive home, collection, product, quote and cart render without overflow or missing images",
       "passed": true,
-      "durationMs": 25304
+      "durationMs": 15694
     },
     {
       "name": "Automated WCAG A/AA checks on main storefront templates",
       "passed": true,
-      "durationMs": 6992
+      "durationMs": 2901
     },
     {
       "name": "Variant selection replaces SKU, price and URL; unavailable variant cannot be added",
       "passed": true,
-      "durationMs": 1313
+      "durationMs": 463
     },
     {
       "name": "Cart drawer uses native checkout, Escape restores focus and repeated adds are serialized",
       "passed": true,
-      "durationMs": 1562
+      "durationMs": 549
     },
     {
       "name": "Server cart errors are visible and do not announce success",
       "passed": true,
-      "durationMs": 1021
+      "durationMs": 401
     },
     {
       "name": "Quote list persists, selects exact model and carries quantity into native contact form",
       "passed": true,
-      "durationMs": 1469
+      "durationMs": 522
     },
     {
       "name": "Media thumbnails select a photograph without moving the product information",
       "passed": true,
-      "durationMs": 737
+      "durationMs": 412
+    },
+    {
+      "name": "Mobile pricing action opens an exact-model enquiry without duplicating the saved quantity",
+      "passed": true,
+      "durationMs": 522
+    },
+    {
+      "name": "Mobile purchase bar adds the selected model and restores focus after closing the bag",
+      "passed": true,
+      "durationMs": 518
+    },
+    {
+      "name": "Homepage model search uses Shopify search and pricing requests recover when browser storage is blocked",
+      "passed": true,
+      "durationMs": 691
     },
     {
       "name": "No JavaScript: variant selection, purchase, filters and enquiry remain native forms",
       "passed": true,
-      "durationMs": 1424
+      "durationMs": 499
     },
     {
       "name": "Arabic locale changes chrome and direction without overflow",
       "passed": true,
-      "durationMs": 834
+      "durationMs": 436
     }
   ]
 }

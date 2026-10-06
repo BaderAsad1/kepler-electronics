@@ -59,7 +59,9 @@
     "documents": "Technical documents",
     "source": "Original source information",
     "media_number": "View media {{ number }}",
-    "more_media": "View all product media"
+    "more_media": "View all product media",
+    "team": "Speak with our Dubai team",
+    "add_short": "Add to bag"
   },
   "cart": {
     "title": "Shopping bag",
@@ -88,7 +90,12 @@
     "empty": "Your project list is empty. Add products or enter your specification below.",
     "specification": "Your project specification",
     "local_notice": "Your list is saved in this browser. Review it before sending. Pricing and availability are confirmed by our team.",
-    "storage_error": "Your browser could not save the list. Open the project quote page and enter your specification."
+    "storage_error": "Your browser could not save the list. Open the project quote page and enter your specification.",
+    "request": "Request pricing",
+    "continue": "Review & send your enquiry",
+    "message_default": "Please confirm pricing and availability for the models in my project specification.",
+    "send": "Request a quotation",
+    "review": "Review or edit the specification"
   },
   "catalog": {
     "filter": "Filter and sort",
@@ -118,7 +125,10 @@
     "message": "Tell us what you need",
     "send": "Send enquiry",
     "success": "Your enquiry has been sent. Our team will review your requirements.",
-    "privacy": "Read how we handle your information:"
+    "privacy": "Read how we handle your information:",
+    "optional": "Add phone or project details (optional)",
+    "next": "Our team will review your specification and confirm pricing and availability. This request does not place an order.",
+    "message_help": "Products, quantities or project requirements"
   },
   "blog": {
     "empty": "No articles have been published yet.",

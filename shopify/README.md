@@ -4,9 +4,19 @@ An original Shopify Online Store 2.0 theme for Kepler Electronics. The architect
 
 The installable package is `dist/Kepler Atelier-1.0.0.zip`. Theme source is in `theme/`. It includes editable sections and section groups, JSON templates, app blocks, native product forms, server-rendered option selection, collection filters and sorting, search, product media, a cart drawer, cart notes and discounts, Shopify checkout submission, customer-account links, localization, contact forms, newsletters, blog/article templates, password protection and gift cards.
 
+## Buying and enquiry flow
+
+The homepage includes a native Shopify model/brand search beside the solution pathways. Product pages put the product name, exact model, pricing status and model selector early in the mobile layout. Quote-only products have a primary **Request pricing** action that saves the selected model and opens the quotation form. **Add to project list** remains available for multi-product specifications, with a visible link to review and send the enquiry. Requesting pricing again preserves an existing quantity rather than incrementing it.
+
+A mobile action bar shows the selected model and pricing status while scrolling. Approved shopping products use the same native product form from either purchase button, share the cart busy state and restore focus to the button used to open the shopping bag. Unavailable variants disable both controls. Space and scroll margins account for the action bar and device safe area.
+
+The quotation form carries the exact model list and quantities, keeps the specification editable, and requires only name, email and requirements. Phone/company fields are optional and expandable. A pricing request message is suggested only when a specification exists; empty enquiries require the visitor to describe their needs. Returned form values and manually edited specifications are preserved. Dubai phone/email and original technical documents are directly reachable from product pages.
+
+These changes follow [Shopify’s product-page guidance](https://www.shopify.com/blog/expert-advice-improve-product-pages) and [conversion checklist](https://www.shopify.com/blog/cro-checklist). They reduce identified friction; no sales uplift has been measured or guaranteed. Once a store is connected, evaluate qualified enquiries and completed paid orders separately, and compare mobile and desktop completion, errors and abandonment. Successful add-to-bag or quote-list clicks are intermediate actions, not revenue. Enquiry measurement must count confirmed submissions/delivery, and any analytics integration must respect the merchant’s consent settings. No advertising pixel or outside tracking service has been installed.
+
 ## Verification status
 
-Shopify CLI 4.8.5 Theme Check, using the unmodified recommended configuration, reports zero errors and zero warnings. Local tests exercise responsive layouts at 320, 390, 768 and 1440 pixels, automated WCAG A/AA rules, model selection, unavailable stock, cart errors, keyboard focus, project-list persistence, native forms without JavaScript and Arabic direction. These use an explicitly labelled LiquidJS renderer with Shopify API fixtures. They do not verify Shopify's hosted renderer, theme editor, payment gateways, live stock, contact delivery or checkout completion.
+Shopify CLI 4.8.5 Theme Check, using the unmodified recommended configuration, reports zero errors and zero warnings. Eight source/rendering tests and twelve browser test groups exercise responsive layouts at 320, 390, 768 and 1440 pixels, automated WCAG A/AA rules, model selection, unavailable stock, cart errors, keyboard focus, project-list persistence, native forms without JavaScript and Arabic direction. These use an explicitly labelled LiquidJS renderer with Shopify API fixtures. They do not verify Shopify's hosted renderer, theme editor, payment gateways, live stock, contact delivery or checkout completion.
 
 This is a bespoke merchant theme. It has not been submitted to or approved by the Shopify Theme Store. “AAA” is treated as premium production quality, not a completed WCAG AAA audit or Shopify certification. Automated scans cannot establish full accessibility conformance. Store testing, manual assistive-technology review and device testing are needed before making those claims.
 
@@ -45,7 +55,7 @@ Private BOQ uploads, staff-managed quotations, payment links, enquiry records an
 - `metafield-definitions.json`: storefront-readable fields. `documents` is JSON with `{label,url}` entries; `specifications` is a JSON object.
 - `store-setup.json` and `redirects.csv`: curated page/menu and URL-redirect staging, requiring review before store import.
 
-PDFs link to the controlled source-assets GitHub release. Product/project photographs remain original source material; architecture images are labelled concepts. Rights, manufacturer revisions, compatibility, source claims and business review remain required. The four uncaptured source pages and 58 unresolved manufacturer endpoints in the existing migration report remain unresolved.
+PDFs link to the controlled source-assets GitHub release. Product/project photographs remain original source material; some source images are low resolution and need approved higher-resolution replacements for a sharper live gallery; architecture images are labelled concepts. Rights, manufacturer revisions, compatibility, source claims and business review remain required. The four uncaptured source pages and 58 unresolved manufacturer endpoints in the existing migration report remain unresolved.
 
 ## Development
 

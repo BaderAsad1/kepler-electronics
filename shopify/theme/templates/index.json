@@ -129,17 +129,22 @@
     "cta": {
       "type": "rich-text",
       "settings": {
-        "eyebrow": "LET’S MAKE IT INTELLIGENT",
+        "eyebrow": "LET\u2019S MAKE IT INTELLIGENT",
         "heading": "Tell us what your space needs to do.",
         "text": "<p>A new home. A connected hotel. A better building. Start with a conversation with our Dubai team.</p>",
         "link": "/pages/contact",
         "dark": true
       }
+    },
+    "search": {
+      "type": "catalog-search",
+      "settings": {}
     }
   },
   "order": [
     "hero",
     "capabilities",
+    "search",
     "spaces",
     "story",
     "products",

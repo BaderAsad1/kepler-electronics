@@ -91,10 +91,14 @@
       const section = quote.closest('[data-product-section]');
       const variant = section?.querySelector('[name="id"]')?.value || quote.dataset.productVariant || '';
       const items = readQuotes(); const existing = items.find(item => item.handle === quote.dataset.productHandle && item.variant === variant);
-      if (existing) { existing.quantity = Math.min(9999, existing.quantity + 1); }
+      if (existing) { if (!quote.hasAttribute('data-quote-request')) existing.quantity = Math.min(9999, existing.quantity + 1); }
       else if (items.length >= 50) { status(config.quoteLimit); return; }
       else { items.push({handle: quote.dataset.productHandle, variant, title: quote.dataset.productTitle, model: quote.dataset.productModel || '', quantity: 1}); }
-      if (writeQuotes(items)) { status(config.quoteAdded); const old = quote.querySelector('[data-quote-feedback]'); if (old) old.remove(); const feedback = document.createElement('span'); feedback.dataset.quoteFeedback = ''; feedback.textContent = config.quoteAdded; feedback.className = 'sr-only'; quote.append(feedback); }
+      if (writeQuotes(items)) {
+        if (quote.hasAttribute('data-quote-request')) { location.assign(quote.href); return; }
+        status(config.quoteAdded);
+        const next = section?.querySelector('[data-quote-next]'); if (next) next.hidden = false;
+      }
       else { location.assign(quote.href); }
     }
     const menu = event.target.closest('.mobile-menu nav a'); if (menu) menu.closest('details').open = false;
@@ -150,7 +154,10 @@
     if (cartBusy || form.closest('[aria-busy="true"]')) return;
     if (!form.checkValidity()) { form.reportValidity(); return; }
     cartBusy = true;
-    const button = form.querySelector('button[name="add"]'); button.disabled = true; button.setAttribute('aria-busy', 'true');
+    const button = event.submitter || form.querySelector('button[name="add"]');
+    const controls = [...form.closest('[data-product-section]').querySelectorAll('button[name="add"]')];
+    const originalDisabled = controls.map(control => control.disabled);
+    controls.forEach(control => { control.disabled = true; control.setAttribute('aria-busy', 'true'); });
     const errorNode = form.querySelector('[data-product-error]'); errorNode.hidden = true;
     const data = new FormData(form); data.set('sections', 'cart-panel'); data.set('sections_url', location.pathname);
     try {
@@ -174,16 +181,22 @@
       errorNode.textContent = error.fromShopify ? error.message : config.error; errorNode.hidden = false;
       // A network failure can happen after a successful add. Don't retry automatically.
       status(errorNode.textContent);
-    } finally { button.disabled = false; button.removeAttribute('aria-busy'); cartBusy = false; }
+    } finally { controls.forEach((control, index) => { control.disabled = originalDisabled[index]; control.removeAttribute('aria-busy'); }); cartBusy = false; }
   });
   const contactSuccess = document.querySelector('[data-contact-success]'); if (contactSuccess) contactSuccess.focus();
   const query = new URLSearchParams(location.search);
   const quoteSummary = document.querySelector('[data-quote-summary]');
+  enhanceProducts(); initializeModels(); renderQuotes();
   if (quoteSummary && !quoteSummary.value && query.has('product')) {
     const handle = query.get('product'); const variant = query.get('variant');
-    if (/^[a-z0-9-]+$/.test(handle) && (!variant || /^\d+$/.test(variant))) quoteSummary.value = `${location.origin}${root}products/${handle}${variant ? `?variant=${variant}` : ''}`;
+    const model = query.get('model')?.slice(0, 200);
+    if (/^[a-z0-9-]+$/.test(handle) && (!variant || /^\d+$/.test(variant))) {
+      quoteSummary.value = `${model ? `${model}\n` : ''}${location.origin}${root}products/${handle}${variant ? `?variant=${variant}` : ''}`;
+      quoteSummary.dataset.generated = 'false';
+    }
   }
-  enhanceProducts(); initializeModels(); renderQuotes();
+  const quoteMessage = document.querySelector('[data-quote-message]');
+  if (quoteMessage && !quoteMessage.value && quoteSummary?.value.trim()) quoteMessage.value = quoteMessage.dataset.defaultMessage;
   window.addEventListener('storage', event => { if (event.key === quoteKey) renderQuotes(); });
   document.addEventListener('shopify:section:load', event => { enhanceProducts(event.target); initializeModels(event.target); renderQuotes(); });
   document.addEventListener('shopify:section:unload', event => { event.target.querySelectorAll('[data-product-section]').forEach(section => activeRequests.get(section)?.abort()); });
