@@ -27,6 +27,11 @@ test('A selected variant beyond Shopify’s variants array remains the submitted
 test('A stale quote-only cart blocks theme checkout',async()=>{
  const data=scope(url,{items:[{key:'quote:one',product:products[0],variant:products[0].variants[0],quantity:1,properties:{},line_level_discount_allocations:[],url:products[0].url}],item_count:1,total_price:0});const html=await renderPage('cart',data);assert.doesNotMatch(html,/name="checkout"/);assert.match(html,/Remove quote-only products/);
 });
+test('Cart surfaces native line errors, minimum/increment rules, and retained optional notes',async()=>{
+ const variant={...buyProduct.variants[0],quantity_rule:{min:5,max:100,increment:5}};
+ const data=scope(url,{items:[{key:'buy:one',product:buyProduct,variant,quantity:5,error_message:'Available quantity changed.',properties:{},line_level_discount_allocations:[],url:buyProduct.url}],item_count:5,total_price:749500,note:'Deliver to project office'});
+ const html=await renderPage('cart',data);assert.match(html,/Available quantity changed/);assert.match(html,/min="5"/);assert.match(html,/step="5"/);assert.match(html,/max="100"/);assert.match(html,/Minimum 5/);assert.match(html,/class="cart-note" open/);assert.match(html,/Deliver to project office/);
+});
 test('Quote forms preserve returned customer input and only confirm a successful Shopify submission',async()=>{
  const data=scope(url);data.page={title:'Project quotation',content:''};data.request.page_type='page';
  let html=await renderPage('page.project-quote',data);assert.doesNotMatch(html,/data-contact-success/);assert.match(html,/Please confirm pricing and availability/);

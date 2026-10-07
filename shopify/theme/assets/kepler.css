@@ -25,3 +25,5 @@ model-viewer{height:450px;max-height:70vh;aspect-ratio:1}
 
 .contact-layout{grid-template-areas:"intro form" "details form";row-gap:0;align-items:start}.contact-intro{grid-area:intro}.contact-form{grid-area:form}.contact-details{grid-area:details;align-self:start}.contact-details address{margin-top:28px}.contact-intro .rte>p:last-child{margin-bottom:0}
 @media(max-width:649px){.contact-layout{grid-template-areas:"intro" "form" "details";row-gap:28px}.contact-intro h1{margin-bottom:20px}.contact-details{border-top:1px solid var(--line);padding-top:22px}.contact-details address{margin-top:0}}
+
+.cart-note{margin-top:24px;border-top:1px solid var(--line);padding-top:10px}.cart-note>summary{min-height:44px;padding-block:10px;font-size:14px}.cart-note textarea{margin-top:8px}.cart-line .caption{font-size:12px;margin-top:8px}

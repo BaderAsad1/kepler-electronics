@@ -2,18 +2,18 @@
   "theme": "Kepler Atelier",
   "version": "1.0.0",
   "package": "shopify/dist/Kepler Atelier-1.0.0.zip",
-  "bytes": 962503,
-  "sha256": "5ae664c89be7cd27be2f9eda72f8196eb8d617b84145d91a9c588206ca118489",
-  "files": 70,
+  "bytes": 964350,
+  "sha256": "9e3c1614606e9c0ac596635a2a7afb9da11edd7ea9721abaf8d19691ed12be23",
+  "files": 72,
   "shopifyCli": "4.8.5",
   "themeCheck": {
-    "configuration": "theme-check:recommended",
+    "configuration": "theme-check:all",
     "errors": 0,
     "warnings": 0
   },
   "localTests": {
-    "nodeTestsPassed": 8,
-    "browserGroupsPassed": 12,
+    "nodeTestsPassed": 9,
+    "browserGroupsPassed": 16,
     "widths": [
       320,
       390,
@@ -29,6 +29,6 @@
   "contactDeliveryVerified": false,
   "themeStoreApproved": false,
   "businessCommercialApprovalPending": true,
-  "zipEntries": 77,
+  "zipEntries": 79,
   "sourceContentsMatch": true
 }

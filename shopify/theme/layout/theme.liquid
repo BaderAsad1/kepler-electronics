@@ -20,5 +20,5 @@
   {% sections 'footer-group' %}
   {% section 'cart-panel' %}
   <div id="KeplerStatus" class="theme-status" role="status" aria-live="polite"></div>
-  <script type="application/json" id="KeplerConfig">{"root":{{ routes.root_url | json }},"cart":{{ routes.cart_url | json }},"added":{{ 'cart.added' | t | json }},"error":{{ 'general.error' | t | json }},"quoteAdded":{{ 'quote.added' | t | json }},"quoteLimit":{{ 'quote.limit' | t | json }},"remove":{{ 'cart.remove' | t | json }},"quantity":{{ 'product.quantity' | t | json }},"empty":{{ 'quote.empty' | t | json }},"storageError":{{ 'quote.storage_error' | t | json }}}</script>
+  <script type="application/json" id="KeplerConfig">{"quoteScript":{{ 'kepler-quote.js' | asset_url | json }},"productScript":{{ 'kepler-product.js' | asset_url | json }},"root":{{ routes.root_url | json }},"cart":{{ routes.cart_url | json }},"added":{{ 'cart.added' | t | json }},"error":{{ 'general.error' | t | json }},"quoteAdded":{{ 'quote.added' | t | json }},"quoteLimit":{{ 'quote.limit' | t | json }},"remove":{{ 'cart.remove' | t | json }},"quantity":{{ 'product.quantity' | t | json }},"empty":{{ 'quote.empty' | t | json }},"storageError":{{ 'quote.storage_error' | t | json }}}</script>
 </body></html>

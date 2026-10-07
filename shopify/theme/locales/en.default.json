@@ -80,7 +80,8 @@
     "shipping_policy": "Shipping policy",
     "payment_methods": "Accepted payment methods",
     "quote_item": "This product requires a quotation.",
-    "blocked": "Remove quote-only products from the shopping bag before checkout. Contact our team for a quotation."
+    "blocked": "Remove quote-only products from the shopping bag before checkout. Contact our team for a quotation.",
+    "quantity_rule": "Minimum {{ min }}. Order in increments of {{ increment }}."
   },
   "quote": {
     "title": "Project quote list",
