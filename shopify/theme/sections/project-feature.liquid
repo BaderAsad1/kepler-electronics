@@ -1,0 +1,65 @@
+<section class="project-feature">{% if section.settings.image != blank %}{{ section.settings.image | image_url: width: 2000 | image_tag: widths: '768, 1200, 1600, 2000', sizes: '100vw', loading: 'lazy', class: 'project-image' }}{% else %}<img class="project-image" src="{{ 'project-reference.webp' | asset_url }}" width="{{ section.settings.default_width }}" height="{{ section.settings.default_height }}" alt="{{ section.settings.heading | escape }} — {{ 'images.reference' | t }}" loading="lazy">{% endif %}<div class="project-shade"></div><div class="container project-copy"><p class="eyebrow">{{ section.settings.eyebrow | escape }}</p><h2>{{ section.settings.heading | escape }}</h2><p>{{ section.settings.text | escape }}</p><a class="button light" href="{{ section.settings.link | default: settings.contact_page.url | default: '/pages/contact' }}">{{ section.settings.link_label | escape }}{% render 'icon', name: 'diagonal' %}</a><p class="caption">{{ section.settings.credit | escape }}</p></div></section>
+{% schema %}
+{
+  "name": "Project reference",
+  "settings": [
+    {
+      "type": "image_picker",
+      "id": "image",
+      "label": "Image"
+    },
+    {
+      "type": "text",
+      "id": "eyebrow",
+      "label": "Eyebrow",
+      "default": "A KEPLER PROJECT REFERENCE"
+    },
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "Heading",
+      "default": "MAMA SHELTER Hotel – ACCOR"
+    },
+    {
+      "type": "textarea",
+      "id": "text",
+      "label": "Text",
+      "default": "Explore our source-listed project references across hospitality, residential and commercial spaces."
+    },
+    {
+      "type": "url",
+      "id": "link",
+      "label": "Reference page"
+    },
+    {
+      "type": "text",
+      "id": "link_label",
+      "label": "Button label",
+      "default": "Discuss a similar project"
+    },
+    {
+      "type": "text",
+      "id": "credit",
+      "label": "Image credit",
+      "default": "Original project photograph · Source-listed reference"
+    },
+    {
+      "type": "number",
+      "id": "default_width",
+      "label": "Default image width",
+      "default": 1024
+    },
+    {
+      "type": "number",
+      "id": "default_height",
+      "label": "Default image height",
+      "default": 1024
+    }
+  ],
+  "presets": [
+    {
+      "name": "Project reference"
+    }
+  ]
+}
+{% endschema %}

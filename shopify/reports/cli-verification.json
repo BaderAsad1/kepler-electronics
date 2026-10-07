@@ -1,0 +1,43 @@
+{
+  "checkedOn": "2026-10-07",
+  "timezone": "Asia/Dubai",
+  "shopifyCliVersion": "4.8.5",
+  "latestRegistryVersionAtCheck": "4.8.5",
+  "themeCheck": {
+    "status": "passed",
+    "configuration": "theme-check:all",
+    "ruleSuppressions": false,
+    "errors": 0,
+    "warnings": 0,
+    "failLevel": "warning"
+  },
+  "themePackage": {
+    "status": "passed",
+    "package": "shopify/dist/Kepler Atelier-1.0.0.zip",
+    "sourceContentsMatch": true,
+    "sha256": "9e3c1614606e9c0ac596635a2a7afb9da11edd7ea9721abaf8d19691ed12be23"
+  },
+  "themeInfo": {
+    "status": "not_completed",
+    "reason": "A store is required"
+  },
+  "themeDev": {
+    "status": "not_completed",
+    "reason": "A store is required"
+  },
+  "localFixtureVerification": {
+    "nodeTestsPassed": 9,
+    "browserGroupsPassed": 16,
+    "renderer": "LiquidJS with explicit Shopify API fixtures",
+    "shopifyHosted": false
+  },
+  "storeAddressConfigured": false,
+  "hostedRenderingVerified": false,
+  "themeEditorVerified": false,
+  "liveCartVerified": false,
+  "checkoutCompletionVerified": false,
+  "contactDeliveryVerified": false,
+  "themeStoreApproved": false,
+  "conversionUpliftMeasured": false,
+  "nextRequiredVerification": "Connect an authenticated Shopify store and verify the unpublished theme with approved commercial data."
+}

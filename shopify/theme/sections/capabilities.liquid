@@ -1,0 +1,68 @@
+<section class="capabilities" aria-label="{{ section.settings.heading | escape }}"><div class="container">{% for block in section.blocks %}<a href="{{ block.settings.link | default: routes.all_products_collection_url }}" {{ block.shopify_attributes }}>{% render 'icon', name: block.settings.icon %}<span>{{ block.settings.title | escape }}<small>{{ block.settings.subtitle | escape }}</small></span></a>{% endfor %}</div></section>
+{% schema %}
+{
+  "name": "Capabilities",
+  "settings": [
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "Accessible heading",
+      "default": "Technology expertise"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "capability",
+      "name": "Capability",
+      "settings": [
+        {
+          "type": "select",
+          "id": "icon",
+          "label": "Icon",
+          "options": [
+            {
+              "value": "building",
+              "label": "Building"
+            },
+            {
+              "value": "light",
+              "label": "Light"
+            },
+            {
+              "value": "home",
+              "label": "Home"
+            },
+            {
+              "value": "layers",
+              "label": "Layers"
+            }
+          ],
+          "default": "building"
+        },
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Title",
+          "default": "Building management"
+        },
+        {
+          "type": "text",
+          "id": "subtitle",
+          "label": "Subtitle",
+          "default": "Intelligence at every scale"
+        },
+        {
+          "type": "url",
+          "id": "link",
+          "label": "Link"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Capabilities"
+    }
+  ]
+}
+{% endschema %}

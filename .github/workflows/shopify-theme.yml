@@ -1,0 +1,36 @@
+name: Shopify theme validation
+on:
+  push:
+    branches: [main, 'Bader/**']
+    paths: ['shopify/**', '.github/workflows/shopify-theme.yml']
+  pull_request:
+    paths: ['shopify/**', '.github/workflows/shopify-theme.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-24.04
+    defaults:
+      run:
+        working-directory: shopify/tools
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: shopify/tools/package-lock.json
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - run: npm run check
+      - run: npm test
+      - run: npm run package
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        if: always()
+        with:
+          name: kepler-shopify-validation
+          path: |
+            shopify/theme/*.zip
+            shopify/reports/browser-tests.json
+            shopify/reports/screenshots/

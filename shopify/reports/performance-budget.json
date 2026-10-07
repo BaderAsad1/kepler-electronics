@@ -1,0 +1,23 @@
+{
+  "scope": "Theme-owned JavaScript only; not a live Shopify speed or conversion measurement",
+  "globalInitial": {
+    "bytes": 3702,
+    "gzipBytes": 1311
+  },
+  "productModule": "Loads on product pages",
+  "quoteModule": "Loads for project forms or on product quote interaction",
+  "assets": {
+    "kepler.js": {
+      "bytes": 3702,
+      "gzipBytes": 1311
+    },
+    "kepler-product.js": {
+      "bytes": 8489,
+      "gzipBytes": 2647
+    },
+    "kepler-quote.js": {
+      "bytes": 5654,
+      "gzipBytes": 1904
+    }
+  }
+}

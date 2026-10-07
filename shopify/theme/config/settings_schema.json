@@ -1,0 +1,111 @@
+[
+  {
+    "name": "theme_info",
+    "theme_name": "Kepler Atelier",
+    "theme_version": "1.0.0",
+    "theme_author": "Kepler Electronics",
+    "theme_documentation_url": "https://github.com/BaderAsad1/kepler-electronics/blob/main/shopify/README.md",
+    "theme_support_url": "https://kepler-elec.com/contact-us/"
+  },
+  {
+    "name": "Brand and appearance",
+    "settings": [
+      {
+        "type": "image_picker",
+        "id": "logo",
+        "label": "Logo"
+      },
+      {
+        "type": "image_picker",
+        "id": "favicon",
+        "label": "Favicon"
+      },
+      {
+        "type": "color",
+        "id": "color_background",
+        "label": "Background",
+        "default": "#F4F1EB"
+      },
+      {
+        "type": "color",
+        "id": "color_ink",
+        "label": "Text and dark surfaces",
+        "default": "#111315"
+      },
+      {
+        "type": "color",
+        "id": "color_accent",
+        "label": "Accent",
+        "default": "#164B49"
+      },
+      {
+        "type": "select",
+        "id": "heading_style",
+        "label": "Heading font",
+        "options": [
+          {
+            "value": "sans",
+            "label": "Modern sans serif"
+          },
+          {
+            "value": "serif",
+            "label": "Editorial serif"
+          }
+        ],
+        "default": "sans"
+      },
+      {
+        "type": "range",
+        "id": "content_width",
+        "label": "Content width",
+        "min": 1100,
+        "max": 1500,
+        "step": 20,
+        "default": 1320
+      }
+    ]
+  },
+  {
+    "name": "Store and project enquiries",
+    "settings": [
+      {
+        "type": "paragraph",
+        "content": "Enable shopping only after Shopify prices, inventory, taxes, shipping, payments and policies are approved. Only products with kepler.commercial_mode set to buy show purchase controls. Quote products must also be blocked from sale in Shopify Admin."
+      },
+      {
+        "type": "checkbox",
+        "id": "enable_commerce",
+        "label": "Enable approved online shopping",
+        "default": false
+      },
+      {
+        "type": "page",
+        "id": "contact_page",
+        "label": "Contact page"
+      },
+      {
+        "type": "page",
+        "id": "quote_page",
+        "label": "Project quote page"
+      },
+      {
+        "type": "text",
+        "id": "phone",
+        "label": "Phone",
+        "default": "+971 4 324 4835"
+      },
+      {
+        "type": "text",
+        "id": "email",
+        "label": "Email",
+        "default": "sales@kepler-elec.com"
+      },
+      {
+        "type": "textarea",
+        "id": "address",
+        "label": "Address",
+        "default": "Abdullah Ahmad Mohammed Bin Fahad Building 4, Office No. 123, Qusais Industrial 2, Dubai, UAE"
+      }
+    ]
+  }
+]

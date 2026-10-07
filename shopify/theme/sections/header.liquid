@@ -1,0 +1,40 @@
+{% if section.settings.announcement != blank %}<div class="utility"><div class="container"><span>{{ section.settings.announcement | escape }}</span><span>{{ section.settings.location | escape }} · {{ cart.currency.iso_code }}</span></div></div>{% endif %}
+<header class="site-header"><div class="container header-inner">{% render 'brand' %}
+<nav class="desktop-nav" aria-label="{{ 'accessibility.main_nav' | t }}">
+{% if section.settings.menu != blank %}{% for link in section.settings.menu.links %}<div class="nav-item"><a href="{{ link.url }}"{% if link.current %} aria-current="page"{% endif %}>{{ link.title | escape }}</a>{% if link.links != blank %}<details class="nav-submenu"><summary aria-label="{{ 'accessibility.submenu' | t: title: link.title }}">⌄</summary><ul>{% for child in link.links %}<li><a href="{{ child.url }}">{{ child.title | escape }}</a>{% if child.links != blank %}<ul>{% for grandchild in child.links %}<li><a href="{{ grandchild.url }}">{{ grandchild.title | escape }}</a></li>{% endfor %}</ul>{% endif %}</li>{% endfor %}</ul></details>{% endif %}</div>{% endfor %}{% else %}<a href="{{ routes.all_products_collection_url }}">{{ 'general.products' | t }}</a><a href="{{ settings.contact_page.url | default: '/pages/contact' }}">{{ 'general.contact' | t }}</a>{% endif %}</nav>
+<div class="header-actions"><a class="icon-button" href="{{ routes.search_url }}" aria-label="{{ 'search.title' | t }}">{% render 'icon', name: 'search' %}</a>
+{% if shop.customer_accounts_enabled %}<a class="icon-button account-link" href="{{ routes.account_url }}" aria-label="{{ 'general.account' | t }}">{% render 'icon', name: 'account' %}</a>{% endif %}
+<a class="icon-button" href="{{ settings.quote_page.url | default: '/pages/project-quote' }}" aria-label="{{ 'quote.title' | t }}">{% render 'icon', name: 'quote' %}<span class="count" data-quote-count hidden>0</span></a>
+<a class="icon-button" href="{{ routes.cart_url }}" aria-label="{{ 'cart.title' | t }}">{% render 'icon', name: 'bag' %}<span class="count" data-cart-count{% if cart.item_count == 0 %} hidden{% endif %}>{{ cart.item_count }}</span></a>
+<a class="button small header-cta" href="{{ settings.contact_page.url | default: '/pages/contact' }}">{{ 'general.discuss' | t }} {% render 'icon', name: 'diagonal' %}</a>
+<details class="mobile-menu"><summary class="icon-button" aria-label="{{ 'accessibility.main_nav' | t }}"><span aria-hidden="true">☰</span></summary><nav aria-label="{{ 'accessibility.mobile_nav' | t }}">{% if section.settings.menu != blank %}{% for link in section.settings.menu.links %}<a href="{{ link.url }}">{{ link.title | escape }}</a>{% for child in link.links %}<a class="mobile-child" href="{{ child.url }}">{{ child.title | escape }}</a>{% endfor %}{% endfor %}{% else %}<a href="{{ routes.all_products_collection_url }}">{{ 'general.products' | t }}</a>{% endif %}<a href="{{ settings.contact_page.url | default: '/pages/contact' }}">{{ 'general.discuss' | t }}</a></nav></details></div></div></header>
+{% schema %}
+{
+  "name": "Header",
+  "settings": [
+    {
+      "type": "text",
+      "id": "announcement",
+      "label": "Announcement",
+      "default": "Intelligent buildings. Connected living."
+    },
+    {
+      "type": "text",
+      "id": "location",
+      "label": "Location",
+      "default": "Dubai, UAE"
+    },
+    {
+      "type": "link_list",
+      "id": "menu",
+      "label": "Main menu",
+      "default": "main-menu"
+    }
+  ],
+  "enabled_on": {
+    "groups": [
+      "header"
+    ]
+  }
+}
+{% endschema %}

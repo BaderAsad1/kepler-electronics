@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="{{ request.locale.iso_code }}"{% if request.locale.iso_code == 'ar' %} dir="rtl"{% endif %}>
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="{{ settings.color_ink }}">
+  <link rel="canonical" href="{{ canonical_url }}">
+  {% if settings.favicon != blank %}<link rel="icon" href="{{ settings.favicon | image_url: width: 32, height: 32 }}" type="image/png">{% endif %}
+  <title>{{ page_title | escape }}{% if current_tags %} — {{ current_tags | join: ', ' | escape }}{% endif %}{% if current_page != 1 %} — {{ 'general.page' | t: number: current_page }}{% endif %}{% unless page_title contains shop.name %} — {{ shop.name | escape }}{% endunless %}</title>
+  {% if page_description %}<meta name="description" content="{{ page_description | escape }}">{% endif %}
+  {% render 'social-meta' %}
+  {{ content_for_header }}
+  {% style %}:root{--paper:{{ settings.color_background }};--ink:{{ settings.color_ink }};--accent:{{ settings.color_accent }};--heading-font:{% if settings.heading_style == 'serif' %}Georgia,serif{% else %}Arial,Helvetica,sans-serif{% endif %};--content-width:{{ settings.content_width }}px}{% endstyle %}
+  {{ 'kepler.css' | asset_url | stylesheet_tag }}
+  <script src="{{ 'kepler.js' | asset_url }}" defer="defer"></script>
+</head>
+<body class="template-{{ request.page_type | handle }}">
+  <a class="skip-link" href="#MainContent">{{ 'accessibility.skip' | t }}</a>
+  {% sections 'header-group' %}
+  <main id="MainContent" tabindex="-1">{{ content_for_layout }}</main>
+  {% sections 'footer-group' %}
+  {% section 'cart-panel' %}
+  <div id="KeplerStatus" class="theme-status" role="status" aria-live="polite"></div>
+  <script type="application/json" id="KeplerConfig">{"quoteScript":{{ 'kepler-quote.js' | asset_url | json }},"productScript":{{ 'kepler-product.js' | asset_url | json }},"root":{{ routes.root_url | json }},"cart":{{ routes.cart_url | json }},"added":{{ 'cart.added' | t | json }},"error":{{ 'general.error' | t | json }},"quoteAdded":{{ 'quote.added' | t | json }},"quoteLimit":{{ 'quote.limit' | t | json }},"remove":{{ 'cart.remove' | t | json }},"quantity":{{ 'product.quantity' | t | json }},"empty":{{ 'quote.empty' | t | json }},"storageError":{{ 'quote.storage_error' | t | json }}}</script>
+</body></html>

@@ -2106,3 +2106,9 @@ data/tests-*.json
 /data/deployment/*.zip
 
 data/**/*.log
+
+# Shopify tooling dependencies and generated review artifacts.
+shopify/tools/node_modules/
+shopify/theme/*.zip
+shopify/dist/*.zip
+shopify/reports/screenshots/

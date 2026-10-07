@@ -1,0 +1,48 @@
+<section class="section{% if section.settings.dark %} dark{% endif %}"><div class="container rich-layout"><div><p class="eyebrow">{{ section.settings.eyebrow | escape }}</p><h2>{{ section.settings.heading | escape }}</h2></div><div class="rte">{{ section.settings.text }}{% if section.settings.link != blank %}<a class="button{% if section.settings.dark %} light{% endif %}" href="{{ section.settings.link }}">{{ section.settings.link_label | escape }}{% render 'icon', name: 'diagonal' %}</a>{% endif %}</div></div></section>
+{% schema %}
+{
+  "name": "Editorial text",
+  "settings": [
+    {
+      "type": "text",
+      "id": "eyebrow",
+      "label": "Eyebrow",
+      "default": "MAKE THE CONNECTION"
+    },
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "Heading",
+      "default": "From specification to control."
+    },
+    {
+      "type": "richtext",
+      "id": "text",
+      "label": "Text",
+      "default": "<p>Start with what your building needs to do. Explore exact models, source documents and a considered technology pathway.</p>"
+    },
+    {
+      "type": "url",
+      "id": "link",
+      "label": "Link"
+    },
+    {
+      "type": "text",
+      "id": "link_label",
+      "label": "Button label",
+      "default": "Discuss your project"
+    },
+    {
+      "type": "checkbox",
+      "id": "dark",
+      "label": "Dark background",
+      "default": false
+    }
+  ],
+  "presets": [
+    {
+      "name": "Editorial text"
+    }
+  ]
+}
+{% endschema %}

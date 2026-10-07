@@ -1,0 +1,18 @@
+<section class="container section"><div class="page-heading"><p class="eyebrow">{{ 'search.eyebrow' | t }}</p><h1>{{ 'search.title' | t }}</h1><form class="search-form" action="{{ routes.search_url }}" method="get" role="search"><label class="sr-only" for="Search-{{ section.id }}">{{ 'search.label' | t }}</label><input type="search" id="Search-{{ section.id }}" name="q" value="{{ search.terms | escape }}" placeholder="{{ 'search.placeholder' | t }}" required><input type="hidden" name="options[prefix]" value="last"><button class="button" type="submit">{{ 'search.submit' | t }}{% render 'icon', name: 'search' %}</button></form></div>
+{% if search.performed %}{% paginate search.results by section.settings.per_page %}<div class="catalog-layout"><aside><details class="filter-panel" open><summary>{{ 'catalog.filter' | t }}</summary>{% render 'facets', results: search, section_id: section.id %}</details></aside><div><p>{{ 'search.count' | t: count: search.results_count, terms: search.terms }}</p><div class="product-grid">{% for item in search.results %}{% if item.object_type == 'product' %}{% render 'product-card', product: item %}{% else %}<article class="search-card"><p class="eyebrow">{{ item.object_type | escape }}</p><h2><a href="{{ item.url }}">{{ item.title | escape }}</a></h2><p>{{ item.content | strip_html | truncatewords: 25 }}</p></article>{% endif %}{% else %}<div class="empty-state"><h2>{{ 'catalog.empty' | t }}</h2><p>{{ 'search.try' | t }}</p></div>{% endfor %}</div>{% render 'pagination', paginate: paginate %}</div></div>{% endpaginate %}{% endif %}</section>
+{% schema %}
+{
+  "name": "Search",
+  "settings": [
+    {
+      "type": "range",
+      "id": "per_page",
+      "label": "Results per page",
+      "min": 12,
+      "max": 48,
+      "step": 12,
+      "default": 24
+    }
+  ]
+}
+{% endschema %}

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Commercial mode",
+    "namespace": "kepler",
+    "key": "commercial_mode",
+    "type": "single_line_text_field",
+    "ownerType": "PRODUCT",
+    "access": {
+      "storefront": "PUBLIC_READ"
+    },
+    "validations": [
+      {
+        "name": "choices",
+        "value": "[\"quote\",\"buy\"]"
+      }
+    ]
+  },
+  {
+    "name": "source url",
+    "namespace": "kepler",
+    "key": "source_url",
+    "type": "url",
+    "ownerType": "PRODUCT",
+    "access": {
+      "storefront": "PUBLIC_READ"
+    }
+  },
+  {
+    "name": "specifications",
+    "namespace": "kepler",
+    "key": "specifications",
+    "type": "json",
+    "ownerType": "PRODUCT",
+    "access": {
+      "storefront": "PUBLIC_READ"
+    }
+  },
+  {
+    "name": "documents",
+    "namespace": "kepler",
+    "key": "documents",
+    "type": "json",
+    "ownerType": "PRODUCT",
+    "access": {
+      "storefront": "PUBLIC_READ"
+    }
+  },
+  {
+    "name": "review status",
+    "namespace": "kepler",
+    "key": "review_status",
+    "type": "single_line_text_field",
+    "ownerType": "PRODUCT",
+    "access": {
+      "storefront": "PUBLIC_READ"
+    }
+  }
+]
